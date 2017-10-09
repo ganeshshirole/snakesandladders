@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/ganeshshirole/AndroidStudioProjects/AndroidDemo/android_dice_roller/Dice/app/build/intermediates/res/merged/debug/mipmap-ldpi/dice3d_rounded.png",
+        "source": "/Users/ganeshshirole/AndroidStudioProjects/AndroidDemo/android_dice_roller/Dice/app/src/main/res/mipmap-ldpi/dice3d_rounded.png"
+    },
+    {
+        "merged": "/Users/ganeshshirole/Desktop/android_dice_roller/Dice/app/build/intermediates/res/merged/debug/mipmap-ldpi/dice3d_rounded.png",
+        "source": "/Users/ganeshshirole/Desktop/android_dice_roller/Dice/app/src/main/res/mipmap-ldpi/dice3d_rounded.png"
+    },
+    {
+        "merged": "/Users/ganeshshirole/Desktop/android_dice_roller/Dice/app/build/intermediates/res/merged/debug/mipmap-ldpi/dice3d.png",
+        "source": "/Users/ganeshshirole/Desktop/android_dice_roller/Dice/app/src/main/res/mipmap-ldpi/dice3d.png"
+    },
+    {
+        "merged": "/Users/ganeshshirole/AndroidStudioProjects/Dice/app/build/intermediates/res/merged/debug/mipmap-ldpi/dice3d_rounded.png",
+        "source": "/Users/ganeshshirole/AndroidStudioProjects/Dice/app/src/main/res/mipmap-ldpi/dice3d_rounded.png"
+    },
+    {
+        "merged": "/Users/ganeshshirole/AndroidStudioProjects/Dice/app/build/intermediates/res/merged/debug/mipmap-ldpi/dice3d.png",
+        "source": "/Users/ganeshshirole/AndroidStudioProjects/Dice/app/src/main/res/mipmap-ldpi/dice3d.png"
+    },
+    {
+        "merged": "/Users/ganeshshirole/AndroidStudioProjects/AndroidDemo/android_dice_roller/Dice/app/build/intermediates/res/merged/debug/mipmap-ldpi/dice3d.png",
+        "source": "/Users/ganeshshirole/AndroidStudioProjects/AndroidDemo/android_dice_roller/Dice/app/src/main/res/mipmap-ldpi/dice3d.png"
+    }
+]

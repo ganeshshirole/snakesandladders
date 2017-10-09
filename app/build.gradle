@@ -1,0 +1,43 @@
+apply plugin: 'com.android.application'
+
+android {
+
+    signingConfigs {
+        config {
+            keyAlias 'dicekey'
+            keyPassword 'windows10'
+            storeFile file('ngapps')
+            storePassword 'windows10'
+        }
+    }
+
+    compileSdkVersion 26
+    buildToolsVersion "26.0.2"
+    defaultConfig {
+        applicationId "com.snakes_ladder.dice"
+        minSdkVersion 15
+        targetSdkVersion 26
+        versionCode 2
+        versionName "1.1 beta"
+        vectorDrawables.useSupportLibrary = true
+        signingConfig signingConfigs.config
+    }
+    buildTypes {
+        release {
+            minifyEnabled true
+            shrinkResources true
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+        debug {
+            signingConfig signingConfigs.config
+        }
+    }
+}
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    compile 'com.android.support:appcompat-v7:26.1.0'
+    compile 'com.android.support.constraint:constraint-layout:1.0.2'
+    compile 'com.android.support:recyclerview-v7:26.1.0'
+    compile 'com.google.code.gson:gson:2.8.2'
+}
