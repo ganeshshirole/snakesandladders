@@ -1,59 +1,7 @@
 [
     {
-        "merged": "/Users/ganeshshirole/Desktop/android_dice_roller/Dice/app/build/intermediates/res/merged/debug/drawable-mdpi/six.png",
-        "source": "/Users/ganeshshirole/Desktop/android_dice_roller/Dice/app/src/main/res/drawable-mdpi/six.png"
-    },
-    {
-        "merged": "/Users/ganeshshirole/Desktop/android_dice_roller/Dice/app/build/intermediates/res/merged/debug/drawable-mdpi/four.png",
-        "source": "/Users/ganeshshirole/Desktop/android_dice_roller/Dice/app/src/main/res/drawable-mdpi/four.png"
-    },
-    {
-        "merged": "/Users/ganeshshirole/AndroidStudioProjects/AndroidDemo/android_dice_roller/Dice/app/build/intermediates/res/merged/debug/drawable-mdpi/three.png",
-        "source": "/Users/ganeshshirole/AndroidStudioProjects/AndroidDemo/android_dice_roller/Dice/app/src/main/res/drawable-mdpi/three.png"
-    },
-    {
-        "merged": "/Users/ganeshshirole/AndroidStudioProjects/AndroidDemo/android_dice_roller/Dice/app/build/intermediates/res/merged/debug/drawable-mdpi/one.png",
-        "source": "/Users/ganeshshirole/AndroidStudioProjects/AndroidDemo/android_dice_roller/Dice/app/src/main/res/drawable-mdpi/one.png"
-    },
-    {
-        "merged": "/Users/ganeshshirole/Desktop/android_dice_roller/Dice/app/build/intermediates/res/merged/debug/drawable-mdpi/five.png",
-        "source": "/Users/ganeshshirole/Desktop/android_dice_roller/Dice/app/src/main/res/drawable-mdpi/five.png"
-    },
-    {
-        "merged": "/Users/ganeshshirole/AndroidStudioProjects/Dice/app/build/intermediates/res/merged/debug/drawable-mdpi/three.png",
-        "source": "/Users/ganeshshirole/AndroidStudioProjects/Dice/app/src/main/res/drawable-mdpi/three.png"
-    },
-    {
-        "merged": "/Users/ganeshshirole/Desktop/android_dice_roller/Dice/app/build/intermediates/res/merged/debug/drawable-mdpi/one.png",
-        "source": "/Users/ganeshshirole/Desktop/android_dice_roller/Dice/app/src/main/res/drawable-mdpi/one.png"
-    },
-    {
-        "merged": "/Users/ganeshshirole/Desktop/android_dice_roller/Dice/app/build/intermediates/res/merged/debug/drawable-mdpi/dice3droll.png",
-        "source": "/Users/ganeshshirole/Desktop/android_dice_roller/Dice/app/src/main/res/drawable-mdpi/dice3droll.png"
-    },
-    {
-        "merged": "/Users/ganeshshirole/AndroidStudioProjects/AndroidDemo/android_dice_roller/Dice/app/build/intermediates/res/merged/debug/drawable-mdpi/dice3droll.png",
-        "source": "/Users/ganeshshirole/AndroidStudioProjects/AndroidDemo/android_dice_roller/Dice/app/src/main/res/drawable-mdpi/dice3droll.png"
-    },
-    {
-        "merged": "/Users/ganeshshirole/AndroidStudioProjects/AndroidDemo/android_dice_roller/Dice/app/build/intermediates/res/merged/debug/drawable-mdpi/two.png",
-        "source": "/Users/ganeshshirole/AndroidStudioProjects/AndroidDemo/android_dice_roller/Dice/app/src/main/res/drawable-mdpi/two.png"
-    },
-    {
-        "merged": "/Users/ganeshshirole/AndroidStudioProjects/Dice/app/build/intermediates/res/merged/debug/drawable-mdpi/two.png",
-        "source": "/Users/ganeshshirole/AndroidStudioProjects/Dice/app/src/main/res/drawable-mdpi/two.png"
-    },
-    {
-        "merged": "/Users/ganeshshirole/AndroidStudioProjects/AndroidDemo/android_dice_roller/Dice/app/build/intermediates/res/merged/debug/drawable-mdpi/four.png",
-        "source": "/Users/ganeshshirole/AndroidStudioProjects/AndroidDemo/android_dice_roller/Dice/app/src/main/res/drawable-mdpi/four.png"
-    },
-    {
         "merged": "/Users/ganeshshirole/AndroidStudioProjects/Dice/app/build/intermediates/res/merged/debug/drawable-mdpi/four.png",
         "source": "/Users/ganeshshirole/AndroidStudioProjects/Dice/app/src/main/res/drawable-mdpi/four.png"
-    },
-    {
-        "merged": "/Users/ganeshshirole/AndroidStudioProjects/AndroidDemo/android_dice_roller/Dice/app/build/intermediates/res/merged/debug/drawable-mdpi/six.png",
-        "source": "/Users/ganeshshirole/AndroidStudioProjects/AndroidDemo/android_dice_roller/Dice/app/src/main/res/drawable-mdpi/six.png"
     },
     {
         "merged": "/Users/ganeshshirole/AndroidStudioProjects/Dice/app/build/intermediates/res/merged/debug/drawable-mdpi/five.png",
@@ -64,35 +12,23 @@
         "source": "/Users/ganeshshirole/AndroidStudioProjects/Dice/app/src/main/res/drawable-mdpi/six.png"
     },
     {
-        "merged": "/Users/ganeshshirole/Desktop/android_dice_roller/Dice/app/build/intermediates/res/merged/debug/drawable-mdpi/dice3d.png",
-        "source": "/Users/ganeshshirole/Desktop/android_dice_roller/Dice/app/src/main/res/drawable-mdpi/dice3d.png"
-    },
-    {
-        "merged": "/Users/ganeshshirole/AndroidStudioProjects/AndroidDemo/android_dice_roller/Dice/app/build/intermediates/res/merged/debug/drawable-mdpi/dice3d.png",
-        "source": "/Users/ganeshshirole/AndroidStudioProjects/AndroidDemo/android_dice_roller/Dice/app/src/main/res/drawable-mdpi/dice3d.png"
+        "merged": "/Users/ganeshshirole/AndroidStudioProjects/Dice/app/build/intermediates/res/merged/debug/drawable-mdpi/three.png",
+        "source": "/Users/ganeshshirole/AndroidStudioProjects/Dice/app/src/main/res/drawable-mdpi/three.png"
     },
     {
         "merged": "/Users/ganeshshirole/AndroidStudioProjects/Dice/app/build/intermediates/res/merged/debug/drawable-mdpi/one.png",
         "source": "/Users/ganeshshirole/AndroidStudioProjects/Dice/app/src/main/res/drawable-mdpi/one.png"
     },
     {
-        "merged": "/Users/ganeshshirole/Desktop/android_dice_roller/Dice/app/build/intermediates/res/merged/debug/drawable-mdpi/two.png",
-        "source": "/Users/ganeshshirole/Desktop/android_dice_roller/Dice/app/src/main/res/drawable-mdpi/two.png"
-    },
-    {
-        "merged": "/Users/ganeshshirole/AndroidStudioProjects/AndroidDemo/android_dice_roller/Dice/app/build/intermediates/res/merged/debug/drawable-mdpi/five.png",
-        "source": "/Users/ganeshshirole/AndroidStudioProjects/AndroidDemo/android_dice_roller/Dice/app/src/main/res/drawable-mdpi/five.png"
-    },
-    {
         "merged": "/Users/ganeshshirole/AndroidStudioProjects/Dice/app/build/intermediates/res/merged/debug/drawable-mdpi/dice3droll.png",
         "source": "/Users/ganeshshirole/AndroidStudioProjects/Dice/app/src/main/res/drawable-mdpi/dice3droll.png"
     },
     {
-        "merged": "/Users/ganeshshirole/Desktop/android_dice_roller/Dice/app/build/intermediates/res/merged/debug/drawable-mdpi/three.png",
-        "source": "/Users/ganeshshirole/Desktop/android_dice_roller/Dice/app/src/main/res/drawable-mdpi/three.png"
-    },
-    {
         "merged": "/Users/ganeshshirole/AndroidStudioProjects/Dice/app/build/intermediates/res/merged/debug/drawable-mdpi/dice3d.png",
         "source": "/Users/ganeshshirole/AndroidStudioProjects/Dice/app/src/main/res/drawable-mdpi/dice3d.png"
+    },
+    {
+        "merged": "/Users/ganeshshirole/AndroidStudioProjects/Dice/app/build/intermediates/res/merged/debug/drawable-mdpi/two.png",
+        "source": "/Users/ganeshshirole/AndroidStudioProjects/Dice/app/src/main/res/drawable-mdpi/two.png"
     }
 ]

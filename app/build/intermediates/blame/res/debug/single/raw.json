@@ -1,14 +1,6 @@
 [
     {
-        "merged": "/Users/ganeshshirole/Desktop/android_dice_roller/Dice/app/build/intermediates/res/merged/debug/raw/shake_dice.mp3",
-        "source": "/Users/ganeshshirole/Desktop/android_dice_roller/Dice/app/src/main/res/raw/shake_dice.mp3"
-    },
-    {
         "merged": "/Users/ganeshshirole/AndroidStudioProjects/Dice/app/build/intermediates/res/merged/debug/raw/shake_dice.mp3",
         "source": "/Users/ganeshshirole/AndroidStudioProjects/Dice/app/src/main/res/raw/shake_dice.mp3"
-    },
-    {
-        "merged": "/Users/ganeshshirole/AndroidStudioProjects/AndroidDemo/android_dice_roller/Dice/app/build/intermediates/res/merged/debug/raw/shake_dice.mp3",
-        "source": "/Users/ganeshshirole/AndroidStudioProjects/AndroidDemo/android_dice_roller/Dice/app/src/main/res/raw/shake_dice.mp3"
     }
 ]
