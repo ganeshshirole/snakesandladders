@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.snakes_ladders_game_background.dice_tile.test">
+    package="com.snakes_ladder.dice.test">
 
     <uses-sdk android:minSdkVersion="15" android:targetSdkVersion="26" />
 
@@ -9,8 +9,8 @@
     </application>
 
     <instrumentation android:name="android.test.InstrumentationTestRunner"
-                     android:targetPackage="com.snakes_ladders_game_background.dice_tile"
+                     android:targetPackage="com.snakes_ladder.dice"
                      android:handleProfiling="false"
                      android:functionalTest="false"
-                     android:label="Tests for com.snakes_ladders_game_background.dice_tile"/>
+                     android:label="Tests for com.snakes_ladder.dice"/>
 </manifest>

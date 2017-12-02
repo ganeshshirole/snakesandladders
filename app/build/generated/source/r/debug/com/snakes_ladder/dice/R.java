@@ -4321,35 +4321,35 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ActionBar_background com.snakes_ladders_game_background.dice_tile:background}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_backgroundSplit com.snakes_ladders_game_background.dice_tile:backgroundSplit}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_backgroundStacked com.snakes_ladders_game_background.dice_tile:backgroundStacked}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetEnd com.snakes_ladders_game_background.dice_tile:contentInsetEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetEndWithActions com.snakes_ladders_game_background.dice_tile:contentInsetEndWithActions}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetLeft com.snakes_ladders_game_background.dice_tile:contentInsetLeft}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetRight com.snakes_ladders_game_background.dice_tile:contentInsetRight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetStart com.snakes_ladders_game_background.dice_tile:contentInsetStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetStartWithNavigation com.snakes_ladders_game_background.dice_tile:contentInsetStartWithNavigation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_customNavigationLayout com.snakes_ladders_game_background.dice_tile:customNavigationLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_displayOptions com.snakes_ladders_game_background.dice_tile:displayOptions}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_divider com.snakes_ladders_game_background.dice_tile:divider}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_elevation com.snakes_ladders_game_background.dice_tile:elevation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_height com.snakes_ladders_game_background.dice_tile:height}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_hideOnContentScroll com.snakes_ladders_game_background.dice_tile:hideOnContentScroll}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_homeAsUpIndicator com.snakes_ladders_game_background.dice_tile:homeAsUpIndicator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_homeLayout com.snakes_ladders_game_background.dice_tile:homeLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_icon com.snakes_ladders_game_background.dice_tile:icon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_indeterminateProgressStyle com.snakes_ladders_game_background.dice_tile:indeterminateProgressStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_itemPadding com.snakes_ladders_game_background.dice_tile:itemPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_logo com.snakes_ladders_game_background.dice_tile:logo}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_navigationMode com.snakes_ladders_game_background.dice_tile:navigationMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_popupTheme com.snakes_ladders_game_background.dice_tile:popupTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_progressBarPadding com.snakes_ladders_game_background.dice_tile:progressBarPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_progressBarStyle com.snakes_ladders_game_background.dice_tile:progressBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_subtitle com.snakes_ladders_game_background.dice_tile:subtitle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_subtitleTextStyle com.snakes_ladders_game_background.dice_tile:subtitleTextStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_title com.snakes_ladders_game_background.dice_tile:title}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_titleTextStyle com.snakes_ladders_game_background.dice_tile:titleTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_background com.snakes_ladder.dice:background}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_backgroundSplit com.snakes_ladder.dice:backgroundSplit}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_backgroundStacked com.snakes_ladder.dice:backgroundStacked}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetEnd com.snakes_ladder.dice:contentInsetEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetEndWithActions com.snakes_ladder.dice:contentInsetEndWithActions}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetLeft com.snakes_ladder.dice:contentInsetLeft}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetRight com.snakes_ladder.dice:contentInsetRight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetStart com.snakes_ladder.dice:contentInsetStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetStartWithNavigation com.snakes_ladder.dice:contentInsetStartWithNavigation}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_customNavigationLayout com.snakes_ladder.dice:customNavigationLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_displayOptions com.snakes_ladder.dice:displayOptions}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_divider com.snakes_ladder.dice:divider}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_elevation com.snakes_ladder.dice:elevation}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_height com.snakes_ladder.dice:height}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_hideOnContentScroll com.snakes_ladder.dice:hideOnContentScroll}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_homeAsUpIndicator com.snakes_ladder.dice:homeAsUpIndicator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_homeLayout com.snakes_ladder.dice:homeLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_icon com.snakes_ladder.dice:icon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_indeterminateProgressStyle com.snakes_ladder.dice:indeterminateProgressStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_itemPadding com.snakes_ladder.dice:itemPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_logo com.snakes_ladder.dice:logo}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_navigationMode com.snakes_ladder.dice:navigationMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_popupTheme com.snakes_ladder.dice:popupTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_progressBarPadding com.snakes_ladder.dice:progressBarPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_progressBarStyle com.snakes_ladder.dice:progressBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_subtitle com.snakes_ladder.dice:subtitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_subtitleTextStyle com.snakes_ladder.dice:subtitleTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_title com.snakes_ladder.dice:title}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_titleTextStyle com.snakes_ladder.dice:titleTextStyle}</code></td><td></td></tr>
      * </table>
      * @see #ActionBar_background
      * @see #ActionBar_backgroundSplit
@@ -4435,7 +4435,7 @@ public final class R {
      */
     public static final int ActionBarLayout_android_layout_gravity=0;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#background}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#background}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4443,11 +4443,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:background
+     * @attr name com.snakes_ladder.dice:background
      */
     public static final int ActionBar_background=0;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#backgroundSplit}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#backgroundSplit}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4458,11 +4458,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:backgroundSplit
+     * @attr name com.snakes_ladder.dice:backgroundSplit
      */
     public static final int ActionBar_backgroundSplit=1;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#backgroundStacked}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#backgroundStacked}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4473,11 +4473,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:backgroundStacked
+     * @attr name com.snakes_ladder.dice:backgroundStacked
      */
     public static final int ActionBar_backgroundStacked=2;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#contentInsetEnd}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#contentInsetEnd}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -4486,11 +4486,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:contentInsetEnd
+     * @attr name com.snakes_ladder.dice:contentInsetEnd
      */
     public static final int ActionBar_contentInsetEnd=3;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#contentInsetEndWithActions}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#contentInsetEndWithActions}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -4499,11 +4499,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:contentInsetEndWithActions
+     * @attr name com.snakes_ladder.dice:contentInsetEndWithActions
      */
     public static final int ActionBar_contentInsetEndWithActions=4;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#contentInsetLeft}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#contentInsetLeft}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -4512,11 +4512,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:contentInsetLeft
+     * @attr name com.snakes_ladder.dice:contentInsetLeft
      */
     public static final int ActionBar_contentInsetLeft=5;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#contentInsetRight}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#contentInsetRight}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -4525,11 +4525,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:contentInsetRight
+     * @attr name com.snakes_ladder.dice:contentInsetRight
      */
     public static final int ActionBar_contentInsetRight=6;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#contentInsetStart}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#contentInsetStart}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -4538,11 +4538,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:contentInsetStart
+     * @attr name com.snakes_ladder.dice:contentInsetStart
      */
     public static final int ActionBar_contentInsetStart=7;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#contentInsetStartWithNavigation}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#contentInsetStartWithNavigation}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -4551,11 +4551,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:contentInsetStartWithNavigation
+     * @attr name com.snakes_ladder.dice:contentInsetStartWithNavigation
      */
     public static final int ActionBar_contentInsetStartWithNavigation=8;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#customNavigationLayout}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#customNavigationLayout}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4563,11 +4563,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:customNavigationLayout
+     * @attr name com.snakes_ladder.dice:customNavigationLayout
      */
     public static final int ActionBar_customNavigationLayout=9;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#displayOptions}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#displayOptions}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -4585,11 +4585,11 @@ public final class R {
      * <tr><td>useLogo</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:displayOptions
+     * @attr name com.snakes_ladder.dice:displayOptions
      */
     public static final int ActionBar_displayOptions=10;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#divider}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#divider}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4597,11 +4597,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:divider
+     * @attr name com.snakes_ladder.dice:divider
      */
     public static final int ActionBar_divider=11;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#elevation}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#elevation}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -4610,11 +4610,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:elevation
+     * @attr name com.snakes_ladder.dice:elevation
      */
     public static final int ActionBar_elevation=12;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#height}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#height}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -4623,21 +4623,21 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:height
+     * @attr name com.snakes_ladder.dice:height
      */
     public static final int ActionBar_height=13;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#hideOnContentScroll}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#hideOnContentScroll}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:hideOnContentScroll
+     * @attr name com.snakes_ladder.dice:hideOnContentScroll
      */
     public static final int ActionBar_hideOnContentScroll=14;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#homeAsUpIndicator}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#homeAsUpIndicator}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4645,11 +4645,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:homeAsUpIndicator
+     * @attr name com.snakes_ladder.dice:homeAsUpIndicator
      */
     public static final int ActionBar_homeAsUpIndicator=15;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#homeLayout}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#homeLayout}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4657,11 +4657,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:homeLayout
+     * @attr name com.snakes_ladder.dice:homeLayout
      */
     public static final int ActionBar_homeLayout=16;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#icon}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#icon}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4669,11 +4669,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:icon
+     * @attr name com.snakes_ladder.dice:icon
      */
     public static final int ActionBar_icon=17;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#indeterminateProgressStyle}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#indeterminateProgressStyle}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4681,11 +4681,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:indeterminateProgressStyle
+     * @attr name com.snakes_ladder.dice:indeterminateProgressStyle
      */
     public static final int ActionBar_indeterminateProgressStyle=18;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#itemPadding}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#itemPadding}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -4694,11 +4694,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:itemPadding
+     * @attr name com.snakes_ladder.dice:itemPadding
      */
     public static final int ActionBar_itemPadding=19;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#logo}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#logo}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4706,11 +4706,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:logo
+     * @attr name com.snakes_ladder.dice:logo
      */
     public static final int ActionBar_logo=20;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#navigationMode}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#navigationMode}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -4724,11 +4724,11 @@ public final class R {
      * <tr><td>tabMode</td><td>2</td><td></td></tr>
      * </table>
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:navigationMode
+     * @attr name com.snakes_ladder.dice:navigationMode
      */
     public static final int ActionBar_navigationMode=21;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#popupTheme}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#popupTheme}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4736,11 +4736,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:popupTheme
+     * @attr name com.snakes_ladder.dice:popupTheme
      */
     public static final int ActionBar_popupTheme=22;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#progressBarPadding}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#progressBarPadding}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -4749,11 +4749,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:progressBarPadding
+     * @attr name com.snakes_ladder.dice:progressBarPadding
      */
     public static final int ActionBar_progressBarPadding=23;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#progressBarStyle}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#progressBarStyle}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4761,21 +4761,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:progressBarStyle
+     * @attr name com.snakes_ladder.dice:progressBarStyle
      */
     public static final int ActionBar_progressBarStyle=24;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#subtitle}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#subtitle}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:subtitle
+     * @attr name com.snakes_ladder.dice:subtitle
      */
     public static final int ActionBar_subtitle=25;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#subtitleTextStyle}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#subtitleTextStyle}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4783,21 +4783,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:subtitleTextStyle
+     * @attr name com.snakes_ladder.dice:subtitleTextStyle
      */
     public static final int ActionBar_subtitleTextStyle=26;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#title}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#title}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:title
+     * @attr name com.snakes_ladder.dice:title
      */
     public static final int ActionBar_title=27;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#titleTextStyle}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#titleTextStyle}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4805,7 +4805,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:titleTextStyle
+     * @attr name com.snakes_ladder.dice:titleTextStyle
      */
     public static final int ActionBar_titleTextStyle=28;
     /**
@@ -4844,12 +4844,12 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ActionMode_background com.snakes_ladders_game_background.dice_tile:background}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionMode_backgroundSplit com.snakes_ladders_game_background.dice_tile:backgroundSplit}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionMode_closeItemLayout com.snakes_ladders_game_background.dice_tile:closeItemLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionMode_height com.snakes_ladders_game_background.dice_tile:height}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionMode_subtitleTextStyle com.snakes_ladders_game_background.dice_tile:subtitleTextStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionMode_titleTextStyle com.snakes_ladders_game_background.dice_tile:titleTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_background com.snakes_ladder.dice:background}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_backgroundSplit com.snakes_ladder.dice:backgroundSplit}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_closeItemLayout com.snakes_ladder.dice:closeItemLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_height com.snakes_ladder.dice:height}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_subtitleTextStyle com.snakes_ladder.dice:subtitleTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_titleTextStyle com.snakes_ladder.dice:titleTextStyle}</code></td><td></td></tr>
      * </table>
      * @see #ActionMode_background
      * @see #ActionMode_backgroundSplit
@@ -4863,7 +4863,7 @@ public final class R {
         0x7f030145, 0x7f03017b
       };
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#background}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#background}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4871,11 +4871,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:background
+     * @attr name com.snakes_ladder.dice:background
      */
     public static final int ActionMode_background=0;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#backgroundSplit}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#backgroundSplit}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4886,11 +4886,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:backgroundSplit
+     * @attr name com.snakes_ladder.dice:backgroundSplit
      */
     public static final int ActionMode_backgroundSplit=1;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#closeItemLayout}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#closeItemLayout}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4898,11 +4898,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:closeItemLayout
+     * @attr name com.snakes_ladder.dice:closeItemLayout
      */
     public static final int ActionMode_closeItemLayout=2;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#height}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#height}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -4911,11 +4911,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:height
+     * @attr name com.snakes_ladder.dice:height
      */
     public static final int ActionMode_height=3;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#subtitleTextStyle}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#subtitleTextStyle}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4923,11 +4923,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:subtitleTextStyle
+     * @attr name com.snakes_ladder.dice:subtitleTextStyle
      */
     public static final int ActionMode_subtitleTextStyle=4;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#titleTextStyle}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#titleTextStyle}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4935,7 +4935,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:titleTextStyle
+     * @attr name com.snakes_ladder.dice:titleTextStyle
      */
     public static final int ActionMode_titleTextStyle=5;
     /**
@@ -4945,8 +4945,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable com.snakes_ladders_game_background.dice_tile:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActivityChooserView_initialActivityCount com.snakes_ladders_game_background.dice_tile:initialActivityCount}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable com.snakes_ladder.dice:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActivityChooserView_initialActivityCount com.snakes_ladder.dice:initialActivityCount}</code></td><td></td></tr>
      * </table>
      * @see #ActivityChooserView_expandActivityOverflowButtonDrawable
      * @see #ActivityChooserView_initialActivityCount
@@ -4955,7 +4955,7 @@ public final class R {
         0x7f03008b, 0x7f0300b5
       };
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#expandActivityOverflowButtonDrawable}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#expandActivityOverflowButtonDrawable}
      * attribute's value can be found in the {@link #ActivityChooserView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4963,17 +4963,17 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:expandActivityOverflowButtonDrawable
+     * @attr name com.snakes_ladder.dice:expandActivityOverflowButtonDrawable
      */
     public static final int ActivityChooserView_expandActivityOverflowButtonDrawable=0;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#initialActivityCount}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#initialActivityCount}
      * attribute's value can be found in the {@link #ActivityChooserView} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:initialActivityCount
+     * @attr name com.snakes_ladder.dice:initialActivityCount
      */
     public static final int ActivityChooserView_initialActivityCount=1;
     /**
@@ -4984,12 +4984,12 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AlertDialog_android_layout android:layout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout com.snakes_ladders_game_background.dice_tile:buttonPanelSideLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_listItemLayout com.snakes_ladders_game_background.dice_tile:listItemLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_listLayout com.snakes_ladders_game_background.dice_tile:listLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout com.snakes_ladders_game_background.dice_tile:multiChoiceItemLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_showTitle com.snakes_ladders_game_background.dice_tile:showTitle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout com.snakes_ladders_game_background.dice_tile:singleChoiceItemLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout com.snakes_ladder.dice:buttonPanelSideLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_listItemLayout com.snakes_ladder.dice:listItemLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_listLayout com.snakes_ladder.dice:listLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout com.snakes_ladder.dice:multiChoiceItemLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_showTitle com.snakes_ladder.dice:showTitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout com.snakes_ladder.dice:singleChoiceItemLayout}</code></td><td></td></tr>
      * </table>
      * @see #AlertDialog_android_layout
      * @see #AlertDialog_buttonPanelSideLayout
@@ -5016,7 +5016,7 @@ public final class R {
      */
     public static final int AlertDialog_android_layout=0;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#buttonPanelSideLayout}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#buttonPanelSideLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5024,11 +5024,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:buttonPanelSideLayout
+     * @attr name com.snakes_ladder.dice:buttonPanelSideLayout
      */
     public static final int AlertDialog_buttonPanelSideLayout=1;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#listItemLayout}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#listItemLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5036,11 +5036,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:listItemLayout
+     * @attr name com.snakes_ladder.dice:listItemLayout
      */
     public static final int AlertDialog_listItemLayout=2;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#listLayout}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#listLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5048,11 +5048,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:listLayout
+     * @attr name com.snakes_ladder.dice:listLayout
      */
     public static final int AlertDialog_listLayout=3;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#multiChoiceItemLayout}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#multiChoiceItemLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5060,21 +5060,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:multiChoiceItemLayout
+     * @attr name com.snakes_ladder.dice:multiChoiceItemLayout
      */
     public static final int AlertDialog_multiChoiceItemLayout=4;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#showTitle}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#showTitle}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:showTitle
+     * @attr name com.snakes_ladder.dice:showTitle
      */
     public static final int AlertDialog_showTitle=5;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#singleChoiceItemLayout}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#singleChoiceItemLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5082,7 +5082,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:singleChoiceItemLayout
+     * @attr name com.snakes_ladder.dice:singleChoiceItemLayout
      */
     public static final int AlertDialog_singleChoiceItemLayout=6;
     /**
@@ -5095,8 +5095,8 @@ public final class R {
      * <tr><td><code>{@link #AppBarLayout_android_background android:background}</code></td><td></td></tr>
      * <tr><td><code>{@link #AppBarLayout_android_touchscreenBlocksFocus android:touchscreenBlocksFocus}</code></td><td></td></tr>
      * <tr><td><code>{@link #AppBarLayout_android_keyboardNavigationCluster android:keyboardNavigationCluster}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppBarLayout_elevation com.snakes_ladders_game_background.dice_tile:elevation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppBarLayout_expanded com.snakes_ladders_game_background.dice_tile:expanded}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppBarLayout_elevation com.snakes_ladder.dice:elevation}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppBarLayout_expanded com.snakes_ladder.dice:expanded}</code></td><td></td></tr>
      * </table>
      * @see #AppBarLayout_android_background
      * @see #AppBarLayout_android_touchscreenBlocksFocus
@@ -5115,8 +5115,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #AppBarLayoutStates_state_collapsed com.snakes_ladders_game_background.dice_tile:state_collapsed}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppBarLayoutStates_state_collapsible com.snakes_ladders_game_background.dice_tile:state_collapsible}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppBarLayoutStates_state_collapsed com.snakes_ladder.dice:state_collapsed}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppBarLayoutStates_state_collapsible com.snakes_ladder.dice:state_collapsible}</code></td><td></td></tr>
      * </table>
      * @see #AppBarLayoutStates_state_collapsed
      * @see #AppBarLayoutStates_state_collapsible
@@ -5125,23 +5125,23 @@ public final class R {
         0x7f03013c, 0x7f03013d
       };
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#state_collapsed}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#state_collapsed}
      * attribute's value can be found in the {@link #AppBarLayoutStates} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:state_collapsed
+     * @attr name com.snakes_ladder.dice:state_collapsed
      */
     public static final int AppBarLayoutStates_state_collapsed=0;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#state_collapsible}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#state_collapsible}
      * attribute's value can be found in the {@link #AppBarLayoutStates} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:state_collapsible
+     * @attr name com.snakes_ladder.dice:state_collapsible
      */
     public static final int AppBarLayoutStates_state_collapsible=1;
     /**
@@ -5151,8 +5151,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollFlags com.snakes_ladders_game_background.dice_tile:layout_scrollFlags}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollInterpolator com.snakes_ladders_game_background.dice_tile:layout_scrollInterpolator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollFlags com.snakes_ladder.dice:layout_scrollFlags}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollInterpolator com.snakes_ladder.dice:layout_scrollInterpolator}</code></td><td></td></tr>
      * </table>
      * @see #AppBarLayout_Layout_layout_scrollFlags
      * @see #AppBarLayout_Layout_layout_scrollInterpolator
@@ -5161,7 +5161,7 @@ public final class R {
         0x7f0300f3, 0x7f0300f4
       };
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#layout_scrollFlags}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#layout_scrollFlags}
      * attribute's value can be found in the {@link #AppBarLayout_Layout} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -5177,11 +5177,11 @@ public final class R {
      * <tr><td>snap</td><td>10</td><td></td></tr>
      * </table>
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:layout_scrollFlags
+     * @attr name com.snakes_ladder.dice:layout_scrollFlags
      */
     public static final int AppBarLayout_Layout_layout_scrollFlags=0;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#layout_scrollInterpolator}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#layout_scrollInterpolator}
      * attribute's value can be found in the {@link #AppBarLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5189,7 +5189,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:layout_scrollInterpolator
+     * @attr name com.snakes_ladder.dice:layout_scrollInterpolator
      */
     public static final int AppBarLayout_Layout_layout_scrollInterpolator=1;
     /**
@@ -5228,7 +5228,7 @@ public final class R {
      */
     public static final int AppBarLayout_android_touchscreenBlocksFocus=1;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#elevation}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#elevation}
      * attribute's value can be found in the {@link #AppBarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5237,17 +5237,17 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:elevation
+     * @attr name com.snakes_ladder.dice:elevation
      */
     public static final int AppBarLayout_elevation=3;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#expanded}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#expanded}
      * attribute's value can be found in the {@link #AppBarLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:expanded
+     * @attr name com.snakes_ladder.dice:expanded
      */
     public static final int AppBarLayout_expanded=4;
     /**
@@ -5258,9 +5258,9 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AppCompatImageView_android_src android:src}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatImageView_srcCompat com.snakes_ladders_game_background.dice_tile:srcCompat}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatImageView_tint com.snakes_ladders_game_background.dice_tile:tint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatImageView_tintMode com.snakes_ladders_game_background.dice_tile:tintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatImageView_srcCompat com.snakes_ladder.dice:srcCompat}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatImageView_tint com.snakes_ladder.dice:tint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatImageView_tintMode com.snakes_ladder.dice:tintMode}</code></td><td></td></tr>
      * </table>
      * @see #AppCompatImageView_android_src
      * @see #AppCompatImageView_srcCompat
@@ -5286,7 +5286,7 @@ public final class R {
      */
     public static final int AppCompatImageView_android_src=0;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#srcCompat}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#srcCompat}
      * attribute's value can be found in the {@link #AppCompatImageView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5294,22 +5294,22 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:srcCompat
+     * @attr name com.snakes_ladder.dice:srcCompat
      */
     public static final int AppCompatImageView_srcCompat=1;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#tint}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#tint}
      * attribute's value can be found in the {@link #AppCompatImageView} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:tint
+     * @attr name com.snakes_ladder.dice:tint
      */
     public static final int AppCompatImageView_tint=2;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#tintMode}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#tintMode}
      * attribute's value can be found in the {@link #AppCompatImageView} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -5325,7 +5325,7 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:tintMode
+     * @attr name com.snakes_ladder.dice:tintMode
      */
     public static final int AppCompatImageView_tintMode=3;
     /**
@@ -5336,9 +5336,9 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AppCompatSeekBar_android_thumb android:thumb}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatSeekBar_tickMark com.snakes_ladders_game_background.dice_tile:tickMark}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatSeekBar_tickMarkTint com.snakes_ladders_game_background.dice_tile:tickMarkTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatSeekBar_tickMarkTintMode com.snakes_ladders_game_background.dice_tile:tickMarkTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatSeekBar_tickMark com.snakes_ladder.dice:tickMark}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatSeekBar_tickMarkTint com.snakes_ladder.dice:tickMarkTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatSeekBar_tickMarkTintMode com.snakes_ladder.dice:tickMarkTintMode}</code></td><td></td></tr>
      * </table>
      * @see #AppCompatSeekBar_android_thumb
      * @see #AppCompatSeekBar_tickMark
@@ -5361,7 +5361,7 @@ public final class R {
      */
     public static final int AppCompatSeekBar_android_thumb=0;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#tickMark}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#tickMark}
      * attribute's value can be found in the {@link #AppCompatSeekBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5369,22 +5369,22 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:tickMark
+     * @attr name com.snakes_ladder.dice:tickMark
      */
     public static final int AppCompatSeekBar_tickMark=1;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#tickMarkTint}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#tickMarkTint}
      * attribute's value can be found in the {@link #AppCompatSeekBar} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:tickMarkTint
+     * @attr name com.snakes_ladder.dice:tickMarkTint
      */
     public static final int AppCompatSeekBar_tickMarkTint=2;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#tickMarkTintMode}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#tickMarkTintMode}
      * attribute's value can be found in the {@link #AppCompatSeekBar} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -5401,7 +5401,7 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:tickMarkTintMode
+     * @attr name com.snakes_ladder.dice:tickMarkTintMode
      */
     public static final int AppCompatSeekBar_tickMarkTintMode=3;
     /**
@@ -5541,13 +5541,13 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AppCompatTextView_android_textAppearance android:textAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizeMaxTextSize com.snakes_ladders_game_background.dice_tile:autoSizeMaxTextSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizeMinTextSize com.snakes_ladders_game_background.dice_tile:autoSizeMinTextSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizePresetSizes com.snakes_ladders_game_background.dice_tile:autoSizePresetSizes}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizeStepGranularity com.snakes_ladders_game_background.dice_tile:autoSizeStepGranularity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizeTextType com.snakes_ladders_game_background.dice_tile:autoSizeTextType}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_fontFamily com.snakes_ladders_game_background.dice_tile:fontFamily}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_textAllCaps com.snakes_ladders_game_background.dice_tile:textAllCaps}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_autoSizeMaxTextSize com.snakes_ladder.dice:autoSizeMaxTextSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_autoSizeMinTextSize com.snakes_ladder.dice:autoSizeMinTextSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_autoSizePresetSizes com.snakes_ladder.dice:autoSizePresetSizes}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_autoSizeStepGranularity com.snakes_ladder.dice:autoSizeStepGranularity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_autoSizeTextType com.snakes_ladder.dice:autoSizeTextType}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_fontFamily com.snakes_ladder.dice:fontFamily}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_textAllCaps com.snakes_ladder.dice:textAllCaps}</code></td><td></td></tr>
      * </table>
      * @see #AppCompatTextView_android_textAppearance
      * @see #AppCompatTextView_autoSizeMaxTextSize
@@ -5575,7 +5575,7 @@ public final class R {
      */
     public static final int AppCompatTextView_android_textAppearance=0;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#autoSizeMaxTextSize}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#autoSizeMaxTextSize}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5584,11 +5584,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:autoSizeMaxTextSize
+     * @attr name com.snakes_ladder.dice:autoSizeMaxTextSize
      */
     public static final int AppCompatTextView_autoSizeMaxTextSize=1;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#autoSizeMinTextSize}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#autoSizeMinTextSize}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5597,11 +5597,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:autoSizeMinTextSize
+     * @attr name com.snakes_ladder.dice:autoSizeMinTextSize
      */
     public static final int AppCompatTextView_autoSizeMinTextSize=2;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#autoSizePresetSizes}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#autoSizePresetSizes}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5609,11 +5609,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:autoSizePresetSizes
+     * @attr name com.snakes_ladder.dice:autoSizePresetSizes
      */
     public static final int AppCompatTextView_autoSizePresetSizes=3;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#autoSizeStepGranularity}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#autoSizeStepGranularity}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5622,11 +5622,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:autoSizeStepGranularity
+     * @attr name com.snakes_ladder.dice:autoSizeStepGranularity
      */
     public static final int AppCompatTextView_autoSizeStepGranularity=4;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#autoSizeTextType}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#autoSizeTextType}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -5639,21 +5639,21 @@ public final class R {
      * <tr><td>uniform</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:autoSizeTextType
+     * @attr name com.snakes_ladder.dice:autoSizeTextType
      */
     public static final int AppCompatTextView_autoSizeTextType=5;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#fontFamily}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#fontFamily}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:fontFamily
+     * @attr name com.snakes_ladder.dice:fontFamily
      */
     public static final int AppCompatTextView_fontFamily=6;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#textAllCaps}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#textAllCaps}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5663,7 +5663,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:textAllCaps
+     * @attr name com.snakes_ladder.dice:textAllCaps
      */
     public static final int AppCompatTextView_textAllCaps=7;
     /**
@@ -5675,123 +5675,123 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AppCompatTheme_android_windowIsFloating android:windowIsFloating}</code></td><td></td></tr>
      * <tr><td><code>{@link #AppCompatTheme_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarDivider com.snakes_ladders_game_background.dice_tile:actionBarDivider}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarItemBackground com.snakes_ladders_game_background.dice_tile:actionBarItemBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarPopupTheme com.snakes_ladders_game_background.dice_tile:actionBarPopupTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarSize com.snakes_ladders_game_background.dice_tile:actionBarSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarSplitStyle com.snakes_ladders_game_background.dice_tile:actionBarSplitStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarStyle com.snakes_ladders_game_background.dice_tile:actionBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarTabBarStyle com.snakes_ladders_game_background.dice_tile:actionBarTabBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarTabStyle com.snakes_ladders_game_background.dice_tile:actionBarTabStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarTabTextStyle com.snakes_ladders_game_background.dice_tile:actionBarTabTextStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarTheme com.snakes_ladders_game_background.dice_tile:actionBarTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarWidgetTheme com.snakes_ladders_game_background.dice_tile:actionBarWidgetTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionButtonStyle com.snakes_ladders_game_background.dice_tile:actionButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionDropDownStyle com.snakes_ladders_game_background.dice_tile:actionDropDownStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionMenuTextAppearance com.snakes_ladders_game_background.dice_tile:actionMenuTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionMenuTextColor com.snakes_ladders_game_background.dice_tile:actionMenuTextColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeBackground com.snakes_ladders_game_background.dice_tile:actionModeBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeCloseButtonStyle com.snakes_ladders_game_background.dice_tile:actionModeCloseButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeCloseDrawable com.snakes_ladders_game_background.dice_tile:actionModeCloseDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeCopyDrawable com.snakes_ladders_game_background.dice_tile:actionModeCopyDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeCutDrawable com.snakes_ladders_game_background.dice_tile:actionModeCutDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeFindDrawable com.snakes_ladders_game_background.dice_tile:actionModeFindDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModePasteDrawable com.snakes_ladders_game_background.dice_tile:actionModePasteDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModePopupWindowStyle com.snakes_ladders_game_background.dice_tile:actionModePopupWindowStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeSelectAllDrawable com.snakes_ladders_game_background.dice_tile:actionModeSelectAllDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeShareDrawable com.snakes_ladders_game_background.dice_tile:actionModeShareDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeSplitBackground com.snakes_ladders_game_background.dice_tile:actionModeSplitBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeStyle com.snakes_ladders_game_background.dice_tile:actionModeStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeWebSearchDrawable com.snakes_ladders_game_background.dice_tile:actionModeWebSearchDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionOverflowButtonStyle com.snakes_ladders_game_background.dice_tile:actionOverflowButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionOverflowMenuStyle com.snakes_ladders_game_background.dice_tile:actionOverflowMenuStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_activityChooserViewStyle com.snakes_ladders_game_background.dice_tile:activityChooserViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_alertDialogButtonGroupStyle com.snakes_ladders_game_background.dice_tile:alertDialogButtonGroupStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_alertDialogCenterButtons com.snakes_ladders_game_background.dice_tile:alertDialogCenterButtons}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_alertDialogStyle com.snakes_ladders_game_background.dice_tile:alertDialogStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_alertDialogTheme com.snakes_ladders_game_background.dice_tile:alertDialogTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_autoCompleteTextViewStyle com.snakes_ladders_game_background.dice_tile:autoCompleteTextViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_borderlessButtonStyle com.snakes_ladders_game_background.dice_tile:borderlessButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarButtonStyle com.snakes_ladders_game_background.dice_tile:buttonBarButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarNegativeButtonStyle com.snakes_ladders_game_background.dice_tile:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarNeutralButtonStyle com.snakes_ladders_game_background.dice_tile:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarPositiveButtonStyle com.snakes_ladders_game_background.dice_tile:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarStyle com.snakes_ladders_game_background.dice_tile:buttonBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonStyle com.snakes_ladders_game_background.dice_tile:buttonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonStyleSmall com.snakes_ladders_game_background.dice_tile:buttonStyleSmall}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_checkboxStyle com.snakes_ladders_game_background.dice_tile:checkboxStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_checkedTextViewStyle com.snakes_ladders_game_background.dice_tile:checkedTextViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorAccent com.snakes_ladders_game_background.dice_tile:colorAccent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorBackgroundFloating com.snakes_ladders_game_background.dice_tile:colorBackgroundFloating}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorButtonNormal com.snakes_ladders_game_background.dice_tile:colorButtonNormal}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorControlActivated com.snakes_ladders_game_background.dice_tile:colorControlActivated}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorControlHighlight com.snakes_ladders_game_background.dice_tile:colorControlHighlight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorControlNormal com.snakes_ladders_game_background.dice_tile:colorControlNormal}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorError com.snakes_ladders_game_background.dice_tile:colorError}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorPrimary com.snakes_ladders_game_background.dice_tile:colorPrimary}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorPrimaryDark com.snakes_ladders_game_background.dice_tile:colorPrimaryDark}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorSwitchThumbNormal com.snakes_ladders_game_background.dice_tile:colorSwitchThumbNormal}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_controlBackground com.snakes_ladders_game_background.dice_tile:controlBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dialogPreferredPadding com.snakes_ladders_game_background.dice_tile:dialogPreferredPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dialogTheme com.snakes_ladders_game_background.dice_tile:dialogTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dividerHorizontal com.snakes_ladders_game_background.dice_tile:dividerHorizontal}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dividerVertical com.snakes_ladders_game_background.dice_tile:dividerVertical}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dropDownListViewStyle com.snakes_ladders_game_background.dice_tile:dropDownListViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dropdownListPreferredItemHeight com.snakes_ladders_game_background.dice_tile:dropdownListPreferredItemHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_editTextBackground com.snakes_ladders_game_background.dice_tile:editTextBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_editTextColor com.snakes_ladders_game_background.dice_tile:editTextColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_editTextStyle com.snakes_ladders_game_background.dice_tile:editTextStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_homeAsUpIndicator com.snakes_ladders_game_background.dice_tile:homeAsUpIndicator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_imageButtonStyle com.snakes_ladders_game_background.dice_tile:imageButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listChoiceBackgroundIndicator com.snakes_ladders_game_background.dice_tile:listChoiceBackgroundIndicator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listDividerAlertDialog com.snakes_ladders_game_background.dice_tile:listDividerAlertDialog}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listMenuViewStyle com.snakes_ladders_game_background.dice_tile:listMenuViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPopupWindowStyle com.snakes_ladders_game_background.dice_tile:listPopupWindowStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeight com.snakes_ladders_game_background.dice_tile:listPreferredItemHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightLarge com.snakes_ladders_game_background.dice_tile:listPreferredItemHeightLarge}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightSmall com.snakes_ladders_game_background.dice_tile:listPreferredItemHeightSmall}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingLeft com.snakes_ladders_game_background.dice_tile:listPreferredItemPaddingLeft}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingRight com.snakes_ladders_game_background.dice_tile:listPreferredItemPaddingRight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_panelBackground com.snakes_ladders_game_background.dice_tile:panelBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_panelMenuListTheme com.snakes_ladders_game_background.dice_tile:panelMenuListTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_panelMenuListWidth com.snakes_ladders_game_background.dice_tile:panelMenuListWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_popupMenuStyle com.snakes_ladders_game_background.dice_tile:popupMenuStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_popupWindowStyle com.snakes_ladders_game_background.dice_tile:popupWindowStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_radioButtonStyle com.snakes_ladders_game_background.dice_tile:radioButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyle com.snakes_ladders_game_background.dice_tile:ratingBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyleIndicator com.snakes_ladders_game_background.dice_tile:ratingBarStyleIndicator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyleSmall com.snakes_ladders_game_background.dice_tile:ratingBarStyleSmall}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_searchViewStyle com.snakes_ladders_game_background.dice_tile:searchViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_seekBarStyle com.snakes_ladders_game_background.dice_tile:seekBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_selectableItemBackground com.snakes_ladders_game_background.dice_tile:selectableItemBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_selectableItemBackgroundBorderless com.snakes_ladders_game_background.dice_tile:selectableItemBackgroundBorderless}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_spinnerDropDownItemStyle com.snakes_ladders_game_background.dice_tile:spinnerDropDownItemStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_spinnerStyle com.snakes_ladders_game_background.dice_tile:spinnerStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_switchStyle com.snakes_ladders_game_background.dice_tile:switchStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceLargePopupMenu com.snakes_ladders_game_background.dice_tile:textAppearanceLargePopupMenu}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItem com.snakes_ladders_game_background.dice_tile:textAppearanceListItem}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSecondary com.snakes_ladders_game_background.dice_tile:textAppearanceListItemSecondary}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSmall com.snakes_ladders_game_background.dice_tile:textAppearanceListItemSmall}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearancePopupMenuHeader com.snakes_ladders_game_background.dice_tile:textAppearancePopupMenuHeader}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultSubtitle com.snakes_ladders_game_background.dice_tile:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultTitle com.snakes_ladders_game_background.dice_tile:textAppearanceSearchResultTitle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSmallPopupMenu com.snakes_ladders_game_background.dice_tile:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textColorAlertDialogListItem com.snakes_ladders_game_background.dice_tile:textColorAlertDialogListItem}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textColorSearchUrl com.snakes_ladders_game_background.dice_tile:textColorSearchUrl}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_toolbarNavigationButtonStyle com.snakes_ladders_game_background.dice_tile:toolbarNavigationButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_toolbarStyle com.snakes_ladders_game_background.dice_tile:toolbarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_tooltipForegroundColor com.snakes_ladders_game_background.dice_tile:tooltipForegroundColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_tooltipFrameBackground com.snakes_ladders_game_background.dice_tile:tooltipFrameBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowActionBar com.snakes_ladders_game_background.dice_tile:windowActionBar}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowActionBarOverlay com.snakes_ladders_game_background.dice_tile:windowActionBarOverlay}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowActionModeOverlay com.snakes_ladders_game_background.dice_tile:windowActionModeOverlay}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMajor com.snakes_ladders_game_background.dice_tile:windowFixedHeightMajor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMinor com.snakes_ladders_game_background.dice_tile:windowFixedHeightMinor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMajor com.snakes_ladders_game_background.dice_tile:windowFixedWidthMajor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMinor com.snakes_ladders_game_background.dice_tile:windowFixedWidthMinor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowMinWidthMajor com.snakes_ladders_game_background.dice_tile:windowMinWidthMajor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowMinWidthMinor com.snakes_ladders_game_background.dice_tile:windowMinWidthMinor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowNoTitle com.snakes_ladders_game_background.dice_tile:windowNoTitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarDivider com.snakes_ladder.dice:actionBarDivider}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarItemBackground com.snakes_ladder.dice:actionBarItemBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarPopupTheme com.snakes_ladder.dice:actionBarPopupTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarSize com.snakes_ladder.dice:actionBarSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarSplitStyle com.snakes_ladder.dice:actionBarSplitStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarStyle com.snakes_ladder.dice:actionBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarTabBarStyle com.snakes_ladder.dice:actionBarTabBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarTabStyle com.snakes_ladder.dice:actionBarTabStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarTabTextStyle com.snakes_ladder.dice:actionBarTabTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarTheme com.snakes_ladder.dice:actionBarTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarWidgetTheme com.snakes_ladder.dice:actionBarWidgetTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionButtonStyle com.snakes_ladder.dice:actionButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionDropDownStyle com.snakes_ladder.dice:actionDropDownStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionMenuTextAppearance com.snakes_ladder.dice:actionMenuTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionMenuTextColor com.snakes_ladder.dice:actionMenuTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeBackground com.snakes_ladder.dice:actionModeBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeCloseButtonStyle com.snakes_ladder.dice:actionModeCloseButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeCloseDrawable com.snakes_ladder.dice:actionModeCloseDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeCopyDrawable com.snakes_ladder.dice:actionModeCopyDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeCutDrawable com.snakes_ladder.dice:actionModeCutDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeFindDrawable com.snakes_ladder.dice:actionModeFindDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModePasteDrawable com.snakes_ladder.dice:actionModePasteDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModePopupWindowStyle com.snakes_ladder.dice:actionModePopupWindowStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeSelectAllDrawable com.snakes_ladder.dice:actionModeSelectAllDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeShareDrawable com.snakes_ladder.dice:actionModeShareDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeSplitBackground com.snakes_ladder.dice:actionModeSplitBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeStyle com.snakes_ladder.dice:actionModeStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeWebSearchDrawable com.snakes_ladder.dice:actionModeWebSearchDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionOverflowButtonStyle com.snakes_ladder.dice:actionOverflowButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionOverflowMenuStyle com.snakes_ladder.dice:actionOverflowMenuStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_activityChooserViewStyle com.snakes_ladder.dice:activityChooserViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_alertDialogButtonGroupStyle com.snakes_ladder.dice:alertDialogButtonGroupStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_alertDialogCenterButtons com.snakes_ladder.dice:alertDialogCenterButtons}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_alertDialogStyle com.snakes_ladder.dice:alertDialogStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_alertDialogTheme com.snakes_ladder.dice:alertDialogTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_autoCompleteTextViewStyle com.snakes_ladder.dice:autoCompleteTextViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_borderlessButtonStyle com.snakes_ladder.dice:borderlessButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarButtonStyle com.snakes_ladder.dice:buttonBarButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarNegativeButtonStyle com.snakes_ladder.dice:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarNeutralButtonStyle com.snakes_ladder.dice:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarPositiveButtonStyle com.snakes_ladder.dice:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarStyle com.snakes_ladder.dice:buttonBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonStyle com.snakes_ladder.dice:buttonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonStyleSmall com.snakes_ladder.dice:buttonStyleSmall}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_checkboxStyle com.snakes_ladder.dice:checkboxStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_checkedTextViewStyle com.snakes_ladder.dice:checkedTextViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorAccent com.snakes_ladder.dice:colorAccent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorBackgroundFloating com.snakes_ladder.dice:colorBackgroundFloating}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorButtonNormal com.snakes_ladder.dice:colorButtonNormal}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorControlActivated com.snakes_ladder.dice:colorControlActivated}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorControlHighlight com.snakes_ladder.dice:colorControlHighlight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorControlNormal com.snakes_ladder.dice:colorControlNormal}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorError com.snakes_ladder.dice:colorError}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorPrimary com.snakes_ladder.dice:colorPrimary}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorPrimaryDark com.snakes_ladder.dice:colorPrimaryDark}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorSwitchThumbNormal com.snakes_ladder.dice:colorSwitchThumbNormal}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_controlBackground com.snakes_ladder.dice:controlBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dialogPreferredPadding com.snakes_ladder.dice:dialogPreferredPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dialogTheme com.snakes_ladder.dice:dialogTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dividerHorizontal com.snakes_ladder.dice:dividerHorizontal}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dividerVertical com.snakes_ladder.dice:dividerVertical}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dropDownListViewStyle com.snakes_ladder.dice:dropDownListViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dropdownListPreferredItemHeight com.snakes_ladder.dice:dropdownListPreferredItemHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_editTextBackground com.snakes_ladder.dice:editTextBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_editTextColor com.snakes_ladder.dice:editTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_editTextStyle com.snakes_ladder.dice:editTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_homeAsUpIndicator com.snakes_ladder.dice:homeAsUpIndicator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_imageButtonStyle com.snakes_ladder.dice:imageButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listChoiceBackgroundIndicator com.snakes_ladder.dice:listChoiceBackgroundIndicator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listDividerAlertDialog com.snakes_ladder.dice:listDividerAlertDialog}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listMenuViewStyle com.snakes_ladder.dice:listMenuViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPopupWindowStyle com.snakes_ladder.dice:listPopupWindowStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeight com.snakes_ladder.dice:listPreferredItemHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightLarge com.snakes_ladder.dice:listPreferredItemHeightLarge}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightSmall com.snakes_ladder.dice:listPreferredItemHeightSmall}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingLeft com.snakes_ladder.dice:listPreferredItemPaddingLeft}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingRight com.snakes_ladder.dice:listPreferredItemPaddingRight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_panelBackground com.snakes_ladder.dice:panelBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_panelMenuListTheme com.snakes_ladder.dice:panelMenuListTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_panelMenuListWidth com.snakes_ladder.dice:panelMenuListWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_popupMenuStyle com.snakes_ladder.dice:popupMenuStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_popupWindowStyle com.snakes_ladder.dice:popupWindowStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_radioButtonStyle com.snakes_ladder.dice:radioButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyle com.snakes_ladder.dice:ratingBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyleIndicator com.snakes_ladder.dice:ratingBarStyleIndicator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyleSmall com.snakes_ladder.dice:ratingBarStyleSmall}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_searchViewStyle com.snakes_ladder.dice:searchViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_seekBarStyle com.snakes_ladder.dice:seekBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_selectableItemBackground com.snakes_ladder.dice:selectableItemBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_selectableItemBackgroundBorderless com.snakes_ladder.dice:selectableItemBackgroundBorderless}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_spinnerDropDownItemStyle com.snakes_ladder.dice:spinnerDropDownItemStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_spinnerStyle com.snakes_ladder.dice:spinnerStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_switchStyle com.snakes_ladder.dice:switchStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceLargePopupMenu com.snakes_ladder.dice:textAppearanceLargePopupMenu}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItem com.snakes_ladder.dice:textAppearanceListItem}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSecondary com.snakes_ladder.dice:textAppearanceListItemSecondary}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSmall com.snakes_ladder.dice:textAppearanceListItemSmall}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearancePopupMenuHeader com.snakes_ladder.dice:textAppearancePopupMenuHeader}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultSubtitle com.snakes_ladder.dice:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultTitle com.snakes_ladder.dice:textAppearanceSearchResultTitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSmallPopupMenu com.snakes_ladder.dice:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textColorAlertDialogListItem com.snakes_ladder.dice:textColorAlertDialogListItem}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textColorSearchUrl com.snakes_ladder.dice:textColorSearchUrl}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_toolbarNavigationButtonStyle com.snakes_ladder.dice:toolbarNavigationButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_toolbarStyle com.snakes_ladder.dice:toolbarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_tooltipForegroundColor com.snakes_ladder.dice:tooltipForegroundColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_tooltipFrameBackground com.snakes_ladder.dice:tooltipFrameBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowActionBar com.snakes_ladder.dice:windowActionBar}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowActionBarOverlay com.snakes_ladder.dice:windowActionBarOverlay}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowActionModeOverlay com.snakes_ladder.dice:windowActionModeOverlay}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMajor com.snakes_ladder.dice:windowFixedHeightMajor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMinor com.snakes_ladder.dice:windowFixedHeightMinor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMajor com.snakes_ladder.dice:windowFixedWidthMajor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMinor com.snakes_ladder.dice:windowFixedWidthMinor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowMinWidthMajor com.snakes_ladder.dice:windowMinWidthMajor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowMinWidthMinor com.snakes_ladder.dice:windowMinWidthMinor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowNoTitle com.snakes_ladder.dice:windowNoTitle}</code></td><td></td></tr>
      * </table>
      * @see #AppCompatTheme_android_windowIsFloating
      * @see #AppCompatTheme_android_windowAnimationStyle
@@ -5946,7 +5946,7 @@ public final class R {
         0x7f03018e, 0x7f03018f, 0x7f030190
       };
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#actionBarDivider}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#actionBarDivider}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5954,11 +5954,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:actionBarDivider
+     * @attr name com.snakes_ladder.dice:actionBarDivider
      */
     public static final int AppCompatTheme_actionBarDivider=2;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#actionBarItemBackground}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#actionBarItemBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5966,11 +5966,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:actionBarItemBackground
+     * @attr name com.snakes_ladder.dice:actionBarItemBackground
      */
     public static final int AppCompatTheme_actionBarItemBackground=3;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#actionBarPopupTheme}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#actionBarPopupTheme}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5978,11 +5978,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:actionBarPopupTheme
+     * @attr name com.snakes_ladder.dice:actionBarPopupTheme
      */
     public static final int AppCompatTheme_actionBarPopupTheme=4;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#actionBarSize}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#actionBarSize}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5999,11 +5999,11 @@ public final class R {
      * <tr><td>wrap_content</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:actionBarSize
+     * @attr name com.snakes_ladder.dice:actionBarSize
      */
     public static final int AppCompatTheme_actionBarSize=5;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#actionBarSplitStyle}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#actionBarSplitStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6011,11 +6011,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:actionBarSplitStyle
+     * @attr name com.snakes_ladder.dice:actionBarSplitStyle
      */
     public static final int AppCompatTheme_actionBarSplitStyle=6;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#actionBarStyle}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#actionBarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6023,11 +6023,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:actionBarStyle
+     * @attr name com.snakes_ladder.dice:actionBarStyle
      */
     public static final int AppCompatTheme_actionBarStyle=7;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#actionBarTabBarStyle}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#actionBarTabBarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6035,11 +6035,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:actionBarTabBarStyle
+     * @attr name com.snakes_ladder.dice:actionBarTabBarStyle
      */
     public static final int AppCompatTheme_actionBarTabBarStyle=8;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#actionBarTabStyle}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#actionBarTabStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6047,11 +6047,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:actionBarTabStyle
+     * @attr name com.snakes_ladder.dice:actionBarTabStyle
      */
     public static final int AppCompatTheme_actionBarTabStyle=9;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#actionBarTabTextStyle}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#actionBarTabTextStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6059,11 +6059,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:actionBarTabTextStyle
+     * @attr name com.snakes_ladder.dice:actionBarTabTextStyle
      */
     public static final int AppCompatTheme_actionBarTabTextStyle=10;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#actionBarTheme}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#actionBarTheme}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6071,11 +6071,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:actionBarTheme
+     * @attr name com.snakes_ladder.dice:actionBarTheme
      */
     public static final int AppCompatTheme_actionBarTheme=11;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#actionBarWidgetTheme}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#actionBarWidgetTheme}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6083,11 +6083,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:actionBarWidgetTheme
+     * @attr name com.snakes_ladder.dice:actionBarWidgetTheme
      */
     public static final int AppCompatTheme_actionBarWidgetTheme=12;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#actionButtonStyle}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#actionButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6095,11 +6095,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:actionButtonStyle
+     * @attr name com.snakes_ladder.dice:actionButtonStyle
      */
     public static final int AppCompatTheme_actionButtonStyle=13;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#actionDropDownStyle}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#actionDropDownStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6107,11 +6107,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:actionDropDownStyle
+     * @attr name com.snakes_ladder.dice:actionDropDownStyle
      */
     public static final int AppCompatTheme_actionDropDownStyle=14;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#actionMenuTextAppearance}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#actionMenuTextAppearance}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6119,11 +6119,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:actionMenuTextAppearance
+     * @attr name com.snakes_ladder.dice:actionMenuTextAppearance
      */
     public static final int AppCompatTheme_actionMenuTextAppearance=15;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#actionMenuTextColor}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#actionMenuTextColor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6134,11 +6134,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:actionMenuTextColor
+     * @attr name com.snakes_ladder.dice:actionMenuTextColor
      */
     public static final int AppCompatTheme_actionMenuTextColor=16;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#actionModeBackground}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#actionModeBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6146,11 +6146,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:actionModeBackground
+     * @attr name com.snakes_ladder.dice:actionModeBackground
      */
     public static final int AppCompatTheme_actionModeBackground=17;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#actionModeCloseButtonStyle}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#actionModeCloseButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6158,11 +6158,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:actionModeCloseButtonStyle
+     * @attr name com.snakes_ladder.dice:actionModeCloseButtonStyle
      */
     public static final int AppCompatTheme_actionModeCloseButtonStyle=18;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#actionModeCloseDrawable}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#actionModeCloseDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6170,11 +6170,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:actionModeCloseDrawable
+     * @attr name com.snakes_ladder.dice:actionModeCloseDrawable
      */
     public static final int AppCompatTheme_actionModeCloseDrawable=19;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#actionModeCopyDrawable}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#actionModeCopyDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6182,11 +6182,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:actionModeCopyDrawable
+     * @attr name com.snakes_ladder.dice:actionModeCopyDrawable
      */
     public static final int AppCompatTheme_actionModeCopyDrawable=20;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#actionModeCutDrawable}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#actionModeCutDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6194,11 +6194,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:actionModeCutDrawable
+     * @attr name com.snakes_ladder.dice:actionModeCutDrawable
      */
     public static final int AppCompatTheme_actionModeCutDrawable=21;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#actionModeFindDrawable}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#actionModeFindDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6206,11 +6206,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:actionModeFindDrawable
+     * @attr name com.snakes_ladder.dice:actionModeFindDrawable
      */
     public static final int AppCompatTheme_actionModeFindDrawable=22;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#actionModePasteDrawable}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#actionModePasteDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6218,11 +6218,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:actionModePasteDrawable
+     * @attr name com.snakes_ladder.dice:actionModePasteDrawable
      */
     public static final int AppCompatTheme_actionModePasteDrawable=23;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#actionModePopupWindowStyle}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#actionModePopupWindowStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6230,11 +6230,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:actionModePopupWindowStyle
+     * @attr name com.snakes_ladder.dice:actionModePopupWindowStyle
      */
     public static final int AppCompatTheme_actionModePopupWindowStyle=24;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#actionModeSelectAllDrawable}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#actionModeSelectAllDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6242,11 +6242,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:actionModeSelectAllDrawable
+     * @attr name com.snakes_ladder.dice:actionModeSelectAllDrawable
      */
     public static final int AppCompatTheme_actionModeSelectAllDrawable=25;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#actionModeShareDrawable}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#actionModeShareDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6254,11 +6254,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:actionModeShareDrawable
+     * @attr name com.snakes_ladder.dice:actionModeShareDrawable
      */
     public static final int AppCompatTheme_actionModeShareDrawable=26;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#actionModeSplitBackground}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#actionModeSplitBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6266,11 +6266,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:actionModeSplitBackground
+     * @attr name com.snakes_ladder.dice:actionModeSplitBackground
      */
     public static final int AppCompatTheme_actionModeSplitBackground=27;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#actionModeStyle}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#actionModeStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6278,11 +6278,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:actionModeStyle
+     * @attr name com.snakes_ladder.dice:actionModeStyle
      */
     public static final int AppCompatTheme_actionModeStyle=28;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#actionModeWebSearchDrawable}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#actionModeWebSearchDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6290,11 +6290,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:actionModeWebSearchDrawable
+     * @attr name com.snakes_ladder.dice:actionModeWebSearchDrawable
      */
     public static final int AppCompatTheme_actionModeWebSearchDrawable=29;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#actionOverflowButtonStyle}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#actionOverflowButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6302,11 +6302,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:actionOverflowButtonStyle
+     * @attr name com.snakes_ladder.dice:actionOverflowButtonStyle
      */
     public static final int AppCompatTheme_actionOverflowButtonStyle=30;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#actionOverflowMenuStyle}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#actionOverflowMenuStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6314,11 +6314,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:actionOverflowMenuStyle
+     * @attr name com.snakes_ladder.dice:actionOverflowMenuStyle
      */
     public static final int AppCompatTheme_actionOverflowMenuStyle=31;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#activityChooserViewStyle}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#activityChooserViewStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6326,11 +6326,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:activityChooserViewStyle
+     * @attr name com.snakes_ladder.dice:activityChooserViewStyle
      */
     public static final int AppCompatTheme_activityChooserViewStyle=32;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#alertDialogButtonGroupStyle}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#alertDialogButtonGroupStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6338,21 +6338,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:alertDialogButtonGroupStyle
+     * @attr name com.snakes_ladder.dice:alertDialogButtonGroupStyle
      */
     public static final int AppCompatTheme_alertDialogButtonGroupStyle=33;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#alertDialogCenterButtons}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#alertDialogCenterButtons}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:alertDialogCenterButtons
+     * @attr name com.snakes_ladder.dice:alertDialogCenterButtons
      */
     public static final int AppCompatTheme_alertDialogCenterButtons=34;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#alertDialogStyle}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#alertDialogStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6360,11 +6360,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:alertDialogStyle
+     * @attr name com.snakes_ladder.dice:alertDialogStyle
      */
     public static final int AppCompatTheme_alertDialogStyle=35;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#alertDialogTheme}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#alertDialogTheme}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6372,7 +6372,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:alertDialogTheme
+     * @attr name com.snakes_ladder.dice:alertDialogTheme
      */
     public static final int AppCompatTheme_alertDialogTheme=36;
     /**
@@ -6398,7 +6398,7 @@ public final class R {
      */
     public static final int AppCompatTheme_android_windowIsFloating=0;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#autoCompleteTextViewStyle}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#autoCompleteTextViewStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6406,11 +6406,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:autoCompleteTextViewStyle
+     * @attr name com.snakes_ladder.dice:autoCompleteTextViewStyle
      */
     public static final int AppCompatTheme_autoCompleteTextViewStyle=37;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#borderlessButtonStyle}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#borderlessButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6418,11 +6418,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:borderlessButtonStyle
+     * @attr name com.snakes_ladder.dice:borderlessButtonStyle
      */
     public static final int AppCompatTheme_borderlessButtonStyle=38;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#buttonBarButtonStyle}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#buttonBarButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6430,11 +6430,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:buttonBarButtonStyle
+     * @attr name com.snakes_ladder.dice:buttonBarButtonStyle
      */
     public static final int AppCompatTheme_buttonBarButtonStyle=39;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#buttonBarNegativeButtonStyle}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#buttonBarNegativeButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6442,11 +6442,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:buttonBarNegativeButtonStyle
+     * @attr name com.snakes_ladder.dice:buttonBarNegativeButtonStyle
      */
     public static final int AppCompatTheme_buttonBarNegativeButtonStyle=40;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#buttonBarNeutralButtonStyle}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#buttonBarNeutralButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6454,11 +6454,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:buttonBarNeutralButtonStyle
+     * @attr name com.snakes_ladder.dice:buttonBarNeutralButtonStyle
      */
     public static final int AppCompatTheme_buttonBarNeutralButtonStyle=41;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#buttonBarPositiveButtonStyle}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#buttonBarPositiveButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6466,11 +6466,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:buttonBarPositiveButtonStyle
+     * @attr name com.snakes_ladder.dice:buttonBarPositiveButtonStyle
      */
     public static final int AppCompatTheme_buttonBarPositiveButtonStyle=42;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#buttonBarStyle}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#buttonBarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6478,11 +6478,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:buttonBarStyle
+     * @attr name com.snakes_ladder.dice:buttonBarStyle
      */
     public static final int AppCompatTheme_buttonBarStyle=43;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#buttonStyle}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#buttonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6490,11 +6490,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:buttonStyle
+     * @attr name com.snakes_ladder.dice:buttonStyle
      */
     public static final int AppCompatTheme_buttonStyle=44;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#buttonStyleSmall}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#buttonStyleSmall}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6502,11 +6502,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:buttonStyleSmall
+     * @attr name com.snakes_ladder.dice:buttonStyleSmall
      */
     public static final int AppCompatTheme_buttonStyleSmall=45;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#checkboxStyle}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#checkboxStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6514,11 +6514,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:checkboxStyle
+     * @attr name com.snakes_ladder.dice:checkboxStyle
      */
     public static final int AppCompatTheme_checkboxStyle=46;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#checkedTextViewStyle}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#checkedTextViewStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6526,77 +6526,77 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:checkedTextViewStyle
+     * @attr name com.snakes_ladder.dice:checkedTextViewStyle
      */
     public static final int AppCompatTheme_checkedTextViewStyle=47;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#colorAccent}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#colorAccent}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:colorAccent
+     * @attr name com.snakes_ladder.dice:colorAccent
      */
     public static final int AppCompatTheme_colorAccent=48;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#colorBackgroundFloating}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#colorBackgroundFloating}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:colorBackgroundFloating
+     * @attr name com.snakes_ladder.dice:colorBackgroundFloating
      */
     public static final int AppCompatTheme_colorBackgroundFloating=49;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#colorButtonNormal}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#colorButtonNormal}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:colorButtonNormal
+     * @attr name com.snakes_ladder.dice:colorButtonNormal
      */
     public static final int AppCompatTheme_colorButtonNormal=50;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#colorControlActivated}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#colorControlActivated}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:colorControlActivated
+     * @attr name com.snakes_ladder.dice:colorControlActivated
      */
     public static final int AppCompatTheme_colorControlActivated=51;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#colorControlHighlight}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#colorControlHighlight}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:colorControlHighlight
+     * @attr name com.snakes_ladder.dice:colorControlHighlight
      */
     public static final int AppCompatTheme_colorControlHighlight=52;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#colorControlNormal}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#colorControlNormal}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:colorControlNormal
+     * @attr name com.snakes_ladder.dice:colorControlNormal
      */
     public static final int AppCompatTheme_colorControlNormal=53;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#colorError}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#colorError}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6607,44 +6607,44 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:colorError
+     * @attr name com.snakes_ladder.dice:colorError
      */
     public static final int AppCompatTheme_colorError=54;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#colorPrimary}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#colorPrimary}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:colorPrimary
+     * @attr name com.snakes_ladder.dice:colorPrimary
      */
     public static final int AppCompatTheme_colorPrimary=55;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#colorPrimaryDark}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#colorPrimaryDark}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:colorPrimaryDark
+     * @attr name com.snakes_ladder.dice:colorPrimaryDark
      */
     public static final int AppCompatTheme_colorPrimaryDark=56;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#colorSwitchThumbNormal}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#colorSwitchThumbNormal}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:colorSwitchThumbNormal
+     * @attr name com.snakes_ladder.dice:colorSwitchThumbNormal
      */
     public static final int AppCompatTheme_colorSwitchThumbNormal=57;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#controlBackground}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#controlBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6652,11 +6652,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:controlBackground
+     * @attr name com.snakes_ladder.dice:controlBackground
      */
     public static final int AppCompatTheme_controlBackground=58;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#dialogPreferredPadding}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#dialogPreferredPadding}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6665,11 +6665,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:dialogPreferredPadding
+     * @attr name com.snakes_ladder.dice:dialogPreferredPadding
      */
     public static final int AppCompatTheme_dialogPreferredPadding=59;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#dialogTheme}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#dialogTheme}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6677,11 +6677,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:dialogTheme
+     * @attr name com.snakes_ladder.dice:dialogTheme
      */
     public static final int AppCompatTheme_dialogTheme=60;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#dividerHorizontal}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#dividerHorizontal}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6689,11 +6689,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:dividerHorizontal
+     * @attr name com.snakes_ladder.dice:dividerHorizontal
      */
     public static final int AppCompatTheme_dividerHorizontal=61;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#dividerVertical}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#dividerVertical}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6701,11 +6701,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:dividerVertical
+     * @attr name com.snakes_ladder.dice:dividerVertical
      */
     public static final int AppCompatTheme_dividerVertical=62;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#dropDownListViewStyle}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#dropDownListViewStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6713,11 +6713,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:dropDownListViewStyle
+     * @attr name com.snakes_ladder.dice:dropDownListViewStyle
      */
     public static final int AppCompatTheme_dropDownListViewStyle=63;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#dropdownListPreferredItemHeight}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#dropdownListPreferredItemHeight}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6726,11 +6726,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:dropdownListPreferredItemHeight
+     * @attr name com.snakes_ladder.dice:dropdownListPreferredItemHeight
      */
     public static final int AppCompatTheme_dropdownListPreferredItemHeight=64;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#editTextBackground}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#editTextBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6738,11 +6738,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:editTextBackground
+     * @attr name com.snakes_ladder.dice:editTextBackground
      */
     public static final int AppCompatTheme_editTextBackground=65;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#editTextColor}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#editTextColor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6753,11 +6753,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:editTextColor
+     * @attr name com.snakes_ladder.dice:editTextColor
      */
     public static final int AppCompatTheme_editTextColor=66;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#editTextStyle}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#editTextStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6765,11 +6765,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:editTextStyle
+     * @attr name com.snakes_ladder.dice:editTextStyle
      */
     public static final int AppCompatTheme_editTextStyle=67;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#homeAsUpIndicator}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#homeAsUpIndicator}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6777,11 +6777,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:homeAsUpIndicator
+     * @attr name com.snakes_ladder.dice:homeAsUpIndicator
      */
     public static final int AppCompatTheme_homeAsUpIndicator=68;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#imageButtonStyle}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#imageButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6789,11 +6789,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:imageButtonStyle
+     * @attr name com.snakes_ladder.dice:imageButtonStyle
      */
     public static final int AppCompatTheme_imageButtonStyle=69;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#listChoiceBackgroundIndicator}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#listChoiceBackgroundIndicator}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6801,11 +6801,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:listChoiceBackgroundIndicator
+     * @attr name com.snakes_ladder.dice:listChoiceBackgroundIndicator
      */
     public static final int AppCompatTheme_listChoiceBackgroundIndicator=70;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#listDividerAlertDialog}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#listDividerAlertDialog}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6813,11 +6813,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:listDividerAlertDialog
+     * @attr name com.snakes_ladder.dice:listDividerAlertDialog
      */
     public static final int AppCompatTheme_listDividerAlertDialog=71;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#listMenuViewStyle}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#listMenuViewStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6825,11 +6825,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:listMenuViewStyle
+     * @attr name com.snakes_ladder.dice:listMenuViewStyle
      */
     public static final int AppCompatTheme_listMenuViewStyle=72;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#listPopupWindowStyle}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#listPopupWindowStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6837,11 +6837,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:listPopupWindowStyle
+     * @attr name com.snakes_ladder.dice:listPopupWindowStyle
      */
     public static final int AppCompatTheme_listPopupWindowStyle=73;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#listPreferredItemHeight}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#listPreferredItemHeight}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6850,11 +6850,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:listPreferredItemHeight
+     * @attr name com.snakes_ladder.dice:listPreferredItemHeight
      */
     public static final int AppCompatTheme_listPreferredItemHeight=74;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#listPreferredItemHeightLarge}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#listPreferredItemHeightLarge}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6863,11 +6863,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:listPreferredItemHeightLarge
+     * @attr name com.snakes_ladder.dice:listPreferredItemHeightLarge
      */
     public static final int AppCompatTheme_listPreferredItemHeightLarge=75;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#listPreferredItemHeightSmall}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#listPreferredItemHeightSmall}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6876,11 +6876,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:listPreferredItemHeightSmall
+     * @attr name com.snakes_ladder.dice:listPreferredItemHeightSmall
      */
     public static final int AppCompatTheme_listPreferredItemHeightSmall=76;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#listPreferredItemPaddingLeft}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#listPreferredItemPaddingLeft}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6889,11 +6889,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:listPreferredItemPaddingLeft
+     * @attr name com.snakes_ladder.dice:listPreferredItemPaddingLeft
      */
     public static final int AppCompatTheme_listPreferredItemPaddingLeft=77;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#listPreferredItemPaddingRight}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#listPreferredItemPaddingRight}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6902,11 +6902,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:listPreferredItemPaddingRight
+     * @attr name com.snakes_ladder.dice:listPreferredItemPaddingRight
      */
     public static final int AppCompatTheme_listPreferredItemPaddingRight=78;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#panelBackground}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#panelBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6914,11 +6914,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:panelBackground
+     * @attr name com.snakes_ladder.dice:panelBackground
      */
     public static final int AppCompatTheme_panelBackground=79;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#panelMenuListTheme}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#panelMenuListTheme}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6926,11 +6926,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:panelMenuListTheme
+     * @attr name com.snakes_ladder.dice:panelMenuListTheme
      */
     public static final int AppCompatTheme_panelMenuListTheme=80;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#panelMenuListWidth}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#panelMenuListWidth}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6939,11 +6939,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:panelMenuListWidth
+     * @attr name com.snakes_ladder.dice:panelMenuListWidth
      */
     public static final int AppCompatTheme_panelMenuListWidth=81;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#popupMenuStyle}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#popupMenuStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6951,11 +6951,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:popupMenuStyle
+     * @attr name com.snakes_ladder.dice:popupMenuStyle
      */
     public static final int AppCompatTheme_popupMenuStyle=82;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#popupWindowStyle}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#popupWindowStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6963,11 +6963,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:popupWindowStyle
+     * @attr name com.snakes_ladder.dice:popupWindowStyle
      */
     public static final int AppCompatTheme_popupWindowStyle=83;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#radioButtonStyle}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#radioButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6975,11 +6975,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:radioButtonStyle
+     * @attr name com.snakes_ladder.dice:radioButtonStyle
      */
     public static final int AppCompatTheme_radioButtonStyle=84;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#ratingBarStyle}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#ratingBarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6987,11 +6987,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:ratingBarStyle
+     * @attr name com.snakes_ladder.dice:ratingBarStyle
      */
     public static final int AppCompatTheme_ratingBarStyle=85;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#ratingBarStyleIndicator}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#ratingBarStyleIndicator}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6999,11 +6999,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:ratingBarStyleIndicator
+     * @attr name com.snakes_ladder.dice:ratingBarStyleIndicator
      */
     public static final int AppCompatTheme_ratingBarStyleIndicator=86;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#ratingBarStyleSmall}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#ratingBarStyleSmall}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7011,11 +7011,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:ratingBarStyleSmall
+     * @attr name com.snakes_ladder.dice:ratingBarStyleSmall
      */
     public static final int AppCompatTheme_ratingBarStyleSmall=87;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#searchViewStyle}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#searchViewStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7023,11 +7023,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:searchViewStyle
+     * @attr name com.snakes_ladder.dice:searchViewStyle
      */
     public static final int AppCompatTheme_searchViewStyle=88;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#seekBarStyle}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#seekBarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7035,11 +7035,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:seekBarStyle
+     * @attr name com.snakes_ladder.dice:seekBarStyle
      */
     public static final int AppCompatTheme_seekBarStyle=89;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#selectableItemBackground}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#selectableItemBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7047,11 +7047,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:selectableItemBackground
+     * @attr name com.snakes_ladder.dice:selectableItemBackground
      */
     public static final int AppCompatTheme_selectableItemBackground=90;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#selectableItemBackgroundBorderless}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#selectableItemBackgroundBorderless}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7059,11 +7059,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:selectableItemBackgroundBorderless
+     * @attr name com.snakes_ladder.dice:selectableItemBackgroundBorderless
      */
     public static final int AppCompatTheme_selectableItemBackgroundBorderless=91;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#spinnerDropDownItemStyle}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#spinnerDropDownItemStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7071,11 +7071,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:spinnerDropDownItemStyle
+     * @attr name com.snakes_ladder.dice:spinnerDropDownItemStyle
      */
     public static final int AppCompatTheme_spinnerDropDownItemStyle=92;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#spinnerStyle}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#spinnerStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7083,11 +7083,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:spinnerStyle
+     * @attr name com.snakes_ladder.dice:spinnerStyle
      */
     public static final int AppCompatTheme_spinnerStyle=93;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#switchStyle}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#switchStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7095,11 +7095,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:switchStyle
+     * @attr name com.snakes_ladder.dice:switchStyle
      */
     public static final int AppCompatTheme_switchStyle=94;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#textAppearanceLargePopupMenu}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#textAppearanceLargePopupMenu}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7107,11 +7107,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:textAppearanceLargePopupMenu
+     * @attr name com.snakes_ladder.dice:textAppearanceLargePopupMenu
      */
     public static final int AppCompatTheme_textAppearanceLargePopupMenu=95;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#textAppearanceListItem}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#textAppearanceListItem}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7119,11 +7119,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:textAppearanceListItem
+     * @attr name com.snakes_ladder.dice:textAppearanceListItem
      */
     public static final int AppCompatTheme_textAppearanceListItem=96;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#textAppearanceListItemSecondary}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#textAppearanceListItemSecondary}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7131,11 +7131,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:textAppearanceListItemSecondary
+     * @attr name com.snakes_ladder.dice:textAppearanceListItemSecondary
      */
     public static final int AppCompatTheme_textAppearanceListItemSecondary=97;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#textAppearanceListItemSmall}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#textAppearanceListItemSmall}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7143,11 +7143,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:textAppearanceListItemSmall
+     * @attr name com.snakes_ladder.dice:textAppearanceListItemSmall
      */
     public static final int AppCompatTheme_textAppearanceListItemSmall=98;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#textAppearancePopupMenuHeader}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#textAppearancePopupMenuHeader}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7155,11 +7155,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:textAppearancePopupMenuHeader
+     * @attr name com.snakes_ladder.dice:textAppearancePopupMenuHeader
      */
     public static final int AppCompatTheme_textAppearancePopupMenuHeader=99;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#textAppearanceSearchResultSubtitle}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#textAppearanceSearchResultSubtitle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7167,11 +7167,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:textAppearanceSearchResultSubtitle
+     * @attr name com.snakes_ladder.dice:textAppearanceSearchResultSubtitle
      */
     public static final int AppCompatTheme_textAppearanceSearchResultSubtitle=100;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#textAppearanceSearchResultTitle}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#textAppearanceSearchResultTitle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7179,11 +7179,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:textAppearanceSearchResultTitle
+     * @attr name com.snakes_ladder.dice:textAppearanceSearchResultTitle
      */
     public static final int AppCompatTheme_textAppearanceSearchResultTitle=101;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#textAppearanceSmallPopupMenu}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#textAppearanceSmallPopupMenu}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7191,11 +7191,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:textAppearanceSmallPopupMenu
+     * @attr name com.snakes_ladder.dice:textAppearanceSmallPopupMenu
      */
     public static final int AppCompatTheme_textAppearanceSmallPopupMenu=102;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#textColorAlertDialogListItem}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#textColorAlertDialogListItem}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7206,11 +7206,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:textColorAlertDialogListItem
+     * @attr name com.snakes_ladder.dice:textColorAlertDialogListItem
      */
     public static final int AppCompatTheme_textColorAlertDialogListItem=103;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#textColorSearchUrl}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#textColorSearchUrl}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7221,11 +7221,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:textColorSearchUrl
+     * @attr name com.snakes_ladder.dice:textColorSearchUrl
      */
     public static final int AppCompatTheme_textColorSearchUrl=104;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#toolbarNavigationButtonStyle}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#toolbarNavigationButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7233,11 +7233,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:toolbarNavigationButtonStyle
+     * @attr name com.snakes_ladder.dice:toolbarNavigationButtonStyle
      */
     public static final int AppCompatTheme_toolbarNavigationButtonStyle=105;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#toolbarStyle}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#toolbarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7245,11 +7245,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:toolbarStyle
+     * @attr name com.snakes_ladder.dice:toolbarStyle
      */
     public static final int AppCompatTheme_toolbarStyle=106;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#tooltipForegroundColor}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#tooltipForegroundColor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7260,11 +7260,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:tooltipForegroundColor
+     * @attr name com.snakes_ladder.dice:tooltipForegroundColor
      */
     public static final int AppCompatTheme_tooltipForegroundColor=107;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#tooltipFrameBackground}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#tooltipFrameBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7272,41 +7272,41 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:tooltipFrameBackground
+     * @attr name com.snakes_ladder.dice:tooltipFrameBackground
      */
     public static final int AppCompatTheme_tooltipFrameBackground=108;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#windowActionBar}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#windowActionBar}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:windowActionBar
+     * @attr name com.snakes_ladder.dice:windowActionBar
      */
     public static final int AppCompatTheme_windowActionBar=109;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#windowActionBarOverlay}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#windowActionBarOverlay}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:windowActionBarOverlay
+     * @attr name com.snakes_ladder.dice:windowActionBarOverlay
      */
     public static final int AppCompatTheme_windowActionBarOverlay=110;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#windowActionModeOverlay}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#windowActionModeOverlay}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:windowActionModeOverlay
+     * @attr name com.snakes_ladder.dice:windowActionModeOverlay
      */
     public static final int AppCompatTheme_windowActionModeOverlay=111;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#windowFixedHeightMajor}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#windowFixedHeightMajor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7319,11 +7319,11 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:windowFixedHeightMajor
+     * @attr name com.snakes_ladder.dice:windowFixedHeightMajor
      */
     public static final int AppCompatTheme_windowFixedHeightMajor=112;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#windowFixedHeightMinor}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#windowFixedHeightMinor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7336,11 +7336,11 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:windowFixedHeightMinor
+     * @attr name com.snakes_ladder.dice:windowFixedHeightMinor
      */
     public static final int AppCompatTheme_windowFixedHeightMinor=113;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#windowFixedWidthMajor}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#windowFixedWidthMajor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7353,11 +7353,11 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:windowFixedWidthMajor
+     * @attr name com.snakes_ladder.dice:windowFixedWidthMajor
      */
     public static final int AppCompatTheme_windowFixedWidthMajor=114;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#windowFixedWidthMinor}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#windowFixedWidthMinor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7370,11 +7370,11 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:windowFixedWidthMinor
+     * @attr name com.snakes_ladder.dice:windowFixedWidthMinor
      */
     public static final int AppCompatTheme_windowFixedWidthMinor=115;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#windowMinWidthMajor}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#windowMinWidthMajor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7387,11 +7387,11 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:windowMinWidthMajor
+     * @attr name com.snakes_ladder.dice:windowMinWidthMajor
      */
     public static final int AppCompatTheme_windowMinWidthMajor=116;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#windowMinWidthMinor}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#windowMinWidthMinor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7404,17 +7404,17 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:windowMinWidthMinor
+     * @attr name com.snakes_ladder.dice:windowMinWidthMinor
      */
     public static final int AppCompatTheme_windowMinWidthMinor=117;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#windowNoTitle}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#windowNoTitle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:windowNoTitle
+     * @attr name com.snakes_ladder.dice:windowNoTitle
      */
     public static final int AppCompatTheme_windowNoTitle=118;
     /**
@@ -7424,11 +7424,11 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #BottomNavigationView_elevation com.snakes_ladders_game_background.dice_tile:elevation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_itemBackground com.snakes_ladders_game_background.dice_tile:itemBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_itemIconTint com.snakes_ladders_game_background.dice_tile:itemIconTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_itemTextColor com.snakes_ladders_game_background.dice_tile:itemTextColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_menu com.snakes_ladders_game_background.dice_tile:menu}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_elevation com.snakes_ladder.dice:elevation}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_itemBackground com.snakes_ladder.dice:itemBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_itemIconTint com.snakes_ladder.dice:itemIconTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_itemTextColor com.snakes_ladder.dice:itemTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_menu com.snakes_ladder.dice:menu}</code></td><td></td></tr>
      * </table>
      * @see #BottomNavigationView_elevation
      * @see #BottomNavigationView_itemBackground
@@ -7441,7 +7441,7 @@ public final class R {
         0x7f030105
       };
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#elevation}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#elevation}
      * attribute's value can be found in the {@link #BottomNavigationView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7450,11 +7450,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:elevation
+     * @attr name com.snakes_ladder.dice:elevation
      */
     public static final int BottomNavigationView_elevation=0;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#itemBackground}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#itemBackground}
      * attribute's value can be found in the {@link #BottomNavigationView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7462,33 +7462,33 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:itemBackground
+     * @attr name com.snakes_ladder.dice:itemBackground
      */
     public static final int BottomNavigationView_itemBackground=1;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#itemIconTint}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#itemIconTint}
      * attribute's value can be found in the {@link #BottomNavigationView} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:itemIconTint
+     * @attr name com.snakes_ladder.dice:itemIconTint
      */
     public static final int BottomNavigationView_itemIconTint=2;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#itemTextColor}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#itemTextColor}
      * attribute's value can be found in the {@link #BottomNavigationView} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:itemTextColor
+     * @attr name com.snakes_ladder.dice:itemTextColor
      */
     public static final int BottomNavigationView_itemTextColor=3;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#menu}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#menu}
      * attribute's value can be found in the {@link #BottomNavigationView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7496,7 +7496,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:menu
+     * @attr name com.snakes_ladder.dice:menu
      */
     public static final int BottomNavigationView_menu=4;
     /**
@@ -7506,9 +7506,9 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_hideable com.snakes_ladders_game_background.dice_tile:behavior_hideable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_peekHeight com.snakes_ladders_game_background.dice_tile:behavior_peekHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_skipCollapsed com.snakes_ladders_game_background.dice_tile:behavior_skipCollapsed}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_hideable com.snakes_ladder.dice:behavior_hideable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_peekHeight com.snakes_ladder.dice:behavior_peekHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_skipCollapsed com.snakes_ladder.dice:behavior_skipCollapsed}</code></td><td></td></tr>
      * </table>
      * @see #BottomSheetBehavior_Layout_behavior_hideable
      * @see #BottomSheetBehavior_Layout_behavior_peekHeight
@@ -7518,17 +7518,17 @@ public final class R {
         0x7f030038, 0x7f03003a, 0x7f03003b
       };
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#behavior_hideable}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#behavior_hideable}
      * attribute's value can be found in the {@link #BottomSheetBehavior_Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:behavior_hideable
+     * @attr name com.snakes_ladder.dice:behavior_hideable
      */
     public static final int BottomSheetBehavior_Layout_behavior_hideable=0;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#behavior_peekHeight}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#behavior_peekHeight}
      * attribute's value can be found in the {@link #BottomSheetBehavior_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7545,17 +7545,17 @@ public final class R {
      * <tr><td>auto</td><td>ffffffff</td><td></td></tr>
      * </table>
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:behavior_peekHeight
+     * @attr name com.snakes_ladder.dice:behavior_peekHeight
      */
     public static final int BottomSheetBehavior_Layout_behavior_peekHeight=1;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#behavior_skipCollapsed}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#behavior_skipCollapsed}
      * attribute's value can be found in the {@link #BottomSheetBehavior_Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:behavior_skipCollapsed
+     * @attr name com.snakes_ladder.dice:behavior_skipCollapsed
      */
     public static final int BottomSheetBehavior_Layout_behavior_skipCollapsed=2;
     /**
@@ -7565,7 +7565,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ButtonBarLayout_allowStacking com.snakes_ladders_game_background.dice_tile:allowStacking}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ButtonBarLayout_allowStacking com.snakes_ladder.dice:allowStacking}</code></td><td></td></tr>
      * </table>
      * @see #ButtonBarLayout_allowStacking
      */
@@ -7573,13 +7573,13 @@ public final class R {
         0x7f030026
       };
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#allowStacking}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#allowStacking}
      * attribute's value can be found in the {@link #ButtonBarLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:allowStacking
+     * @attr name com.snakes_ladder.dice:allowStacking
      */
     public static final int ButtonBarLayout_allowStacking=0;
     /**
@@ -7591,17 +7591,17 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #CardView_android_minWidth android:minWidth}</code></td><td></td></tr>
      * <tr><td><code>{@link #CardView_android_minHeight android:minHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CardView_cardBackgroundColor com.snakes_ladders_game_background.dice_tile:cardBackgroundColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CardView_cardCornerRadius com.snakes_ladders_game_background.dice_tile:cardCornerRadius}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CardView_cardElevation com.snakes_ladders_game_background.dice_tile:cardElevation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CardView_cardMaxElevation com.snakes_ladders_game_background.dice_tile:cardMaxElevation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CardView_cardPreventCornerOverlap com.snakes_ladders_game_background.dice_tile:cardPreventCornerOverlap}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CardView_cardUseCompatPadding com.snakes_ladders_game_background.dice_tile:cardUseCompatPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CardView_contentPadding com.snakes_ladders_game_background.dice_tile:contentPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CardView_contentPaddingBottom com.snakes_ladders_game_background.dice_tile:contentPaddingBottom}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CardView_contentPaddingLeft com.snakes_ladders_game_background.dice_tile:contentPaddingLeft}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CardView_contentPaddingRight com.snakes_ladders_game_background.dice_tile:contentPaddingRight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CardView_contentPaddingTop com.snakes_ladders_game_background.dice_tile:contentPaddingTop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CardView_cardBackgroundColor com.snakes_ladder.dice:cardBackgroundColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CardView_cardCornerRadius com.snakes_ladder.dice:cardCornerRadius}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CardView_cardElevation com.snakes_ladder.dice:cardElevation}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CardView_cardMaxElevation com.snakes_ladder.dice:cardMaxElevation}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CardView_cardPreventCornerOverlap com.snakes_ladder.dice:cardPreventCornerOverlap}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CardView_cardUseCompatPadding com.snakes_ladder.dice:cardUseCompatPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CardView_contentPadding com.snakes_ladder.dice:contentPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CardView_contentPaddingBottom com.snakes_ladder.dice:contentPaddingBottom}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CardView_contentPaddingLeft com.snakes_ladder.dice:contentPaddingLeft}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CardView_contentPaddingRight com.snakes_ladder.dice:contentPaddingRight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CardView_contentPaddingTop com.snakes_ladder.dice:contentPaddingTop}</code></td><td></td></tr>
      * </table>
      * @see #CardView_android_minWidth
      * @see #CardView_android_minHeight
@@ -7650,18 +7650,18 @@ public final class R {
      */
     public static final int CardView_android_minWidth=0;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#cardBackgroundColor}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#cardBackgroundColor}
      * attribute's value can be found in the {@link #CardView} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:cardBackgroundColor
+     * @attr name com.snakes_ladder.dice:cardBackgroundColor
      */
     public static final int CardView_cardBackgroundColor=2;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#cardCornerRadius}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#cardCornerRadius}
      * attribute's value can be found in the {@link #CardView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7670,11 +7670,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:cardCornerRadius
+     * @attr name com.snakes_ladder.dice:cardCornerRadius
      */
     public static final int CardView_cardCornerRadius=3;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#cardElevation}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#cardElevation}
      * attribute's value can be found in the {@link #CardView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7683,11 +7683,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:cardElevation
+     * @attr name com.snakes_ladder.dice:cardElevation
      */
     public static final int CardView_cardElevation=4;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#cardMaxElevation}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#cardMaxElevation}
      * attribute's value can be found in the {@link #CardView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7696,31 +7696,31 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:cardMaxElevation
+     * @attr name com.snakes_ladder.dice:cardMaxElevation
      */
     public static final int CardView_cardMaxElevation=5;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#cardPreventCornerOverlap}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#cardPreventCornerOverlap}
      * attribute's value can be found in the {@link #CardView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:cardPreventCornerOverlap
+     * @attr name com.snakes_ladder.dice:cardPreventCornerOverlap
      */
     public static final int CardView_cardPreventCornerOverlap=6;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#cardUseCompatPadding}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#cardUseCompatPadding}
      * attribute's value can be found in the {@link #CardView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:cardUseCompatPadding
+     * @attr name com.snakes_ladder.dice:cardUseCompatPadding
      */
     public static final int CardView_cardUseCompatPadding=7;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#contentPadding}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#contentPadding}
      * attribute's value can be found in the {@link #CardView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7729,11 +7729,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:contentPadding
+     * @attr name com.snakes_ladder.dice:contentPadding
      */
     public static final int CardView_contentPadding=8;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#contentPaddingBottom}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#contentPaddingBottom}
      * attribute's value can be found in the {@link #CardView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7742,11 +7742,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:contentPaddingBottom
+     * @attr name com.snakes_ladder.dice:contentPaddingBottom
      */
     public static final int CardView_contentPaddingBottom=9;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#contentPaddingLeft}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#contentPaddingLeft}
      * attribute's value can be found in the {@link #CardView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7755,11 +7755,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:contentPaddingLeft
+     * @attr name com.snakes_ladder.dice:contentPaddingLeft
      */
     public static final int CardView_contentPaddingLeft=10;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#contentPaddingRight}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#contentPaddingRight}
      * attribute's value can be found in the {@link #CardView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7768,11 +7768,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:contentPaddingRight
+     * @attr name com.snakes_ladder.dice:contentPaddingRight
      */
     public static final int CardView_contentPaddingRight=11;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#contentPaddingTop}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#contentPaddingTop}
      * attribute's value can be found in the {@link #CardView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7781,7 +7781,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:contentPaddingTop
+     * @attr name com.snakes_ladder.dice:contentPaddingTop
      */
     public static final int CardView_contentPaddingTop=12;
     /**
@@ -7791,22 +7791,22 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleGravity com.snakes_ladders_game_background.dice_tile:collapsedTitleGravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleTextAppearance com.snakes_ladders_game_background.dice_tile:collapsedTitleTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_contentScrim com.snakes_ladders_game_background.dice_tile:contentScrim}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleGravity com.snakes_ladders_game_background.dice_tile:expandedTitleGravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMargin com.snakes_ladders_game_background.dice_tile:expandedTitleMargin}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginBottom com.snakes_ladders_game_background.dice_tile:expandedTitleMarginBottom}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginEnd com.snakes_ladders_game_background.dice_tile:expandedTitleMarginEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginStart com.snakes_ladders_game_background.dice_tile:expandedTitleMarginStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginTop com.snakes_ladders_game_background.dice_tile:expandedTitleMarginTop}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleTextAppearance com.snakes_ladders_game_background.dice_tile:expandedTitleTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_scrimAnimationDuration com.snakes_ladders_game_background.dice_tile:scrimAnimationDuration}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_scrimVisibleHeightTrigger com.snakes_ladders_game_background.dice_tile:scrimVisibleHeightTrigger}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_statusBarScrim com.snakes_ladders_game_background.dice_tile:statusBarScrim}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_title com.snakes_ladders_game_background.dice_tile:title}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_titleEnabled com.snakes_ladders_game_background.dice_tile:titleEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_toolbarId com.snakes_ladders_game_background.dice_tile:toolbarId}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleGravity com.snakes_ladder.dice:collapsedTitleGravity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleTextAppearance com.snakes_ladder.dice:collapsedTitleTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_contentScrim com.snakes_ladder.dice:contentScrim}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleGravity com.snakes_ladder.dice:expandedTitleGravity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMargin com.snakes_ladder.dice:expandedTitleMargin}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginBottom com.snakes_ladder.dice:expandedTitleMarginBottom}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginEnd com.snakes_ladder.dice:expandedTitleMarginEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginStart com.snakes_ladder.dice:expandedTitleMarginStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginTop com.snakes_ladder.dice:expandedTitleMarginTop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleTextAppearance com.snakes_ladder.dice:expandedTitleTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_scrimAnimationDuration com.snakes_ladder.dice:scrimAnimationDuration}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_scrimVisibleHeightTrigger com.snakes_ladder.dice:scrimVisibleHeightTrigger}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_statusBarScrim com.snakes_ladder.dice:statusBarScrim}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_title com.snakes_ladder.dice:title}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_titleEnabled com.snakes_ladder.dice:titleEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_toolbarId com.snakes_ladder.dice:toolbarId}</code></td><td></td></tr>
      * </table>
      * @see #CollapsingToolbarLayout_collapsedTitleGravity
      * @see #CollapsingToolbarLayout_collapsedTitleTextAppearance
@@ -7838,8 +7838,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseMode com.snakes_ladders_game_background.dice_tile:layout_collapseMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier com.snakes_ladders_game_background.dice_tile:layout_collapseParallaxMultiplier}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseMode com.snakes_ladder.dice:layout_collapseMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier com.snakes_ladder.dice:layout_collapseParallaxMultiplier}</code></td><td></td></tr>
      * </table>
      * @see #CollapsingToolbarLayout_Layout_layout_collapseMode
      * @see #CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier
@@ -7848,7 +7848,7 @@ public final class R {
         0x7f0300c3, 0x7f0300c4
       };
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#layout_collapseMode}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#layout_collapseMode}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -7862,20 +7862,20 @@ public final class R {
      * <tr><td>pin</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:layout_collapseMode
+     * @attr name com.snakes_ladder.dice:layout_collapseMode
      */
     public static final int CollapsingToolbarLayout_Layout_layout_collapseMode=0;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#layout_collapseParallaxMultiplier}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#layout_collapseParallaxMultiplier}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:layout_collapseParallaxMultiplier
+     * @attr name com.snakes_ladder.dice:layout_collapseParallaxMultiplier
      */
     public static final int CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier=1;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#collapsedTitleGravity}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#collapsedTitleGravity}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -7896,11 +7896,11 @@ public final class R {
      * <tr><td>top</td><td>30</td><td></td></tr>
      * </table>
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:collapsedTitleGravity
+     * @attr name com.snakes_ladder.dice:collapsedTitleGravity
      */
     public static final int CollapsingToolbarLayout_collapsedTitleGravity=0;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#collapsedTitleTextAppearance}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#collapsedTitleTextAppearance}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7908,22 +7908,22 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:collapsedTitleTextAppearance
+     * @attr name com.snakes_ladder.dice:collapsedTitleTextAppearance
      */
     public static final int CollapsingToolbarLayout_collapsedTitleTextAppearance=1;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#contentScrim}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#contentScrim}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:contentScrim
+     * @attr name com.snakes_ladder.dice:contentScrim
      */
     public static final int CollapsingToolbarLayout_contentScrim=2;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#expandedTitleGravity}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#expandedTitleGravity}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -7944,11 +7944,11 @@ public final class R {
      * <tr><td>top</td><td>30</td><td></td></tr>
      * </table>
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:expandedTitleGravity
+     * @attr name com.snakes_ladder.dice:expandedTitleGravity
      */
     public static final int CollapsingToolbarLayout_expandedTitleGravity=3;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#expandedTitleMargin}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#expandedTitleMargin}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7957,11 +7957,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:expandedTitleMargin
+     * @attr name com.snakes_ladder.dice:expandedTitleMargin
      */
     public static final int CollapsingToolbarLayout_expandedTitleMargin=4;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#expandedTitleMarginBottom}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#expandedTitleMarginBottom}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7970,11 +7970,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:expandedTitleMarginBottom
+     * @attr name com.snakes_ladder.dice:expandedTitleMarginBottom
      */
     public static final int CollapsingToolbarLayout_expandedTitleMarginBottom=5;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#expandedTitleMarginEnd}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#expandedTitleMarginEnd}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7983,11 +7983,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:expandedTitleMarginEnd
+     * @attr name com.snakes_ladder.dice:expandedTitleMarginEnd
      */
     public static final int CollapsingToolbarLayout_expandedTitleMarginEnd=6;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#expandedTitleMarginStart}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#expandedTitleMarginStart}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7996,11 +7996,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:expandedTitleMarginStart
+     * @attr name com.snakes_ladder.dice:expandedTitleMarginStart
      */
     public static final int CollapsingToolbarLayout_expandedTitleMarginStart=7;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#expandedTitleMarginTop}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#expandedTitleMarginTop}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8009,11 +8009,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:expandedTitleMarginTop
+     * @attr name com.snakes_ladder.dice:expandedTitleMarginTop
      */
     public static final int CollapsingToolbarLayout_expandedTitleMarginTop=8;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#expandedTitleTextAppearance}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#expandedTitleTextAppearance}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8021,20 +8021,20 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:expandedTitleTextAppearance
+     * @attr name com.snakes_ladder.dice:expandedTitleTextAppearance
      */
     public static final int CollapsingToolbarLayout_expandedTitleTextAppearance=9;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#scrimAnimationDuration}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#scrimAnimationDuration}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:scrimAnimationDuration
+     * @attr name com.snakes_ladder.dice:scrimAnimationDuration
      */
     public static final int CollapsingToolbarLayout_scrimAnimationDuration=10;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#scrimVisibleHeightTrigger}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#scrimVisibleHeightTrigger}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8043,42 +8043,42 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:scrimVisibleHeightTrigger
+     * @attr name com.snakes_ladder.dice:scrimVisibleHeightTrigger
      */
     public static final int CollapsingToolbarLayout_scrimVisibleHeightTrigger=11;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#statusBarScrim}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#statusBarScrim}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:statusBarScrim
+     * @attr name com.snakes_ladder.dice:statusBarScrim
      */
     public static final int CollapsingToolbarLayout_statusBarScrim=12;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#title}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#title}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:title
+     * @attr name com.snakes_ladder.dice:title
      */
     public static final int CollapsingToolbarLayout_title=13;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#titleEnabled}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#titleEnabled}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:titleEnabled
+     * @attr name com.snakes_ladder.dice:titleEnabled
      */
     public static final int CollapsingToolbarLayout_titleEnabled=14;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#toolbarId}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#toolbarId}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8086,7 +8086,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:toolbarId
+     * @attr name com.snakes_ladder.dice:toolbarId
      */
     public static final int CollapsingToolbarLayout_toolbarId=15;
     /**
@@ -8098,7 +8098,7 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #ColorStateListItem_android_color android:color}</code></td><td></td></tr>
      * <tr><td><code>{@link #ColorStateListItem_android_alpha android:alpha}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ColorStateListItem_alpha com.snakes_ladders_game_background.dice_tile:alpha}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ColorStateListItem_alpha com.snakes_ladder.dice:alpha}</code></td><td></td></tr>
      * </table>
      * @see #ColorStateListItem_android_color
      * @see #ColorStateListItem_android_alpha
@@ -8108,12 +8108,12 @@ public final class R {
         0x010101a5, 0x0101031f, 0x7f030027
       };
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#alpha}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#alpha}
      * attribute's value can be found in the {@link #ColorStateListItem} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:alpha
+     * @attr name com.snakes_ladder.dice:alpha
      */
     public static final int ColorStateListItem_alpha=2;
     /**
@@ -8144,8 +8144,8 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #CompoundButton_android_button android:button}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CompoundButton_buttonTint com.snakes_ladders_game_background.dice_tile:buttonTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CompoundButton_buttonTintMode com.snakes_ladders_game_background.dice_tile:buttonTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CompoundButton_buttonTint com.snakes_ladder.dice:buttonTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CompoundButton_buttonTintMode com.snakes_ladder.dice:buttonTintMode}</code></td><td></td></tr>
      * </table>
      * @see #CompoundButton_android_button
      * @see #CompoundButton_buttonTint
@@ -8167,18 +8167,18 @@ public final class R {
      */
     public static final int CompoundButton_android_button=0;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#buttonTint}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#buttonTint}
      * attribute's value can be found in the {@link #CompoundButton} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:buttonTint
+     * @attr name com.snakes_ladder.dice:buttonTint
      */
     public static final int CompoundButton_buttonTint=1;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#buttonTintMode}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#buttonTintMode}
      * attribute's value can be found in the {@link #CompoundButton} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -8194,7 +8194,7 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:buttonTintMode
+     * @attr name com.snakes_ladder.dice:buttonTintMode
      */
     public static final int CompoundButton_buttonTintMode=2;
     /**
@@ -8209,50 +8209,50 @@ public final class R {
      * <tr><td><code>{@link #ConstraintLayout_Layout_android_maxHeight android:maxHeight}</code></td><td></td></tr>
      * <tr><td><code>{@link #ConstraintLayout_Layout_android_minWidth android:minWidth}</code></td><td></td></tr>
      * <tr><td><code>{@link #ConstraintLayout_Layout_android_minHeight android:minHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_constraintSet com.snakes_ladders_game_background.dice_tile:constraintSet}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBaseline_creator com.snakes_ladders_game_background.dice_tile:layout_constraintBaseline_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBaseline_toBaselineOf com.snakes_ladders_game_background.dice_tile:layout_constraintBaseline_toBaselineOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBottom_creator com.snakes_ladders_game_background.dice_tile:layout_constraintBottom_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBottom_toBottomOf com.snakes_ladders_game_background.dice_tile:layout_constraintBottom_toBottomOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBottom_toTopOf com.snakes_ladders_game_background.dice_tile:layout_constraintBottom_toTopOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintDimensionRatio com.snakes_ladders_game_background.dice_tile:layout_constraintDimensionRatio}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintEnd_toEndOf com.snakes_ladders_game_background.dice_tile:layout_constraintEnd_toEndOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintEnd_toStartOf com.snakes_ladders_game_background.dice_tile:layout_constraintEnd_toStartOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintGuide_begin com.snakes_ladders_game_background.dice_tile:layout_constraintGuide_begin}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintGuide_end com.snakes_ladders_game_background.dice_tile:layout_constraintGuide_end}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintGuide_percent com.snakes_ladders_game_background.dice_tile:layout_constraintGuide_percent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_default com.snakes_ladders_game_background.dice_tile:layout_constraintHeight_default}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_max com.snakes_ladders_game_background.dice_tile:layout_constraintHeight_max}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_min com.snakes_ladders_game_background.dice_tile:layout_constraintHeight_min}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHorizontal_bias com.snakes_ladders_game_background.dice_tile:layout_constraintHorizontal_bias}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHorizontal_chainStyle com.snakes_ladders_game_background.dice_tile:layout_constraintHorizontal_chainStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHorizontal_weight com.snakes_ladders_game_background.dice_tile:layout_constraintHorizontal_weight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintLeft_creator com.snakes_ladders_game_background.dice_tile:layout_constraintLeft_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintLeft_toLeftOf com.snakes_ladders_game_background.dice_tile:layout_constraintLeft_toLeftOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintLeft_toRightOf com.snakes_ladders_game_background.dice_tile:layout_constraintLeft_toRightOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintRight_creator com.snakes_ladders_game_background.dice_tile:layout_constraintRight_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintRight_toLeftOf com.snakes_ladders_game_background.dice_tile:layout_constraintRight_toLeftOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintRight_toRightOf com.snakes_ladders_game_background.dice_tile:layout_constraintRight_toRightOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintStart_toEndOf com.snakes_ladders_game_background.dice_tile:layout_constraintStart_toEndOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintStart_toStartOf com.snakes_ladders_game_background.dice_tile:layout_constraintStart_toStartOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintTop_creator com.snakes_ladders_game_background.dice_tile:layout_constraintTop_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintTop_toBottomOf com.snakes_ladders_game_background.dice_tile:layout_constraintTop_toBottomOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintTop_toTopOf com.snakes_ladders_game_background.dice_tile:layout_constraintTop_toTopOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintVertical_bias com.snakes_ladders_game_background.dice_tile:layout_constraintVertical_bias}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintVertical_chainStyle com.snakes_ladders_game_background.dice_tile:layout_constraintVertical_chainStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintVertical_weight com.snakes_ladders_game_background.dice_tile:layout_constraintVertical_weight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_default com.snakes_ladders_game_background.dice_tile:layout_constraintWidth_default}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_max com.snakes_ladders_game_background.dice_tile:layout_constraintWidth_max}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_min com.snakes_ladders_game_background.dice_tile:layout_constraintWidth_min}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_editor_absoluteX com.snakes_ladders_game_background.dice_tile:layout_editor_absoluteX}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_editor_absoluteY com.snakes_ladders_game_background.dice_tile:layout_editor_absoluteY}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginBottom com.snakes_ladders_game_background.dice_tile:layout_goneMarginBottom}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginEnd com.snakes_ladders_game_background.dice_tile:layout_goneMarginEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginLeft com.snakes_ladders_game_background.dice_tile:layout_goneMarginLeft}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginRight com.snakes_ladders_game_background.dice_tile:layout_goneMarginRight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginStart com.snakes_ladders_game_background.dice_tile:layout_goneMarginStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginTop com.snakes_ladders_game_background.dice_tile:layout_goneMarginTop}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_optimizationLevel com.snakes_ladders_game_background.dice_tile:layout_optimizationLevel}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_constraintSet com.snakes_ladder.dice:constraintSet}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBaseline_creator com.snakes_ladder.dice:layout_constraintBaseline_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBaseline_toBaselineOf com.snakes_ladder.dice:layout_constraintBaseline_toBaselineOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBottom_creator com.snakes_ladder.dice:layout_constraintBottom_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBottom_toBottomOf com.snakes_ladder.dice:layout_constraintBottom_toBottomOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBottom_toTopOf com.snakes_ladder.dice:layout_constraintBottom_toTopOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintDimensionRatio com.snakes_ladder.dice:layout_constraintDimensionRatio}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintEnd_toEndOf com.snakes_ladder.dice:layout_constraintEnd_toEndOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintEnd_toStartOf com.snakes_ladder.dice:layout_constraintEnd_toStartOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintGuide_begin com.snakes_ladder.dice:layout_constraintGuide_begin}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintGuide_end com.snakes_ladder.dice:layout_constraintGuide_end}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintGuide_percent com.snakes_ladder.dice:layout_constraintGuide_percent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_default com.snakes_ladder.dice:layout_constraintHeight_default}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_max com.snakes_ladder.dice:layout_constraintHeight_max}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_min com.snakes_ladder.dice:layout_constraintHeight_min}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHorizontal_bias com.snakes_ladder.dice:layout_constraintHorizontal_bias}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHorizontal_chainStyle com.snakes_ladder.dice:layout_constraintHorizontal_chainStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHorizontal_weight com.snakes_ladder.dice:layout_constraintHorizontal_weight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintLeft_creator com.snakes_ladder.dice:layout_constraintLeft_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintLeft_toLeftOf com.snakes_ladder.dice:layout_constraintLeft_toLeftOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintLeft_toRightOf com.snakes_ladder.dice:layout_constraintLeft_toRightOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintRight_creator com.snakes_ladder.dice:layout_constraintRight_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintRight_toLeftOf com.snakes_ladder.dice:layout_constraintRight_toLeftOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintRight_toRightOf com.snakes_ladder.dice:layout_constraintRight_toRightOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintStart_toEndOf com.snakes_ladder.dice:layout_constraintStart_toEndOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintStart_toStartOf com.snakes_ladder.dice:layout_constraintStart_toStartOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintTop_creator com.snakes_ladder.dice:layout_constraintTop_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintTop_toBottomOf com.snakes_ladder.dice:layout_constraintTop_toBottomOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintTop_toTopOf com.snakes_ladder.dice:layout_constraintTop_toTopOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintVertical_bias com.snakes_ladder.dice:layout_constraintVertical_bias}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintVertical_chainStyle com.snakes_ladder.dice:layout_constraintVertical_chainStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintVertical_weight com.snakes_ladder.dice:layout_constraintVertical_weight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_default com.snakes_ladder.dice:layout_constraintWidth_default}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_max com.snakes_ladder.dice:layout_constraintWidth_max}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_min com.snakes_ladder.dice:layout_constraintWidth_min}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_editor_absoluteX com.snakes_ladder.dice:layout_editor_absoluteX}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_editor_absoluteY com.snakes_ladder.dice:layout_editor_absoluteY}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginBottom com.snakes_ladder.dice:layout_goneMarginBottom}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginEnd com.snakes_ladder.dice:layout_goneMarginEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginLeft com.snakes_ladder.dice:layout_goneMarginLeft}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginRight com.snakes_ladder.dice:layout_goneMarginRight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginStart com.snakes_ladder.dice:layout_goneMarginStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginTop com.snakes_ladder.dice:layout_goneMarginTop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_optimizationLevel com.snakes_ladder.dice:layout_optimizationLevel}</code></td><td></td></tr>
      * </table>
      * @see #ConstraintLayout_Layout_android_orientation
      * @see #ConstraintLayout_Layout_android_maxWidth
@@ -8389,7 +8389,7 @@ public final class R {
      */
     public static final int ConstraintLayout_Layout_android_orientation=0;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#constraintSet}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#constraintSet}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8397,20 +8397,20 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:constraintSet
+     * @attr name com.snakes_ladder.dice:constraintSet
      */
     public static final int ConstraintLayout_Layout_constraintSet=5;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#layout_constraintBaseline_creator}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#layout_constraintBaseline_creator}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:layout_constraintBaseline_creator
+     * @attr name com.snakes_ladder.dice:layout_constraintBaseline_creator
      */
     public static final int ConstraintLayout_Layout_layout_constraintBaseline_creator=6;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#layout_constraintBaseline_toBaselineOf}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#layout_constraintBaseline_toBaselineOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8426,20 +8426,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:layout_constraintBaseline_toBaselineOf
+     * @attr name com.snakes_ladder.dice:layout_constraintBaseline_toBaselineOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintBaseline_toBaselineOf=7;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#layout_constraintBottom_creator}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#layout_constraintBottom_creator}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:layout_constraintBottom_creator
+     * @attr name com.snakes_ladder.dice:layout_constraintBottom_creator
      */
     public static final int ConstraintLayout_Layout_layout_constraintBottom_creator=8;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#layout_constraintBottom_toBottomOf}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#layout_constraintBottom_toBottomOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8455,11 +8455,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:layout_constraintBottom_toBottomOf
+     * @attr name com.snakes_ladder.dice:layout_constraintBottom_toBottomOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintBottom_toBottomOf=9;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#layout_constraintBottom_toTopOf}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#layout_constraintBottom_toTopOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8475,21 +8475,21 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:layout_constraintBottom_toTopOf
+     * @attr name com.snakes_ladder.dice:layout_constraintBottom_toTopOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintBottom_toTopOf=10;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#layout_constraintDimensionRatio}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#layout_constraintDimensionRatio}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:layout_constraintDimensionRatio
+     * @attr name com.snakes_ladder.dice:layout_constraintDimensionRatio
      */
     public static final int ConstraintLayout_Layout_layout_constraintDimensionRatio=11;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#layout_constraintEnd_toEndOf}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#layout_constraintEnd_toEndOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8505,11 +8505,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:layout_constraintEnd_toEndOf
+     * @attr name com.snakes_ladder.dice:layout_constraintEnd_toEndOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintEnd_toEndOf=12;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#layout_constraintEnd_toStartOf}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#layout_constraintEnd_toStartOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8525,11 +8525,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:layout_constraintEnd_toStartOf
+     * @attr name com.snakes_ladder.dice:layout_constraintEnd_toStartOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintEnd_toStartOf=13;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#layout_constraintGuide_begin}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#layout_constraintGuide_begin}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8538,11 +8538,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:layout_constraintGuide_begin
+     * @attr name com.snakes_ladder.dice:layout_constraintGuide_begin
      */
     public static final int ConstraintLayout_Layout_layout_constraintGuide_begin=14;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#layout_constraintGuide_end}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#layout_constraintGuide_end}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8551,20 +8551,20 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:layout_constraintGuide_end
+     * @attr name com.snakes_ladder.dice:layout_constraintGuide_end
      */
     public static final int ConstraintLayout_Layout_layout_constraintGuide_end=15;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#layout_constraintGuide_percent}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#layout_constraintGuide_percent}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:layout_constraintGuide_percent
+     * @attr name com.snakes_ladder.dice:layout_constraintGuide_percent
      */
     public static final int ConstraintLayout_Layout_layout_constraintGuide_percent=16;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#layout_constraintHeight_default}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#layout_constraintHeight_default}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -8577,11 +8577,11 @@ public final class R {
      * <tr><td>wrap</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:layout_constraintHeight_default
+     * @attr name com.snakes_ladder.dice:layout_constraintHeight_default
      */
     public static final int ConstraintLayout_Layout_layout_constraintHeight_default=17;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#layout_constraintHeight_max}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#layout_constraintHeight_max}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8590,11 +8590,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:layout_constraintHeight_max
+     * @attr name com.snakes_ladder.dice:layout_constraintHeight_max
      */
     public static final int ConstraintLayout_Layout_layout_constraintHeight_max=18;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#layout_constraintHeight_min}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#layout_constraintHeight_min}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8603,20 +8603,20 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:layout_constraintHeight_min
+     * @attr name com.snakes_ladder.dice:layout_constraintHeight_min
      */
     public static final int ConstraintLayout_Layout_layout_constraintHeight_min=19;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#layout_constraintHorizontal_bias}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#layout_constraintHorizontal_bias}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:layout_constraintHorizontal_bias
+     * @attr name com.snakes_ladder.dice:layout_constraintHorizontal_bias
      */
     public static final int ConstraintLayout_Layout_layout_constraintHorizontal_bias=20;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#layout_constraintHorizontal_chainStyle}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#layout_constraintHorizontal_chainStyle}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -8630,29 +8630,29 @@ public final class R {
      * <tr><td>spread_inside</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:layout_constraintHorizontal_chainStyle
+     * @attr name com.snakes_ladder.dice:layout_constraintHorizontal_chainStyle
      */
     public static final int ConstraintLayout_Layout_layout_constraintHorizontal_chainStyle=21;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#layout_constraintHorizontal_weight}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#layout_constraintHorizontal_weight}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:layout_constraintHorizontal_weight
+     * @attr name com.snakes_ladder.dice:layout_constraintHorizontal_weight
      */
     public static final int ConstraintLayout_Layout_layout_constraintHorizontal_weight=22;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#layout_constraintLeft_creator}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#layout_constraintLeft_creator}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:layout_constraintLeft_creator
+     * @attr name com.snakes_ladder.dice:layout_constraintLeft_creator
      */
     public static final int ConstraintLayout_Layout_layout_constraintLeft_creator=23;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#layout_constraintLeft_toLeftOf}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#layout_constraintLeft_toLeftOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8668,11 +8668,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:layout_constraintLeft_toLeftOf
+     * @attr name com.snakes_ladder.dice:layout_constraintLeft_toLeftOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintLeft_toLeftOf=24;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#layout_constraintLeft_toRightOf}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#layout_constraintLeft_toRightOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8688,20 +8688,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:layout_constraintLeft_toRightOf
+     * @attr name com.snakes_ladder.dice:layout_constraintLeft_toRightOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintLeft_toRightOf=25;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#layout_constraintRight_creator}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#layout_constraintRight_creator}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:layout_constraintRight_creator
+     * @attr name com.snakes_ladder.dice:layout_constraintRight_creator
      */
     public static final int ConstraintLayout_Layout_layout_constraintRight_creator=26;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#layout_constraintRight_toLeftOf}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#layout_constraintRight_toLeftOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8717,11 +8717,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:layout_constraintRight_toLeftOf
+     * @attr name com.snakes_ladder.dice:layout_constraintRight_toLeftOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintRight_toLeftOf=27;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#layout_constraintRight_toRightOf}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#layout_constraintRight_toRightOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8737,11 +8737,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:layout_constraintRight_toRightOf
+     * @attr name com.snakes_ladder.dice:layout_constraintRight_toRightOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintRight_toRightOf=28;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#layout_constraintStart_toEndOf}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#layout_constraintStart_toEndOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8757,11 +8757,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:layout_constraintStart_toEndOf
+     * @attr name com.snakes_ladder.dice:layout_constraintStart_toEndOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintStart_toEndOf=29;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#layout_constraintStart_toStartOf}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#layout_constraintStart_toStartOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8777,20 +8777,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:layout_constraintStart_toStartOf
+     * @attr name com.snakes_ladder.dice:layout_constraintStart_toStartOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintStart_toStartOf=30;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#layout_constraintTop_creator}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#layout_constraintTop_creator}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:layout_constraintTop_creator
+     * @attr name com.snakes_ladder.dice:layout_constraintTop_creator
      */
     public static final int ConstraintLayout_Layout_layout_constraintTop_creator=31;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#layout_constraintTop_toBottomOf}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#layout_constraintTop_toBottomOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8806,11 +8806,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:layout_constraintTop_toBottomOf
+     * @attr name com.snakes_ladder.dice:layout_constraintTop_toBottomOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintTop_toBottomOf=32;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#layout_constraintTop_toTopOf}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#layout_constraintTop_toTopOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8826,20 +8826,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:layout_constraintTop_toTopOf
+     * @attr name com.snakes_ladder.dice:layout_constraintTop_toTopOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintTop_toTopOf=33;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#layout_constraintVertical_bias}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#layout_constraintVertical_bias}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:layout_constraintVertical_bias
+     * @attr name com.snakes_ladder.dice:layout_constraintVertical_bias
      */
     public static final int ConstraintLayout_Layout_layout_constraintVertical_bias=34;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#layout_constraintVertical_chainStyle}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#layout_constraintVertical_chainStyle}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -8853,20 +8853,20 @@ public final class R {
      * <tr><td>spread_inside</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:layout_constraintVertical_chainStyle
+     * @attr name com.snakes_ladder.dice:layout_constraintVertical_chainStyle
      */
     public static final int ConstraintLayout_Layout_layout_constraintVertical_chainStyle=35;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#layout_constraintVertical_weight}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#layout_constraintVertical_weight}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:layout_constraintVertical_weight
+     * @attr name com.snakes_ladder.dice:layout_constraintVertical_weight
      */
     public static final int ConstraintLayout_Layout_layout_constraintVertical_weight=36;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#layout_constraintWidth_default}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#layout_constraintWidth_default}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -8879,11 +8879,11 @@ public final class R {
      * <tr><td>wrap</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:layout_constraintWidth_default
+     * @attr name com.snakes_ladder.dice:layout_constraintWidth_default
      */
     public static final int ConstraintLayout_Layout_layout_constraintWidth_default=37;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#layout_constraintWidth_max}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#layout_constraintWidth_max}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8892,11 +8892,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:layout_constraintWidth_max
+     * @attr name com.snakes_ladder.dice:layout_constraintWidth_max
      */
     public static final int ConstraintLayout_Layout_layout_constraintWidth_max=38;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#layout_constraintWidth_min}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#layout_constraintWidth_min}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8905,11 +8905,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:layout_constraintWidth_min
+     * @attr name com.snakes_ladder.dice:layout_constraintWidth_min
      */
     public static final int ConstraintLayout_Layout_layout_constraintWidth_min=39;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#layout_editor_absoluteX}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#layout_editor_absoluteX}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8918,11 +8918,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:layout_editor_absoluteX
+     * @attr name com.snakes_ladder.dice:layout_editor_absoluteX
      */
     public static final int ConstraintLayout_Layout_layout_editor_absoluteX=40;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#layout_editor_absoluteY}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#layout_editor_absoluteY}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8931,11 +8931,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:layout_editor_absoluteY
+     * @attr name com.snakes_ladder.dice:layout_editor_absoluteY
      */
     public static final int ConstraintLayout_Layout_layout_editor_absoluteY=41;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#layout_goneMarginBottom}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#layout_goneMarginBottom}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8944,11 +8944,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:layout_goneMarginBottom
+     * @attr name com.snakes_ladder.dice:layout_goneMarginBottom
      */
     public static final int ConstraintLayout_Layout_layout_goneMarginBottom=42;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#layout_goneMarginEnd}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#layout_goneMarginEnd}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8957,11 +8957,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:layout_goneMarginEnd
+     * @attr name com.snakes_ladder.dice:layout_goneMarginEnd
      */
     public static final int ConstraintLayout_Layout_layout_goneMarginEnd=43;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#layout_goneMarginLeft}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#layout_goneMarginLeft}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8970,11 +8970,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:layout_goneMarginLeft
+     * @attr name com.snakes_ladder.dice:layout_goneMarginLeft
      */
     public static final int ConstraintLayout_Layout_layout_goneMarginLeft=44;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#layout_goneMarginRight}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#layout_goneMarginRight}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8983,11 +8983,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:layout_goneMarginRight
+     * @attr name com.snakes_ladder.dice:layout_goneMarginRight
      */
     public static final int ConstraintLayout_Layout_layout_goneMarginRight=45;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#layout_goneMarginStart}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#layout_goneMarginStart}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8996,11 +8996,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:layout_goneMarginStart
+     * @attr name com.snakes_ladder.dice:layout_goneMarginStart
      */
     public static final int ConstraintLayout_Layout_layout_goneMarginStart=46;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#layout_goneMarginTop}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#layout_goneMarginTop}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9009,11 +9009,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:layout_goneMarginTop
+     * @attr name com.snakes_ladder.dice:layout_goneMarginTop
      */
     public static final int ConstraintLayout_Layout_layout_goneMarginTop=47;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#layout_optimizationLevel}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#layout_optimizationLevel}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -9028,7 +9028,7 @@ public final class R {
      * <tr><td>none</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:layout_optimizationLevel
+     * @attr name com.snakes_ladder.dice:layout_optimizationLevel
      */
     public static final int ConstraintLayout_Layout_layout_optimizationLevel=48;
     /**
@@ -9060,48 +9060,48 @@ public final class R {
      * <tr><td><code>{@link #ConstraintSet_android_layout_marginEnd android:layout_marginEnd}</code></td><td></td></tr>
      * <tr><td><code>{@link #ConstraintSet_android_translationZ android:translationZ}</code></td><td></td></tr>
      * <tr><td><code>{@link #ConstraintSet_android_elevation android:elevation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintBaseline_creator com.snakes_ladders_game_background.dice_tile:layout_constraintBaseline_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintBaseline_toBaselineOf com.snakes_ladders_game_background.dice_tile:layout_constraintBaseline_toBaselineOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintBottom_creator com.snakes_ladders_game_background.dice_tile:layout_constraintBottom_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintBottom_toBottomOf com.snakes_ladders_game_background.dice_tile:layout_constraintBottom_toBottomOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintBottom_toTopOf com.snakes_ladders_game_background.dice_tile:layout_constraintBottom_toTopOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintDimensionRatio com.snakes_ladders_game_background.dice_tile:layout_constraintDimensionRatio}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintEnd_toEndOf com.snakes_ladders_game_background.dice_tile:layout_constraintEnd_toEndOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintEnd_toStartOf com.snakes_ladders_game_background.dice_tile:layout_constraintEnd_toStartOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintGuide_begin com.snakes_ladders_game_background.dice_tile:layout_constraintGuide_begin}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintGuide_end com.snakes_ladders_game_background.dice_tile:layout_constraintGuide_end}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintGuide_percent com.snakes_ladders_game_background.dice_tile:layout_constraintGuide_percent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_default com.snakes_ladders_game_background.dice_tile:layout_constraintHeight_default}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_max com.snakes_ladders_game_background.dice_tile:layout_constraintHeight_max}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_min com.snakes_ladders_game_background.dice_tile:layout_constraintHeight_min}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintHorizontal_bias com.snakes_ladders_game_background.dice_tile:layout_constraintHorizontal_bias}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintHorizontal_chainStyle com.snakes_ladders_game_background.dice_tile:layout_constraintHorizontal_chainStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintHorizontal_weight com.snakes_ladders_game_background.dice_tile:layout_constraintHorizontal_weight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintLeft_creator com.snakes_ladders_game_background.dice_tile:layout_constraintLeft_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintLeft_toLeftOf com.snakes_ladders_game_background.dice_tile:layout_constraintLeft_toLeftOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintLeft_toRightOf com.snakes_ladders_game_background.dice_tile:layout_constraintLeft_toRightOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintRight_creator com.snakes_ladders_game_background.dice_tile:layout_constraintRight_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintRight_toLeftOf com.snakes_ladders_game_background.dice_tile:layout_constraintRight_toLeftOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintRight_toRightOf com.snakes_ladders_game_background.dice_tile:layout_constraintRight_toRightOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintStart_toEndOf com.snakes_ladders_game_background.dice_tile:layout_constraintStart_toEndOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintStart_toStartOf com.snakes_ladders_game_background.dice_tile:layout_constraintStart_toStartOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintTop_creator com.snakes_ladders_game_background.dice_tile:layout_constraintTop_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintTop_toBottomOf com.snakes_ladders_game_background.dice_tile:layout_constraintTop_toBottomOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintTop_toTopOf com.snakes_ladders_game_background.dice_tile:layout_constraintTop_toTopOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintVertical_bias com.snakes_ladders_game_background.dice_tile:layout_constraintVertical_bias}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintVertical_chainStyle com.snakes_ladders_game_background.dice_tile:layout_constraintVertical_chainStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintVertical_weight com.snakes_ladders_game_background.dice_tile:layout_constraintVertical_weight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_default com.snakes_ladders_game_background.dice_tile:layout_constraintWidth_default}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_max com.snakes_ladders_game_background.dice_tile:layout_constraintWidth_max}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_min com.snakes_ladders_game_background.dice_tile:layout_constraintWidth_min}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_editor_absoluteX com.snakes_ladders_game_background.dice_tile:layout_editor_absoluteX}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_editor_absoluteY com.snakes_ladders_game_background.dice_tile:layout_editor_absoluteY}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginBottom com.snakes_ladders_game_background.dice_tile:layout_goneMarginBottom}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginEnd com.snakes_ladders_game_background.dice_tile:layout_goneMarginEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginLeft com.snakes_ladders_game_background.dice_tile:layout_goneMarginLeft}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginRight com.snakes_ladders_game_background.dice_tile:layout_goneMarginRight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginStart com.snakes_ladders_game_background.dice_tile:layout_goneMarginStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginTop com.snakes_ladders_game_background.dice_tile:layout_goneMarginTop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintBaseline_creator com.snakes_ladder.dice:layout_constraintBaseline_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintBaseline_toBaselineOf com.snakes_ladder.dice:layout_constraintBaseline_toBaselineOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintBottom_creator com.snakes_ladder.dice:layout_constraintBottom_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintBottom_toBottomOf com.snakes_ladder.dice:layout_constraintBottom_toBottomOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintBottom_toTopOf com.snakes_ladder.dice:layout_constraintBottom_toTopOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintDimensionRatio com.snakes_ladder.dice:layout_constraintDimensionRatio}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintEnd_toEndOf com.snakes_ladder.dice:layout_constraintEnd_toEndOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintEnd_toStartOf com.snakes_ladder.dice:layout_constraintEnd_toStartOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintGuide_begin com.snakes_ladder.dice:layout_constraintGuide_begin}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintGuide_end com.snakes_ladder.dice:layout_constraintGuide_end}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintGuide_percent com.snakes_ladder.dice:layout_constraintGuide_percent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_default com.snakes_ladder.dice:layout_constraintHeight_default}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_max com.snakes_ladder.dice:layout_constraintHeight_max}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_min com.snakes_ladder.dice:layout_constraintHeight_min}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintHorizontal_bias com.snakes_ladder.dice:layout_constraintHorizontal_bias}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintHorizontal_chainStyle com.snakes_ladder.dice:layout_constraintHorizontal_chainStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintHorizontal_weight com.snakes_ladder.dice:layout_constraintHorizontal_weight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintLeft_creator com.snakes_ladder.dice:layout_constraintLeft_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintLeft_toLeftOf com.snakes_ladder.dice:layout_constraintLeft_toLeftOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintLeft_toRightOf com.snakes_ladder.dice:layout_constraintLeft_toRightOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintRight_creator com.snakes_ladder.dice:layout_constraintRight_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintRight_toLeftOf com.snakes_ladder.dice:layout_constraintRight_toLeftOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintRight_toRightOf com.snakes_ladder.dice:layout_constraintRight_toRightOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintStart_toEndOf com.snakes_ladder.dice:layout_constraintStart_toEndOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintStart_toStartOf com.snakes_ladder.dice:layout_constraintStart_toStartOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintTop_creator com.snakes_ladder.dice:layout_constraintTop_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintTop_toBottomOf com.snakes_ladder.dice:layout_constraintTop_toBottomOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintTop_toTopOf com.snakes_ladder.dice:layout_constraintTop_toTopOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintVertical_bias com.snakes_ladder.dice:layout_constraintVertical_bias}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintVertical_chainStyle com.snakes_ladder.dice:layout_constraintVertical_chainStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintVertical_weight com.snakes_ladder.dice:layout_constraintVertical_weight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_default com.snakes_ladder.dice:layout_constraintWidth_default}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_max com.snakes_ladder.dice:layout_constraintWidth_max}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_min com.snakes_ladder.dice:layout_constraintWidth_min}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_editor_absoluteX com.snakes_ladder.dice:layout_editor_absoluteX}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_editor_absoluteY com.snakes_ladder.dice:layout_editor_absoluteY}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginBottom com.snakes_ladder.dice:layout_goneMarginBottom}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginEnd com.snakes_ladder.dice:layout_goneMarginEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginLeft com.snakes_ladder.dice:layout_goneMarginLeft}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginRight com.snakes_ladder.dice:layout_goneMarginRight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginStart com.snakes_ladder.dice:layout_goneMarginStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginTop com.snakes_ladder.dice:layout_goneMarginTop}</code></td><td></td></tr>
      * </table>
      * @see #ConstraintSet_android_orientation
      * @see #ConstraintSet_android_id
@@ -9481,16 +9481,16 @@ public final class R {
      */
     public static final int ConstraintSet_android_visibility=2;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#layout_constraintBaseline_creator}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#layout_constraintBaseline_creator}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:layout_constraintBaseline_creator
+     * @attr name com.snakes_ladder.dice:layout_constraintBaseline_creator
      */
     public static final int ConstraintSet_layout_constraintBaseline_creator=22;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#layout_constraintBaseline_toBaselineOf}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#layout_constraintBaseline_toBaselineOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9506,20 +9506,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:layout_constraintBaseline_toBaselineOf
+     * @attr name com.snakes_ladder.dice:layout_constraintBaseline_toBaselineOf
      */
     public static final int ConstraintSet_layout_constraintBaseline_toBaselineOf=23;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#layout_constraintBottom_creator}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#layout_constraintBottom_creator}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:layout_constraintBottom_creator
+     * @attr name com.snakes_ladder.dice:layout_constraintBottom_creator
      */
     public static final int ConstraintSet_layout_constraintBottom_creator=24;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#layout_constraintBottom_toBottomOf}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#layout_constraintBottom_toBottomOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9535,11 +9535,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:layout_constraintBottom_toBottomOf
+     * @attr name com.snakes_ladder.dice:layout_constraintBottom_toBottomOf
      */
     public static final int ConstraintSet_layout_constraintBottom_toBottomOf=25;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#layout_constraintBottom_toTopOf}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#layout_constraintBottom_toTopOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9555,21 +9555,21 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:layout_constraintBottom_toTopOf
+     * @attr name com.snakes_ladder.dice:layout_constraintBottom_toTopOf
      */
     public static final int ConstraintSet_layout_constraintBottom_toTopOf=26;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#layout_constraintDimensionRatio}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#layout_constraintDimensionRatio}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:layout_constraintDimensionRatio
+     * @attr name com.snakes_ladder.dice:layout_constraintDimensionRatio
      */
     public static final int ConstraintSet_layout_constraintDimensionRatio=27;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#layout_constraintEnd_toEndOf}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#layout_constraintEnd_toEndOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9585,11 +9585,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:layout_constraintEnd_toEndOf
+     * @attr name com.snakes_ladder.dice:layout_constraintEnd_toEndOf
      */
     public static final int ConstraintSet_layout_constraintEnd_toEndOf=28;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#layout_constraintEnd_toStartOf}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#layout_constraintEnd_toStartOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9605,11 +9605,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:layout_constraintEnd_toStartOf
+     * @attr name com.snakes_ladder.dice:layout_constraintEnd_toStartOf
      */
     public static final int ConstraintSet_layout_constraintEnd_toStartOf=29;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#layout_constraintGuide_begin}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#layout_constraintGuide_begin}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9618,11 +9618,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:layout_constraintGuide_begin
+     * @attr name com.snakes_ladder.dice:layout_constraintGuide_begin
      */
     public static final int ConstraintSet_layout_constraintGuide_begin=30;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#layout_constraintGuide_end}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#layout_constraintGuide_end}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9631,20 +9631,20 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:layout_constraintGuide_end
+     * @attr name com.snakes_ladder.dice:layout_constraintGuide_end
      */
     public static final int ConstraintSet_layout_constraintGuide_end=31;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#layout_constraintGuide_percent}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#layout_constraintGuide_percent}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:layout_constraintGuide_percent
+     * @attr name com.snakes_ladder.dice:layout_constraintGuide_percent
      */
     public static final int ConstraintSet_layout_constraintGuide_percent=32;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#layout_constraintHeight_default}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#layout_constraintHeight_default}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -9657,11 +9657,11 @@ public final class R {
      * <tr><td>wrap</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:layout_constraintHeight_default
+     * @attr name com.snakes_ladder.dice:layout_constraintHeight_default
      */
     public static final int ConstraintSet_layout_constraintHeight_default=33;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#layout_constraintHeight_max}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#layout_constraintHeight_max}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9670,11 +9670,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:layout_constraintHeight_max
+     * @attr name com.snakes_ladder.dice:layout_constraintHeight_max
      */
     public static final int ConstraintSet_layout_constraintHeight_max=34;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#layout_constraintHeight_min}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#layout_constraintHeight_min}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9683,20 +9683,20 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:layout_constraintHeight_min
+     * @attr name com.snakes_ladder.dice:layout_constraintHeight_min
      */
     public static final int ConstraintSet_layout_constraintHeight_min=35;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#layout_constraintHorizontal_bias}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#layout_constraintHorizontal_bias}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:layout_constraintHorizontal_bias
+     * @attr name com.snakes_ladder.dice:layout_constraintHorizontal_bias
      */
     public static final int ConstraintSet_layout_constraintHorizontal_bias=36;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#layout_constraintHorizontal_chainStyle}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#layout_constraintHorizontal_chainStyle}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -9710,29 +9710,29 @@ public final class R {
      * <tr><td>spread_inside</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:layout_constraintHorizontal_chainStyle
+     * @attr name com.snakes_ladder.dice:layout_constraintHorizontal_chainStyle
      */
     public static final int ConstraintSet_layout_constraintHorizontal_chainStyle=37;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#layout_constraintHorizontal_weight}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#layout_constraintHorizontal_weight}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:layout_constraintHorizontal_weight
+     * @attr name com.snakes_ladder.dice:layout_constraintHorizontal_weight
      */
     public static final int ConstraintSet_layout_constraintHorizontal_weight=38;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#layout_constraintLeft_creator}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#layout_constraintLeft_creator}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:layout_constraintLeft_creator
+     * @attr name com.snakes_ladder.dice:layout_constraintLeft_creator
      */
     public static final int ConstraintSet_layout_constraintLeft_creator=39;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#layout_constraintLeft_toLeftOf}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#layout_constraintLeft_toLeftOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9748,11 +9748,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:layout_constraintLeft_toLeftOf
+     * @attr name com.snakes_ladder.dice:layout_constraintLeft_toLeftOf
      */
     public static final int ConstraintSet_layout_constraintLeft_toLeftOf=40;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#layout_constraintLeft_toRightOf}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#layout_constraintLeft_toRightOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9768,20 +9768,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:layout_constraintLeft_toRightOf
+     * @attr name com.snakes_ladder.dice:layout_constraintLeft_toRightOf
      */
     public static final int ConstraintSet_layout_constraintLeft_toRightOf=41;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#layout_constraintRight_creator}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#layout_constraintRight_creator}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:layout_constraintRight_creator
+     * @attr name com.snakes_ladder.dice:layout_constraintRight_creator
      */
     public static final int ConstraintSet_layout_constraintRight_creator=42;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#layout_constraintRight_toLeftOf}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#layout_constraintRight_toLeftOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9797,11 +9797,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:layout_constraintRight_toLeftOf
+     * @attr name com.snakes_ladder.dice:layout_constraintRight_toLeftOf
      */
     public static final int ConstraintSet_layout_constraintRight_toLeftOf=43;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#layout_constraintRight_toRightOf}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#layout_constraintRight_toRightOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9817,11 +9817,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:layout_constraintRight_toRightOf
+     * @attr name com.snakes_ladder.dice:layout_constraintRight_toRightOf
      */
     public static final int ConstraintSet_layout_constraintRight_toRightOf=44;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#layout_constraintStart_toEndOf}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#layout_constraintStart_toEndOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9837,11 +9837,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:layout_constraintStart_toEndOf
+     * @attr name com.snakes_ladder.dice:layout_constraintStart_toEndOf
      */
     public static final int ConstraintSet_layout_constraintStart_toEndOf=45;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#layout_constraintStart_toStartOf}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#layout_constraintStart_toStartOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9857,20 +9857,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:layout_constraintStart_toStartOf
+     * @attr name com.snakes_ladder.dice:layout_constraintStart_toStartOf
      */
     public static final int ConstraintSet_layout_constraintStart_toStartOf=46;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#layout_constraintTop_creator}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#layout_constraintTop_creator}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:layout_constraintTop_creator
+     * @attr name com.snakes_ladder.dice:layout_constraintTop_creator
      */
     public static final int ConstraintSet_layout_constraintTop_creator=47;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#layout_constraintTop_toBottomOf}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#layout_constraintTop_toBottomOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9886,11 +9886,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:layout_constraintTop_toBottomOf
+     * @attr name com.snakes_ladder.dice:layout_constraintTop_toBottomOf
      */
     public static final int ConstraintSet_layout_constraintTop_toBottomOf=48;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#layout_constraintTop_toTopOf}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#layout_constraintTop_toTopOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9906,20 +9906,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:layout_constraintTop_toTopOf
+     * @attr name com.snakes_ladder.dice:layout_constraintTop_toTopOf
      */
     public static final int ConstraintSet_layout_constraintTop_toTopOf=49;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#layout_constraintVertical_bias}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#layout_constraintVertical_bias}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:layout_constraintVertical_bias
+     * @attr name com.snakes_ladder.dice:layout_constraintVertical_bias
      */
     public static final int ConstraintSet_layout_constraintVertical_bias=50;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#layout_constraintVertical_chainStyle}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#layout_constraintVertical_chainStyle}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -9933,20 +9933,20 @@ public final class R {
      * <tr><td>spread_inside</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:layout_constraintVertical_chainStyle
+     * @attr name com.snakes_ladder.dice:layout_constraintVertical_chainStyle
      */
     public static final int ConstraintSet_layout_constraintVertical_chainStyle=51;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#layout_constraintVertical_weight}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#layout_constraintVertical_weight}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:layout_constraintVertical_weight
+     * @attr name com.snakes_ladder.dice:layout_constraintVertical_weight
      */
     public static final int ConstraintSet_layout_constraintVertical_weight=52;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#layout_constraintWidth_default}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#layout_constraintWidth_default}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -9959,11 +9959,11 @@ public final class R {
      * <tr><td>wrap</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:layout_constraintWidth_default
+     * @attr name com.snakes_ladder.dice:layout_constraintWidth_default
      */
     public static final int ConstraintSet_layout_constraintWidth_default=53;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#layout_constraintWidth_max}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#layout_constraintWidth_max}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9972,11 +9972,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:layout_constraintWidth_max
+     * @attr name com.snakes_ladder.dice:layout_constraintWidth_max
      */
     public static final int ConstraintSet_layout_constraintWidth_max=54;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#layout_constraintWidth_min}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#layout_constraintWidth_min}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9985,11 +9985,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:layout_constraintWidth_min
+     * @attr name com.snakes_ladder.dice:layout_constraintWidth_min
      */
     public static final int ConstraintSet_layout_constraintWidth_min=55;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#layout_editor_absoluteX}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#layout_editor_absoluteX}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9998,11 +9998,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:layout_editor_absoluteX
+     * @attr name com.snakes_ladder.dice:layout_editor_absoluteX
      */
     public static final int ConstraintSet_layout_editor_absoluteX=56;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#layout_editor_absoluteY}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#layout_editor_absoluteY}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10011,11 +10011,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:layout_editor_absoluteY
+     * @attr name com.snakes_ladder.dice:layout_editor_absoluteY
      */
     public static final int ConstraintSet_layout_editor_absoluteY=57;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#layout_goneMarginBottom}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#layout_goneMarginBottom}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10024,11 +10024,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:layout_goneMarginBottom
+     * @attr name com.snakes_ladder.dice:layout_goneMarginBottom
      */
     public static final int ConstraintSet_layout_goneMarginBottom=58;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#layout_goneMarginEnd}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#layout_goneMarginEnd}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10037,11 +10037,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:layout_goneMarginEnd
+     * @attr name com.snakes_ladder.dice:layout_goneMarginEnd
      */
     public static final int ConstraintSet_layout_goneMarginEnd=59;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#layout_goneMarginLeft}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#layout_goneMarginLeft}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10050,11 +10050,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:layout_goneMarginLeft
+     * @attr name com.snakes_ladder.dice:layout_goneMarginLeft
      */
     public static final int ConstraintSet_layout_goneMarginLeft=60;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#layout_goneMarginRight}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#layout_goneMarginRight}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10063,11 +10063,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:layout_goneMarginRight
+     * @attr name com.snakes_ladder.dice:layout_goneMarginRight
      */
     public static final int ConstraintSet_layout_goneMarginRight=61;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#layout_goneMarginStart}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#layout_goneMarginStart}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10076,11 +10076,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:layout_goneMarginStart
+     * @attr name com.snakes_ladder.dice:layout_goneMarginStart
      */
     public static final int ConstraintSet_layout_goneMarginStart=62;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#layout_goneMarginTop}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#layout_goneMarginTop}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10089,7 +10089,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:layout_goneMarginTop
+     * @attr name com.snakes_ladder.dice:layout_goneMarginTop
      */
     public static final int ConstraintSet_layout_goneMarginTop=63;
     /**
@@ -10099,8 +10099,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_keylines com.snakes_ladders_game_background.dice_tile:keylines}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_statusBarBackground com.snakes_ladders_game_background.dice_tile:statusBarBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_keylines com.snakes_ladder.dice:keylines}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_statusBarBackground com.snakes_ladder.dice:statusBarBackground}</code></td><td></td></tr>
      * </table>
      * @see #CoordinatorLayout_keylines
      * @see #CoordinatorLayout_statusBarBackground
@@ -10116,12 +10116,12 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #CoordinatorLayout_Layout_android_layout_gravity android:layout_gravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchor com.snakes_ladders_game_background.dice_tile:layout_anchor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchorGravity com.snakes_ladders_game_background.dice_tile:layout_anchorGravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_behavior com.snakes_ladders_game_background.dice_tile:layout_behavior}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_dodgeInsetEdges com.snakes_ladders_game_background.dice_tile:layout_dodgeInsetEdges}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_insetEdge com.snakes_ladders_game_background.dice_tile:layout_insetEdge}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_keyline com.snakes_ladders_game_background.dice_tile:layout_keyline}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchor com.snakes_ladder.dice:layout_anchor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchorGravity com.snakes_ladder.dice:layout_anchorGravity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_behavior com.snakes_ladder.dice:layout_behavior}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_dodgeInsetEdges com.snakes_ladder.dice:layout_dodgeInsetEdges}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_insetEdge com.snakes_ladder.dice:layout_insetEdge}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_keyline com.snakes_ladder.dice:layout_keyline}</code></td><td></td></tr>
      * </table>
      * @see #CoordinatorLayout_Layout_android_layout_gravity
      * @see #CoordinatorLayout_Layout_layout_anchor
@@ -10165,7 +10165,7 @@ public final class R {
      */
     public static final int CoordinatorLayout_Layout_android_layout_gravity=0;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#layout_anchor}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#layout_anchor}
      * attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10173,11 +10173,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:layout_anchor
+     * @attr name com.snakes_ladder.dice:layout_anchor
      */
     public static final int CoordinatorLayout_Layout_layout_anchor=1;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#layout_anchorGravity}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#layout_anchorGravity}
      * attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -10202,21 +10202,21 @@ public final class R {
      * <tr><td>top</td><td>30</td><td></td></tr>
      * </table>
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:layout_anchorGravity
+     * @attr name com.snakes_ladder.dice:layout_anchorGravity
      */
     public static final int CoordinatorLayout_Layout_layout_anchorGravity=2;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#layout_behavior}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#layout_behavior}
      * attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:layout_behavior
+     * @attr name com.snakes_ladder.dice:layout_behavior
      */
     public static final int CoordinatorLayout_Layout_layout_behavior=3;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#layout_dodgeInsetEdges}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#layout_dodgeInsetEdges}
      * attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -10235,11 +10235,11 @@ public final class R {
      * <tr><td>top</td><td>30</td><td></td></tr>
      * </table>
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:layout_dodgeInsetEdges
+     * @attr name com.snakes_ladder.dice:layout_dodgeInsetEdges
      */
     public static final int CoordinatorLayout_Layout_layout_dodgeInsetEdges=4;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#layout_insetEdge}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#layout_insetEdge}
      * attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -10257,20 +10257,20 @@ public final class R {
      * <tr><td>top</td><td>30</td><td></td></tr>
      * </table>
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:layout_insetEdge
+     * @attr name com.snakes_ladder.dice:layout_insetEdge
      */
     public static final int CoordinatorLayout_Layout_layout_insetEdge=5;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#layout_keyline}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#layout_keyline}
      * attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:layout_keyline
+     * @attr name com.snakes_ladder.dice:layout_keyline
      */
     public static final int CoordinatorLayout_Layout_layout_keyline=6;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#keylines}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#keylines}
      * attribute's value can be found in the {@link #CoordinatorLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10278,11 +10278,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:keylines
+     * @attr name com.snakes_ladder.dice:keylines
      */
     public static final int CoordinatorLayout_keylines=0;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#statusBarBackground}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#statusBarBackground}
      * attribute's value can be found in the {@link #CoordinatorLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10290,7 +10290,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:statusBarBackground
+     * @attr name com.snakes_ladder.dice:statusBarBackground
      */
     public static final int CoordinatorLayout_statusBarBackground=1;
     /**
@@ -10300,9 +10300,9 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #DesignTheme_bottomSheetDialogTheme com.snakes_ladders_game_background.dice_tile:bottomSheetDialogTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DesignTheme_bottomSheetStyle com.snakes_ladders_game_background.dice_tile:bottomSheetStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DesignTheme_textColorError com.snakes_ladders_game_background.dice_tile:textColorError}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DesignTheme_bottomSheetDialogTheme com.snakes_ladder.dice:bottomSheetDialogTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DesignTheme_bottomSheetStyle com.snakes_ladder.dice:bottomSheetStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DesignTheme_textColorError com.snakes_ladder.dice:textColorError}</code></td><td></td></tr>
      * </table>
      * @see #DesignTheme_bottomSheetDialogTheme
      * @see #DesignTheme_bottomSheetStyle
@@ -10312,7 +10312,7 @@ public final class R {
         0x7f03003e, 0x7f03003f, 0x7f030165
       };
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#bottomSheetDialogTheme}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#bottomSheetDialogTheme}
      * attribute's value can be found in the {@link #DesignTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10320,11 +10320,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:bottomSheetDialogTheme
+     * @attr name com.snakes_ladder.dice:bottomSheetDialogTheme
      */
     public static final int DesignTheme_bottomSheetDialogTheme=0;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#bottomSheetStyle}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#bottomSheetStyle}
      * attribute's value can be found in the {@link #DesignTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10332,11 +10332,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:bottomSheetStyle
+     * @attr name com.snakes_ladder.dice:bottomSheetStyle
      */
     public static final int DesignTheme_bottomSheetStyle=1;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#textColorError}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#textColorError}
      * attribute's value can be found in the {@link #DesignTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10347,7 +10347,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:textColorError
+     * @attr name com.snakes_ladder.dice:textColorError
      */
     public static final int DesignTheme_textColorError=2;
     /**
@@ -10357,14 +10357,14 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength com.snakes_ladders_game_background.dice_tile:arrowHeadLength}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength com.snakes_ladders_game_background.dice_tile:arrowShaftLength}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_barLength com.snakes_ladders_game_background.dice_tile:barLength}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_color com.snakes_ladders_game_background.dice_tile:color}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_drawableSize com.snakes_ladders_game_background.dice_tile:drawableSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars com.snakes_ladders_game_background.dice_tile:gapBetweenBars}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_spinBars com.snakes_ladders_game_background.dice_tile:spinBars}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_thickness com.snakes_ladders_game_background.dice_tile:thickness}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength com.snakes_ladder.dice:arrowHeadLength}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength com.snakes_ladder.dice:arrowShaftLength}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_barLength com.snakes_ladder.dice:barLength}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_color com.snakes_ladder.dice:color}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_drawableSize com.snakes_ladder.dice:drawableSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars com.snakes_ladder.dice:gapBetweenBars}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_spinBars com.snakes_ladder.dice:spinBars}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_thickness com.snakes_ladder.dice:thickness}</code></td><td></td></tr>
      * </table>
      * @see #DrawerArrowToggle_arrowHeadLength
      * @see #DrawerArrowToggle_arrowShaftLength
@@ -10380,7 +10380,7 @@ public final class R {
         0x7f030081, 0x7f0300a5, 0x7f030135, 0x7f030168
       };
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#arrowHeadLength}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#arrowHeadLength}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10389,11 +10389,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:arrowHeadLength
+     * @attr name com.snakes_ladder.dice:arrowHeadLength
      */
     public static final int DrawerArrowToggle_arrowHeadLength=0;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#arrowShaftLength}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#arrowShaftLength}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10402,11 +10402,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:arrowShaftLength
+     * @attr name com.snakes_ladder.dice:arrowShaftLength
      */
     public static final int DrawerArrowToggle_arrowShaftLength=1;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#barLength}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#barLength}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10415,22 +10415,22 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:barLength
+     * @attr name com.snakes_ladder.dice:barLength
      */
     public static final int DrawerArrowToggle_barLength=2;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#color}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#color}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:color
+     * @attr name com.snakes_ladder.dice:color
      */
     public static final int DrawerArrowToggle_color=3;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#drawableSize}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#drawableSize}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10439,11 +10439,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:drawableSize
+     * @attr name com.snakes_ladder.dice:drawableSize
      */
     public static final int DrawerArrowToggle_drawableSize=4;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#gapBetweenBars}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#gapBetweenBars}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10452,21 +10452,21 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:gapBetweenBars
+     * @attr name com.snakes_ladder.dice:gapBetweenBars
      */
     public static final int DrawerArrowToggle_gapBetweenBars=5;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#spinBars}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#spinBars}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:spinBars
+     * @attr name com.snakes_ladder.dice:spinBars
      */
     public static final int DrawerArrowToggle_spinBars=6;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#thickness}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#thickness}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10475,7 +10475,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:thickness
+     * @attr name com.snakes_ladder.dice:thickness
      */
     public static final int DrawerArrowToggle_thickness=7;
     /**
@@ -10485,14 +10485,14 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #FloatingActionButton_backgroundTint com.snakes_ladders_game_background.dice_tile:backgroundTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_backgroundTintMode com.snakes_ladders_game_background.dice_tile:backgroundTintMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_borderWidth com.snakes_ladders_game_background.dice_tile:borderWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_elevation com.snakes_ladders_game_background.dice_tile:elevation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_fabSize com.snakes_ladders_game_background.dice_tile:fabSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_pressedTranslationZ com.snakes_ladders_game_background.dice_tile:pressedTranslationZ}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_rippleColor com.snakes_ladders_game_background.dice_tile:rippleColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_useCompatPadding com.snakes_ladders_game_background.dice_tile:useCompatPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_backgroundTint com.snakes_ladder.dice:backgroundTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_backgroundTintMode com.snakes_ladder.dice:backgroundTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_borderWidth com.snakes_ladder.dice:borderWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_elevation com.snakes_ladder.dice:elevation}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_fabSize com.snakes_ladder.dice:fabSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_pressedTranslationZ com.snakes_ladder.dice:pressedTranslationZ}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_rippleColor com.snakes_ladder.dice:rippleColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_useCompatPadding com.snakes_ladder.dice:useCompatPadding}</code></td><td></td></tr>
      * </table>
      * @see #FloatingActionButton_backgroundTint
      * @see #FloatingActionButton_backgroundTintMode
@@ -10514,7 +10514,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #FloatingActionButton_Behavior_Layout_behavior_autoHide com.snakes_ladders_game_background.dice_tile:behavior_autoHide}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_Behavior_Layout_behavior_autoHide com.snakes_ladder.dice:behavior_autoHide}</code></td><td></td></tr>
      * </table>
      * @see #FloatingActionButton_Behavior_Layout_behavior_autoHide
      */
@@ -10522,28 +10522,28 @@ public final class R {
         0x7f030037
       };
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#behavior_autoHide}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#behavior_autoHide}
      * attribute's value can be found in the {@link #FloatingActionButton_Behavior_Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:behavior_autoHide
+     * @attr name com.snakes_ladder.dice:behavior_autoHide
      */
     public static final int FloatingActionButton_Behavior_Layout_behavior_autoHide=0;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#backgroundTint}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#backgroundTint}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:backgroundTint
+     * @attr name com.snakes_ladder.dice:backgroundTint
      */
     public static final int FloatingActionButton_backgroundTint=0;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#backgroundTintMode}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#backgroundTintMode}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -10559,11 +10559,11 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:backgroundTintMode
+     * @attr name com.snakes_ladder.dice:backgroundTintMode
      */
     public static final int FloatingActionButton_backgroundTintMode=1;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#borderWidth}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#borderWidth}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10572,11 +10572,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:borderWidth
+     * @attr name com.snakes_ladder.dice:borderWidth
      */
     public static final int FloatingActionButton_borderWidth=2;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#elevation}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#elevation}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10585,11 +10585,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:elevation
+     * @attr name com.snakes_ladder.dice:elevation
      */
     public static final int FloatingActionButton_elevation=3;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#fabSize}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#fabSize}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -10603,11 +10603,11 @@ public final class R {
      * <tr><td>normal</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:fabSize
+     * @attr name com.snakes_ladder.dice:fabSize
      */
     public static final int FloatingActionButton_fabSize=4;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#pressedTranslationZ}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#pressedTranslationZ}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10616,28 +10616,28 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:pressedTranslationZ
+     * @attr name com.snakes_ladder.dice:pressedTranslationZ
      */
     public static final int FloatingActionButton_pressedTranslationZ=5;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#rippleColor}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#rippleColor}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:rippleColor
+     * @attr name com.snakes_ladder.dice:rippleColor
      */
     public static final int FloatingActionButton_rippleColor=6;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#useCompatPadding}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#useCompatPadding}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:useCompatPadding
+     * @attr name com.snakes_ladder.dice:useCompatPadding
      */
     public static final int FloatingActionButton_useCompatPadding=7;
     /**
@@ -10647,12 +10647,12 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderAuthority com.snakes_ladders_game_background.dice_tile:fontProviderAuthority}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderCerts com.snakes_ladders_game_background.dice_tile:fontProviderCerts}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderFetchStrategy com.snakes_ladders_game_background.dice_tile:fontProviderFetchStrategy}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderFetchTimeout com.snakes_ladders_game_background.dice_tile:fontProviderFetchTimeout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderPackage com.snakes_ladders_game_background.dice_tile:fontProviderPackage}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderQuery com.snakes_ladders_game_background.dice_tile:fontProviderQuery}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderAuthority com.snakes_ladder.dice:fontProviderAuthority}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderCerts com.snakes_ladder.dice:fontProviderCerts}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderFetchStrategy com.snakes_ladder.dice:fontProviderFetchStrategy}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderFetchTimeout com.snakes_ladder.dice:fontProviderFetchTimeout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderPackage com.snakes_ladder.dice:fontProviderPackage}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderQuery com.snakes_ladder.dice:fontProviderQuery}</code></td><td></td></tr>
      * </table>
      * @see #FontFamily_fontProviderAuthority
      * @see #FontFamily_fontProviderCerts
@@ -10672,9 +10672,9 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #FontFamilyFont_font com.snakes_ladders_game_background.dice_tile:font}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamilyFont_fontStyle com.snakes_ladders_game_background.dice_tile:fontStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamilyFont_fontWeight com.snakes_ladders_game_background.dice_tile:fontWeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamilyFont_font com.snakes_ladder.dice:font}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamilyFont_fontStyle com.snakes_ladder.dice:fontStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamilyFont_fontWeight com.snakes_ladder.dice:fontWeight}</code></td><td></td></tr>
      * </table>
      * @see #FontFamilyFont_font
      * @see #FontFamilyFont_fontStyle
@@ -10684,7 +10684,7 @@ public final class R {
         0x7f03009a, 0x7f0300a2, 0x7f0300a3
       };
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#font}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#font}
      * attribute's value can be found in the {@link #FontFamilyFont} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10692,11 +10692,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:font
+     * @attr name com.snakes_ladder.dice:font
      */
     public static final int FontFamilyFont_font=0;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#fontStyle}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#fontStyle}
      * attribute's value can be found in the {@link #FontFamilyFont} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -10709,30 +10709,30 @@ public final class R {
      * <tr><td>normal</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:fontStyle
+     * @attr name com.snakes_ladder.dice:fontStyle
      */
     public static final int FontFamilyFont_fontStyle=1;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#fontWeight}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#fontWeight}
      * attribute's value can be found in the {@link #FontFamilyFont} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:fontWeight
+     * @attr name com.snakes_ladder.dice:fontWeight
      */
     public static final int FontFamilyFont_fontWeight=2;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#fontProviderAuthority}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#fontProviderAuthority}
      * attribute's value can be found in the {@link #FontFamily} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:fontProviderAuthority
+     * @attr name com.snakes_ladder.dice:fontProviderAuthority
      */
     public static final int FontFamily_fontProviderAuthority=0;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#fontProviderCerts}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#fontProviderCerts}
      * attribute's value can be found in the {@link #FontFamily} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10740,11 +10740,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:fontProviderCerts
+     * @attr name com.snakes_ladder.dice:fontProviderCerts
      */
     public static final int FontFamily_fontProviderCerts=1;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#fontProviderFetchStrategy}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#fontProviderFetchStrategy}
      * attribute's value can be found in the {@link #FontFamily} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -10757,11 +10757,11 @@ public final class R {
      * <tr><td>blocking</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:fontProviderFetchStrategy
+     * @attr name com.snakes_ladder.dice:fontProviderFetchStrategy
      */
     public static final int FontFamily_fontProviderFetchStrategy=2;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#fontProviderFetchTimeout}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#fontProviderFetchTimeout}
      * attribute's value can be found in the {@link #FontFamily} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
@@ -10774,27 +10774,27 @@ public final class R {
      * <tr><td>forever</td><td>ffffffff</td><td></td></tr>
      * </table>
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:fontProviderFetchTimeout
+     * @attr name com.snakes_ladder.dice:fontProviderFetchTimeout
      */
     public static final int FontFamily_fontProviderFetchTimeout=3;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#fontProviderPackage}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#fontProviderPackage}
      * attribute's value can be found in the {@link #FontFamily} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:fontProviderPackage
+     * @attr name com.snakes_ladder.dice:fontProviderPackage
      */
     public static final int FontFamily_fontProviderPackage=4;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#fontProviderQuery}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#fontProviderQuery}
      * attribute's value can be found in the {@link #FontFamily} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:fontProviderQuery
+     * @attr name com.snakes_ladder.dice:fontProviderQuery
      */
     public static final int FontFamily_fontProviderQuery=5;
     /**
@@ -10806,7 +10806,7 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #ForegroundLinearLayout_android_foreground android:foreground}</code></td><td></td></tr>
      * <tr><td><code>{@link #ForegroundLinearLayout_android_foregroundGravity android:foregroundGravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ForegroundLinearLayout_foregroundInsidePadding com.snakes_ladders_game_background.dice_tile:foregroundInsidePadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ForegroundLinearLayout_foregroundInsidePadding com.snakes_ladder.dice:foregroundInsidePadding}</code></td><td></td></tr>
      * </table>
      * @see #ForegroundLinearLayout_android_foreground
      * @see #ForegroundLinearLayout_android_foregroundGravity
@@ -10858,13 +10858,13 @@ public final class R {
      */
     public static final int ForegroundLinearLayout_android_foregroundGravity=1;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#foregroundInsidePadding}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#foregroundInsidePadding}
      * attribute's value can be found in the {@link #ForegroundLinearLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:foregroundInsidePadding
+     * @attr name com.snakes_ladder.dice:foregroundInsidePadding
      */
     public static final int ForegroundLinearLayout_foregroundInsidePadding=2;
     /**
@@ -10910,10 +10910,10 @@ public final class R {
      * <tr><td><code>{@link #LinearLayoutCompat_android_baselineAligned android:baselineAligned}</code></td><td></td></tr>
      * <tr><td><code>{@link #LinearLayoutCompat_android_baselineAlignedChildIndex android:baselineAlignedChildIndex}</code></td><td></td></tr>
      * <tr><td><code>{@link #LinearLayoutCompat_android_weightSum android:weightSum}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_divider com.snakes_ladders_game_background.dice_tile:divider}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_dividerPadding com.snakes_ladders_game_background.dice_tile:dividerPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild com.snakes_ladders_game_background.dice_tile:measureWithLargestChild}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_showDividers com.snakes_ladders_game_background.dice_tile:showDividers}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LinearLayoutCompat_divider com.snakes_ladder.dice:divider}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LinearLayoutCompat_dividerPadding com.snakes_ladder.dice:dividerPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild com.snakes_ladder.dice:measureWithLargestChild}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LinearLayoutCompat_showDividers com.snakes_ladder.dice:showDividers}</code></td><td></td></tr>
      * </table>
      * @see #LinearLayoutCompat_android_gravity
      * @see #LinearLayoutCompat_android_orientation
@@ -11109,7 +11109,7 @@ public final class R {
      */
     public static final int LinearLayoutCompat_android_weightSum=4;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#divider}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#divider}
      * attribute's value can be found in the {@link #LinearLayoutCompat} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11117,11 +11117,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:divider
+     * @attr name com.snakes_ladder.dice:divider
      */
     public static final int LinearLayoutCompat_divider=5;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#dividerPadding}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#dividerPadding}
      * attribute's value can be found in the {@link #LinearLayoutCompat} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11130,21 +11130,21 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:dividerPadding
+     * @attr name com.snakes_ladder.dice:dividerPadding
      */
     public static final int LinearLayoutCompat_dividerPadding=6;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#measureWithLargestChild}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#measureWithLargestChild}
      * attribute's value can be found in the {@link #LinearLayoutCompat} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:measureWithLargestChild
+     * @attr name com.snakes_ladder.dice:measureWithLargestChild
      */
     public static final int LinearLayoutCompat_measureWithLargestChild=7;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#showDividers}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#showDividers}
      * attribute's value can be found in the {@link #LinearLayoutCompat} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -11159,7 +11159,7 @@ public final class R {
      * <tr><td>none</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:showDividers
+     * @attr name com.snakes_ladder.dice:showDividers
      */
     public static final int LinearLayoutCompat_showDividers=8;
     /**
@@ -11327,16 +11327,16 @@ public final class R {
      * <tr><td><code>{@link #MenuItem_android_numericShortcut android:numericShortcut}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuItem_android_checkable android:checkable}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuItem_android_onClick android:onClick}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_actionLayout com.snakes_ladders_game_background.dice_tile:actionLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_actionProviderClass com.snakes_ladders_game_background.dice_tile:actionProviderClass}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_actionViewClass com.snakes_ladders_game_background.dice_tile:actionViewClass}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_alphabeticModifiers com.snakes_ladders_game_background.dice_tile:alphabeticModifiers}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_contentDescription com.snakes_ladders_game_background.dice_tile:contentDescription}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_iconTint com.snakes_ladders_game_background.dice_tile:iconTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_iconTintMode com.snakes_ladders_game_background.dice_tile:iconTintMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_numericModifiers com.snakes_ladders_game_background.dice_tile:numericModifiers}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_showAsAction com.snakes_ladders_game_background.dice_tile:showAsAction}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_tooltipText com.snakes_ladders_game_background.dice_tile:tooltipText}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_actionLayout com.snakes_ladder.dice:actionLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_actionProviderClass com.snakes_ladder.dice:actionProviderClass}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_actionViewClass com.snakes_ladder.dice:actionViewClass}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_alphabeticModifiers com.snakes_ladder.dice:alphabeticModifiers}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_contentDescription com.snakes_ladder.dice:contentDescription}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_iconTint com.snakes_ladder.dice:iconTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_iconTintMode com.snakes_ladder.dice:iconTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_numericModifiers com.snakes_ladder.dice:numericModifiers}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_showAsAction com.snakes_ladder.dice:showAsAction}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_tooltipText com.snakes_ladder.dice:tooltipText}</code></td><td></td></tr>
      * </table>
      * @see #MenuItem_android_icon
      * @see #MenuItem_android_enabled
@@ -11371,7 +11371,7 @@ public final class R {
         0x7f03010a, 0x7f03012f, 0x7f030181
       };
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#actionLayout}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#actionLayout}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11379,31 +11379,31 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:actionLayout
+     * @attr name com.snakes_ladder.dice:actionLayout
      */
     public static final int MenuItem_actionLayout=13;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#actionProviderClass}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#actionProviderClass}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:actionProviderClass
+     * @attr name com.snakes_ladder.dice:actionProviderClass
      */
     public static final int MenuItem_actionProviderClass=14;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#actionViewClass}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#actionViewClass}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:actionViewClass
+     * @attr name com.snakes_ladder.dice:actionViewClass
      */
     public static final int MenuItem_actionViewClass=15;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#alphabeticModifiers}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#alphabeticModifiers}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -11420,7 +11420,7 @@ public final class R {
      * <tr><td>SYM</td><td>4</td><td></td></tr>
      * </table>
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:alphabeticModifiers
+     * @attr name com.snakes_ladder.dice:alphabeticModifiers
      */
     public static final int MenuItem_alphabeticModifiers=16;
     /**
@@ -11566,28 +11566,28 @@ public final class R {
      */
     public static final int MenuItem_android_visible=4;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#contentDescription}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#contentDescription}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:contentDescription
+     * @attr name com.snakes_ladder.dice:contentDescription
      */
     public static final int MenuItem_contentDescription=17;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#iconTint}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#iconTint}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:iconTint
+     * @attr name com.snakes_ladder.dice:iconTint
      */
     public static final int MenuItem_iconTint=18;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#iconTintMode}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#iconTintMode}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -11604,11 +11604,11 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:iconTintMode
+     * @attr name com.snakes_ladder.dice:iconTintMode
      */
     public static final int MenuItem_iconTintMode=19;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#numericModifiers}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#numericModifiers}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -11625,11 +11625,11 @@ public final class R {
      * <tr><td>SYM</td><td>4</td><td></td></tr>
      * </table>
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:numericModifiers
+     * @attr name com.snakes_ladder.dice:numericModifiers
      */
     public static final int MenuItem_numericModifiers=20;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#showAsAction}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#showAsAction}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -11645,17 +11645,17 @@ public final class R {
      * <tr><td>withText</td><td>4</td><td></td></tr>
      * </table>
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:showAsAction
+     * @attr name com.snakes_ladder.dice:showAsAction
      */
     public static final int MenuItem_showAsAction=21;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#tooltipText}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#tooltipText}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:tooltipText
+     * @attr name com.snakes_ladder.dice:tooltipText
      */
     public static final int MenuItem_tooltipText=22;
     /**
@@ -11672,8 +11672,8 @@ public final class R {
      * <tr><td><code>{@link #MenuView_android_headerBackground android:headerBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuView_android_itemBackground android:itemBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuView_android_itemIconDisabledAlpha android:itemIconDisabledAlpha}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuView_preserveIconSpacing com.snakes_ladders_game_background.dice_tile:preserveIconSpacing}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuView_subMenuArrow com.snakes_ladders_game_background.dice_tile:subMenuArrow}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuView_preserveIconSpacing com.snakes_ladder.dice:preserveIconSpacing}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuView_subMenuArrow com.snakes_ladder.dice:subMenuArrow}</code></td><td></td></tr>
      * </table>
      * @see #MenuView_android_windowAnimationStyle
      * @see #MenuView_android_itemTextAppearance
@@ -11778,17 +11778,17 @@ public final class R {
      */
     public static final int MenuView_android_windowAnimationStyle=0;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#preserveIconSpacing}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#preserveIconSpacing}
      * attribute's value can be found in the {@link #MenuView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:preserveIconSpacing
+     * @attr name com.snakes_ladder.dice:preserveIconSpacing
      */
     public static final int MenuView_preserveIconSpacing=7;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#subMenuArrow}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#subMenuArrow}
      * attribute's value can be found in the {@link #MenuView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11796,7 +11796,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:subMenuArrow
+     * @attr name com.snakes_ladder.dice:subMenuArrow
      */
     public static final int MenuView_subMenuArrow=8;
     /**
@@ -11809,13 +11809,13 @@ public final class R {
      * <tr><td><code>{@link #NavigationView_android_background android:background}</code></td><td></td></tr>
      * <tr><td><code>{@link #NavigationView_android_fitsSystemWindows android:fitsSystemWindows}</code></td><td></td></tr>
      * <tr><td><code>{@link #NavigationView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavigationView_elevation com.snakes_ladders_game_background.dice_tile:elevation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavigationView_headerLayout com.snakes_ladders_game_background.dice_tile:headerLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavigationView_itemBackground com.snakes_ladders_game_background.dice_tile:itemBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavigationView_itemIconTint com.snakes_ladders_game_background.dice_tile:itemIconTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavigationView_itemTextAppearance com.snakes_ladders_game_background.dice_tile:itemTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavigationView_itemTextColor com.snakes_ladders_game_background.dice_tile:itemTextColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavigationView_menu com.snakes_ladders_game_background.dice_tile:menu}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavigationView_elevation com.snakes_ladder.dice:elevation}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavigationView_headerLayout com.snakes_ladder.dice:headerLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavigationView_itemBackground com.snakes_ladder.dice:itemBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavigationView_itemIconTint com.snakes_ladder.dice:itemIconTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavigationView_itemTextAppearance com.snakes_ladder.dice:itemTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavigationView_itemTextColor com.snakes_ladder.dice:itemTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavigationView_menu com.snakes_ladder.dice:menu}</code></td><td></td></tr>
      * </table>
      * @see #NavigationView_android_background
      * @see #NavigationView_android_fitsSystemWindows
@@ -11872,7 +11872,7 @@ public final class R {
      */
     public static final int NavigationView_android_maxWidth=2;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#elevation}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#elevation}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11881,11 +11881,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:elevation
+     * @attr name com.snakes_ladder.dice:elevation
      */
     public static final int NavigationView_elevation=3;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#headerLayout}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#headerLayout}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11893,11 +11893,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:headerLayout
+     * @attr name com.snakes_ladder.dice:headerLayout
      */
     public static final int NavigationView_headerLayout=4;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#itemBackground}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#itemBackground}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11905,22 +11905,22 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:itemBackground
+     * @attr name com.snakes_ladder.dice:itemBackground
      */
     public static final int NavigationView_itemBackground=5;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#itemIconTint}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#itemIconTint}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:itemIconTint
+     * @attr name com.snakes_ladder.dice:itemIconTint
      */
     public static final int NavigationView_itemIconTint=6;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#itemTextAppearance}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#itemTextAppearance}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11928,22 +11928,22 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:itemTextAppearance
+     * @attr name com.snakes_ladder.dice:itemTextAppearance
      */
     public static final int NavigationView_itemTextAppearance=7;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#itemTextColor}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#itemTextColor}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:itemTextColor
+     * @attr name com.snakes_ladder.dice:itemTextColor
      */
     public static final int NavigationView_itemTextColor=8;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#menu}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#menu}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11951,7 +11951,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:menu
+     * @attr name com.snakes_ladder.dice:menu
      */
     public static final int NavigationView_menu=9;
     /**
@@ -11963,7 +11963,7 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #PopupWindow_android_popupBackground android:popupBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #PopupWindow_android_popupAnimationStyle android:popupAnimationStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #PopupWindow_overlapAnchor com.snakes_ladders_game_background.dice_tile:overlapAnchor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #PopupWindow_overlapAnchor com.snakes_ladder.dice:overlapAnchor}</code></td><td></td></tr>
      * </table>
      * @see #PopupWindow_android_popupBackground
      * @see #PopupWindow_android_popupAnimationStyle
@@ -11979,7 +11979,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor com.snakes_ladders_game_background.dice_tile:state_above_anchor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor com.snakes_ladder.dice:state_above_anchor}</code></td><td></td></tr>
      * </table>
      * @see #PopupWindowBackgroundState_state_above_anchor
      */
@@ -11987,13 +11987,13 @@ public final class R {
         0x7f03013b
       };
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#state_above_anchor}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#state_above_anchor}
      * attribute's value can be found in the {@link #PopupWindowBackgroundState} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:state_above_anchor
+     * @attr name com.snakes_ladder.dice:state_above_anchor
      */
     public static final int PopupWindowBackgroundState_state_above_anchor=0;
     /**
@@ -12024,13 +12024,13 @@ public final class R {
      */
     public static final int PopupWindow_android_popupBackground=0;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#overlapAnchor}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#overlapAnchor}
      * attribute's value can be found in the {@link #PopupWindow} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:overlapAnchor
+     * @attr name com.snakes_ladder.dice:overlapAnchor
      */
     public static final int PopupWindow_overlapAnchor=2;
     /**
@@ -12040,8 +12040,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #RecycleListView_paddingBottomNoButtons com.snakes_ladders_game_background.dice_tile:paddingBottomNoButtons}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecycleListView_paddingTopNoTitle com.snakes_ladders_game_background.dice_tile:paddingTopNoTitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecycleListView_paddingBottomNoButtons com.snakes_ladder.dice:paddingBottomNoButtons}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecycleListView_paddingTopNoTitle com.snakes_ladder.dice:paddingTopNoTitle}</code></td><td></td></tr>
      * </table>
      * @see #RecycleListView_paddingBottomNoButtons
      * @see #RecycleListView_paddingTopNoTitle
@@ -12050,7 +12050,7 @@ public final class R {
         0x7f03010c, 0x7f03010f
       };
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#paddingBottomNoButtons}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#paddingBottomNoButtons}
      * attribute's value can be found in the {@link #RecycleListView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12059,11 +12059,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:paddingBottomNoButtons
+     * @attr name com.snakes_ladder.dice:paddingBottomNoButtons
      */
     public static final int RecycleListView_paddingBottomNoButtons=0;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#paddingTopNoTitle}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#paddingTopNoTitle}
      * attribute's value can be found in the {@link #RecycleListView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12072,7 +12072,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:paddingTopNoTitle
+     * @attr name com.snakes_ladder.dice:paddingTopNoTitle
      */
     public static final int RecycleListView_paddingTopNoTitle=1;
     /**
@@ -12084,15 +12084,15 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #RecyclerView_android_orientation android:orientation}</code></td><td></td></tr>
      * <tr><td><code>{@link #RecyclerView_android_descendantFocusability android:descendantFocusability}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_fastScrollEnabled com.snakes_ladders_game_background.dice_tile:fastScrollEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_fastScrollHorizontalThumbDrawable com.snakes_ladders_game_background.dice_tile:fastScrollHorizontalThumbDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_fastScrollHorizontalTrackDrawable com.snakes_ladders_game_background.dice_tile:fastScrollHorizontalTrackDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_fastScrollVerticalThumbDrawable com.snakes_ladders_game_background.dice_tile:fastScrollVerticalThumbDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_fastScrollVerticalTrackDrawable com.snakes_ladders_game_background.dice_tile:fastScrollVerticalTrackDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_layoutManager com.snakes_ladders_game_background.dice_tile:layoutManager}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_reverseLayout com.snakes_ladders_game_background.dice_tile:reverseLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_spanCount com.snakes_ladders_game_background.dice_tile:spanCount}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_stackFromEnd com.snakes_ladders_game_background.dice_tile:stackFromEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_fastScrollEnabled com.snakes_ladder.dice:fastScrollEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_fastScrollHorizontalThumbDrawable com.snakes_ladder.dice:fastScrollHorizontalThumbDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_fastScrollHorizontalTrackDrawable com.snakes_ladder.dice:fastScrollHorizontalTrackDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_fastScrollVerticalThumbDrawable com.snakes_ladder.dice:fastScrollVerticalThumbDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_fastScrollVerticalTrackDrawable com.snakes_ladder.dice:fastScrollVerticalTrackDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_layoutManager com.snakes_ladder.dice:layoutManager}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_reverseLayout com.snakes_ladder.dice:reverseLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_spanCount com.snakes_ladder.dice:spanCount}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_stackFromEnd com.snakes_ladder.dice:stackFromEnd}</code></td><td></td></tr>
      * </table>
      * @see #RecyclerView_android_orientation
      * @see #RecyclerView_android_descendantFocusability
@@ -12147,17 +12147,17 @@ public final class R {
      */
     public static final int RecyclerView_android_orientation=0;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#fastScrollEnabled}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#fastScrollEnabled}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:fastScrollEnabled
+     * @attr name com.snakes_ladder.dice:fastScrollEnabled
      */
     public static final int RecyclerView_fastScrollEnabled=2;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#fastScrollHorizontalThumbDrawable}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#fastScrollHorizontalThumbDrawable}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12165,11 +12165,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:fastScrollHorizontalThumbDrawable
+     * @attr name com.snakes_ladder.dice:fastScrollHorizontalThumbDrawable
      */
     public static final int RecyclerView_fastScrollHorizontalThumbDrawable=3;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#fastScrollHorizontalTrackDrawable}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#fastScrollHorizontalTrackDrawable}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12177,11 +12177,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:fastScrollHorizontalTrackDrawable
+     * @attr name com.snakes_ladder.dice:fastScrollHorizontalTrackDrawable
      */
     public static final int RecyclerView_fastScrollHorizontalTrackDrawable=4;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#fastScrollVerticalThumbDrawable}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#fastScrollVerticalThumbDrawable}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12189,11 +12189,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:fastScrollVerticalThumbDrawable
+     * @attr name com.snakes_ladder.dice:fastScrollVerticalThumbDrawable
      */
     public static final int RecyclerView_fastScrollVerticalThumbDrawable=5;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#fastScrollVerticalTrackDrawable}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#fastScrollVerticalTrackDrawable}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12201,46 +12201,46 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:fastScrollVerticalTrackDrawable
+     * @attr name com.snakes_ladder.dice:fastScrollVerticalTrackDrawable
      */
     public static final int RecyclerView_fastScrollVerticalTrackDrawable=6;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#layoutManager}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#layoutManager}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:layoutManager
+     * @attr name com.snakes_ladder.dice:layoutManager
      */
     public static final int RecyclerView_layoutManager=7;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#reverseLayout}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#reverseLayout}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:reverseLayout
+     * @attr name com.snakes_ladder.dice:reverseLayout
      */
     public static final int RecyclerView_reverseLayout=8;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#spanCount}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#spanCount}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:spanCount
+     * @attr name com.snakes_ladder.dice:spanCount
      */
     public static final int RecyclerView_spanCount=9;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#stackFromEnd}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#stackFromEnd}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:stackFromEnd
+     * @attr name com.snakes_ladder.dice:stackFromEnd
      */
     public static final int RecyclerView_stackFromEnd=10;
     /**
@@ -12250,7 +12250,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ScrimInsetsFrameLayout_insetForeground com.snakes_ladders_game_background.dice_tile:insetForeground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ScrimInsetsFrameLayout_insetForeground com.snakes_ladder.dice:insetForeground}</code></td><td></td></tr>
      * </table>
      * @see #ScrimInsetsFrameLayout_insetForeground
      */
@@ -12258,7 +12258,7 @@ public final class R {
         0x7f0300b6
       };
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#insetForeground}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#insetForeground}
      * attribute's value can be found in the {@link #ScrimInsetsFrameLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12269,7 +12269,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:insetForeground
+     * @attr name com.snakes_ladder.dice:insetForeground
      */
     public static final int ScrimInsetsFrameLayout_insetForeground=0;
     /**
@@ -12279,7 +12279,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ScrollingViewBehavior_Layout_behavior_overlapTop com.snakes_ladders_game_background.dice_tile:behavior_overlapTop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ScrollingViewBehavior_Layout_behavior_overlapTop com.snakes_ladder.dice:behavior_overlapTop}</code></td><td></td></tr>
      * </table>
      * @see #ScrollingViewBehavior_Layout_behavior_overlapTop
      */
@@ -12287,7 +12287,7 @@ public final class R {
         0x7f030039
       };
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#behavior_overlapTop}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#behavior_overlapTop}
      * attribute's value can be found in the {@link #ScrollingViewBehavior_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12296,7 +12296,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:behavior_overlapTop
+     * @attr name com.snakes_ladder.dice:behavior_overlapTop
      */
     public static final int ScrollingViewBehavior_Layout_behavior_overlapTop=0;
     /**
@@ -12310,19 +12310,19 @@ public final class R {
      * <tr><td><code>{@link #SearchView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
      * <tr><td><code>{@link #SearchView_android_inputType android:inputType}</code></td><td></td></tr>
      * <tr><td><code>{@link #SearchView_android_imeOptions android:imeOptions}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_closeIcon com.snakes_ladders_game_background.dice_tile:closeIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_commitIcon com.snakes_ladders_game_background.dice_tile:commitIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_defaultQueryHint com.snakes_ladders_game_background.dice_tile:defaultQueryHint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_goIcon com.snakes_ladders_game_background.dice_tile:goIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_iconifiedByDefault com.snakes_ladders_game_background.dice_tile:iconifiedByDefault}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_layout com.snakes_ladders_game_background.dice_tile:layout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_queryBackground com.snakes_ladders_game_background.dice_tile:queryBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_queryHint com.snakes_ladders_game_background.dice_tile:queryHint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_searchHintIcon com.snakes_ladders_game_background.dice_tile:searchHintIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_searchIcon com.snakes_ladders_game_background.dice_tile:searchIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_submitBackground com.snakes_ladders_game_background.dice_tile:submitBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_suggestionRowLayout com.snakes_ladders_game_background.dice_tile:suggestionRowLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_voiceIcon com.snakes_ladders_game_background.dice_tile:voiceIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_closeIcon com.snakes_ladder.dice:closeIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_commitIcon com.snakes_ladder.dice:commitIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_defaultQueryHint com.snakes_ladder.dice:defaultQueryHint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_goIcon com.snakes_ladder.dice:goIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_iconifiedByDefault com.snakes_ladder.dice:iconifiedByDefault}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_layout com.snakes_ladder.dice:layout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_queryBackground com.snakes_ladder.dice:queryBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_queryHint com.snakes_ladder.dice:queryHint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_searchHintIcon com.snakes_ladder.dice:searchHintIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_searchIcon com.snakes_ladder.dice:searchIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_submitBackground com.snakes_ladder.dice:submitBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_suggestionRowLayout com.snakes_ladder.dice:suggestionRowLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_voiceIcon com.snakes_ladder.dice:voiceIcon}</code></td><td></td></tr>
      * </table>
      * @see #SearchView_android_focusable
      * @see #SearchView_android_maxWidth
@@ -12460,7 +12460,7 @@ public final class R {
      */
     public static final int SearchView_android_maxWidth=1;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#closeIcon}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#closeIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12468,11 +12468,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:closeIcon
+     * @attr name com.snakes_ladder.dice:closeIcon
      */
     public static final int SearchView_closeIcon=4;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#commitIcon}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#commitIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12480,21 +12480,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:commitIcon
+     * @attr name com.snakes_ladder.dice:commitIcon
      */
     public static final int SearchView_commitIcon=5;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#defaultQueryHint}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#defaultQueryHint}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:defaultQueryHint
+     * @attr name com.snakes_ladder.dice:defaultQueryHint
      */
     public static final int SearchView_defaultQueryHint=6;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#goIcon}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#goIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12502,21 +12502,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:goIcon
+     * @attr name com.snakes_ladder.dice:goIcon
      */
     public static final int SearchView_goIcon=7;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#iconifiedByDefault}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#iconifiedByDefault}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:iconifiedByDefault
+     * @attr name com.snakes_ladder.dice:iconifiedByDefault
      */
     public static final int SearchView_iconifiedByDefault=8;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#layout}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#layout}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12524,11 +12524,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:layout
+     * @attr name com.snakes_ladder.dice:layout
      */
     public static final int SearchView_layout=9;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#queryBackground}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#queryBackground}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12536,21 +12536,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:queryBackground
+     * @attr name com.snakes_ladder.dice:queryBackground
      */
     public static final int SearchView_queryBackground=10;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#queryHint}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#queryHint}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:queryHint
+     * @attr name com.snakes_ladder.dice:queryHint
      */
     public static final int SearchView_queryHint=11;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#searchHintIcon}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#searchHintIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12558,11 +12558,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:searchHintIcon
+     * @attr name com.snakes_ladder.dice:searchHintIcon
      */
     public static final int SearchView_searchHintIcon=12;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#searchIcon}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#searchIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12570,11 +12570,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:searchIcon
+     * @attr name com.snakes_ladder.dice:searchIcon
      */
     public static final int SearchView_searchIcon=13;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#submitBackground}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#submitBackground}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12582,11 +12582,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:submitBackground
+     * @attr name com.snakes_ladder.dice:submitBackground
      */
     public static final int SearchView_submitBackground=14;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#suggestionRowLayout}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#suggestionRowLayout}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12594,11 +12594,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:suggestionRowLayout
+     * @attr name com.snakes_ladder.dice:suggestionRowLayout
      */
     public static final int SearchView_suggestionRowLayout=15;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#voiceIcon}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#voiceIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12606,7 +12606,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:voiceIcon
+     * @attr name com.snakes_ladder.dice:voiceIcon
      */
     public static final int SearchView_voiceIcon=16;
     /**
@@ -12617,8 +12617,8 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #SnackbarLayout_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SnackbarLayout_elevation com.snakes_ladders_game_background.dice_tile:elevation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SnackbarLayout_maxActionInlineWidth com.snakes_ladders_game_background.dice_tile:maxActionInlineWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SnackbarLayout_elevation com.snakes_ladder.dice:elevation}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SnackbarLayout_maxActionInlineWidth com.snakes_ladder.dice:maxActionInlineWidth}</code></td><td></td></tr>
      * </table>
      * @see #SnackbarLayout_android_maxWidth
      * @see #SnackbarLayout_elevation
@@ -12641,7 +12641,7 @@ public final class R {
      */
     public static final int SnackbarLayout_android_maxWidth=0;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#elevation}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#elevation}
      * attribute's value can be found in the {@link #SnackbarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12650,11 +12650,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:elevation
+     * @attr name com.snakes_ladder.dice:elevation
      */
     public static final int SnackbarLayout_elevation=1;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#maxActionInlineWidth}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#maxActionInlineWidth}
      * attribute's value can be found in the {@link #SnackbarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12663,7 +12663,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:maxActionInlineWidth
+     * @attr name com.snakes_ladder.dice:maxActionInlineWidth
      */
     public static final int SnackbarLayout_maxActionInlineWidth=2;
     /**
@@ -12677,7 +12677,7 @@ public final class R {
      * <tr><td><code>{@link #Spinner_android_popupBackground android:popupBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #Spinner_android_prompt android:prompt}</code></td><td></td></tr>
      * <tr><td><code>{@link #Spinner_android_dropDownWidth android:dropDownWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Spinner_popupTheme com.snakes_ladders_game_background.dice_tile:popupTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Spinner_popupTheme com.snakes_ladder.dice:popupTheme}</code></td><td></td></tr>
      * </table>
      * @see #Spinner_android_entries
      * @see #Spinner_android_popupBackground
@@ -12752,7 +12752,7 @@ public final class R {
      */
     public static final int Spinner_android_prompt=2;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#popupTheme}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#popupTheme}
      * attribute's value can be found in the {@link #Spinner} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12760,7 +12760,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:popupTheme
+     * @attr name com.snakes_ladder.dice:popupTheme
      */
     public static final int Spinner_popupTheme=4;
     /**
@@ -12773,17 +12773,17 @@ public final class R {
      * <tr><td><code>{@link #SwitchCompat_android_textOn android:textOn}</code></td><td></td></tr>
      * <tr><td><code>{@link #SwitchCompat_android_textOff android:textOff}</code></td><td></td></tr>
      * <tr><td><code>{@link #SwitchCompat_android_thumb android:thumb}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_showText com.snakes_ladders_game_background.dice_tile:showText}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_splitTrack com.snakes_ladders_game_background.dice_tile:splitTrack}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_switchMinWidth com.snakes_ladders_game_background.dice_tile:switchMinWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_switchPadding com.snakes_ladders_game_background.dice_tile:switchPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_switchTextAppearance com.snakes_ladders_game_background.dice_tile:switchTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_thumbTextPadding com.snakes_ladders_game_background.dice_tile:thumbTextPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_thumbTint com.snakes_ladders_game_background.dice_tile:thumbTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_thumbTintMode com.snakes_ladders_game_background.dice_tile:thumbTintMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_track com.snakes_ladders_game_background.dice_tile:track}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_trackTint com.snakes_ladders_game_background.dice_tile:trackTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_trackTintMode com.snakes_ladders_game_background.dice_tile:trackTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_showText com.snakes_ladder.dice:showText}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_splitTrack com.snakes_ladder.dice:splitTrack}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_switchMinWidth com.snakes_ladder.dice:switchMinWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_switchPadding com.snakes_ladder.dice:switchPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_switchTextAppearance com.snakes_ladder.dice:switchTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_thumbTextPadding com.snakes_ladder.dice:thumbTextPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_thumbTint com.snakes_ladder.dice:thumbTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_thumbTintMode com.snakes_ladder.dice:thumbTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_track com.snakes_ladder.dice:track}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_trackTint com.snakes_ladder.dice:trackTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_trackTintMode com.snakes_ladder.dice:trackTintMode}</code></td><td></td></tr>
      * </table>
      * @see #SwitchCompat_android_textOn
      * @see #SwitchCompat_android_textOff
@@ -12839,27 +12839,27 @@ public final class R {
      */
     public static final int SwitchCompat_android_thumb=2;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#showText}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#showText}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:showText
+     * @attr name com.snakes_ladder.dice:showText
      */
     public static final int SwitchCompat_showText=3;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#splitTrack}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#splitTrack}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:splitTrack
+     * @attr name com.snakes_ladder.dice:splitTrack
      */
     public static final int SwitchCompat_splitTrack=4;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#switchMinWidth}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#switchMinWidth}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12868,11 +12868,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:switchMinWidth
+     * @attr name com.snakes_ladder.dice:switchMinWidth
      */
     public static final int SwitchCompat_switchMinWidth=5;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#switchPadding}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#switchPadding}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12881,11 +12881,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:switchPadding
+     * @attr name com.snakes_ladder.dice:switchPadding
      */
     public static final int SwitchCompat_switchPadding=6;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#switchTextAppearance}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#switchTextAppearance}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12893,11 +12893,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:switchTextAppearance
+     * @attr name com.snakes_ladder.dice:switchTextAppearance
      */
     public static final int SwitchCompat_switchTextAppearance=7;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#thumbTextPadding}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#thumbTextPadding}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12906,22 +12906,22 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:thumbTextPadding
+     * @attr name com.snakes_ladder.dice:thumbTextPadding
      */
     public static final int SwitchCompat_thumbTextPadding=8;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#thumbTint}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#thumbTint}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:thumbTint
+     * @attr name com.snakes_ladder.dice:thumbTint
      */
     public static final int SwitchCompat_thumbTint=9;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#thumbTintMode}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#thumbTintMode}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -12938,11 +12938,11 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:thumbTintMode
+     * @attr name com.snakes_ladder.dice:thumbTintMode
      */
     public static final int SwitchCompat_thumbTintMode=10;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#track}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#track}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12950,22 +12950,22 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:track
+     * @attr name com.snakes_ladder.dice:track
      */
     public static final int SwitchCompat_track=11;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#trackTint}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#trackTint}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:trackTint
+     * @attr name com.snakes_ladder.dice:trackTint
      */
     public static final int SwitchCompat_trackTint=12;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#trackTintMode}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#trackTintMode}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -12982,7 +12982,7 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:trackTintMode
+     * @attr name com.snakes_ladder.dice:trackTintMode
      */
     public static final int SwitchCompat_trackTintMode=13;
     /**
@@ -13044,22 +13044,22 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #TabLayout_tabBackground com.snakes_ladders_game_background.dice_tile:tabBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabContentStart com.snakes_ladders_game_background.dice_tile:tabContentStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabGravity com.snakes_ladders_game_background.dice_tile:tabGravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabIndicatorColor com.snakes_ladders_game_background.dice_tile:tabIndicatorColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabIndicatorHeight com.snakes_ladders_game_background.dice_tile:tabIndicatorHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabMaxWidth com.snakes_ladders_game_background.dice_tile:tabMaxWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabMinWidth com.snakes_ladders_game_background.dice_tile:tabMinWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabMode com.snakes_ladders_game_background.dice_tile:tabMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabPadding com.snakes_ladders_game_background.dice_tile:tabPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabPaddingBottom com.snakes_ladders_game_background.dice_tile:tabPaddingBottom}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabPaddingEnd com.snakes_ladders_game_background.dice_tile:tabPaddingEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabPaddingStart com.snakes_ladders_game_background.dice_tile:tabPaddingStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabPaddingTop com.snakes_ladders_game_background.dice_tile:tabPaddingTop}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabSelectedTextColor com.snakes_ladders_game_background.dice_tile:tabSelectedTextColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabTextAppearance com.snakes_ladders_game_background.dice_tile:tabTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabTextColor com.snakes_ladders_game_background.dice_tile:tabTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabBackground com.snakes_ladder.dice:tabBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabContentStart com.snakes_ladder.dice:tabContentStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabGravity com.snakes_ladder.dice:tabGravity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabIndicatorColor com.snakes_ladder.dice:tabIndicatorColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabIndicatorHeight com.snakes_ladder.dice:tabIndicatorHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabMaxWidth com.snakes_ladder.dice:tabMaxWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabMinWidth com.snakes_ladder.dice:tabMinWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabMode com.snakes_ladder.dice:tabMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabPadding com.snakes_ladder.dice:tabPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabPaddingBottom com.snakes_ladder.dice:tabPaddingBottom}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabPaddingEnd com.snakes_ladder.dice:tabPaddingEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabPaddingStart com.snakes_ladder.dice:tabPaddingStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabPaddingTop com.snakes_ladder.dice:tabPaddingTop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabSelectedTextColor com.snakes_ladder.dice:tabSelectedTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabTextAppearance com.snakes_ladder.dice:tabTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabTextColor com.snakes_ladder.dice:tabTextColor}</code></td><td></td></tr>
      * </table>
      * @see #TabLayout_tabBackground
      * @see #TabLayout_tabContentStart
@@ -13085,7 +13085,7 @@ public final class R {
         0x7f030157, 0x7f030158, 0x7f030159, 0x7f03015a
       };
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#tabBackground}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#tabBackground}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13093,11 +13093,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:tabBackground
+     * @attr name com.snakes_ladder.dice:tabBackground
      */
     public static final int TabLayout_tabBackground=0;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#tabContentStart}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#tabContentStart}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13106,11 +13106,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:tabContentStart
+     * @attr name com.snakes_ladder.dice:tabContentStart
      */
     public static final int TabLayout_tabContentStart=1;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#tabGravity}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#tabGravity}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -13123,22 +13123,22 @@ public final class R {
      * <tr><td>fill</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:tabGravity
+     * @attr name com.snakes_ladder.dice:tabGravity
      */
     public static final int TabLayout_tabGravity=2;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#tabIndicatorColor}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#tabIndicatorColor}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:tabIndicatorColor
+     * @attr name com.snakes_ladder.dice:tabIndicatorColor
      */
     public static final int TabLayout_tabIndicatorColor=3;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#tabIndicatorHeight}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#tabIndicatorHeight}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13147,11 +13147,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:tabIndicatorHeight
+     * @attr name com.snakes_ladder.dice:tabIndicatorHeight
      */
     public static final int TabLayout_tabIndicatorHeight=4;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#tabMaxWidth}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#tabMaxWidth}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13160,11 +13160,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:tabMaxWidth
+     * @attr name com.snakes_ladder.dice:tabMaxWidth
      */
     public static final int TabLayout_tabMaxWidth=5;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#tabMinWidth}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#tabMinWidth}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13173,11 +13173,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:tabMinWidth
+     * @attr name com.snakes_ladder.dice:tabMinWidth
      */
     public static final int TabLayout_tabMinWidth=6;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#tabMode}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#tabMode}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -13190,11 +13190,11 @@ public final class R {
      * <tr><td>scrollable</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:tabMode
+     * @attr name com.snakes_ladder.dice:tabMode
      */
     public static final int TabLayout_tabMode=7;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#tabPadding}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#tabPadding}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13203,11 +13203,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:tabPadding
+     * @attr name com.snakes_ladder.dice:tabPadding
      */
     public static final int TabLayout_tabPadding=8;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#tabPaddingBottom}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#tabPaddingBottom}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13216,11 +13216,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:tabPaddingBottom
+     * @attr name com.snakes_ladder.dice:tabPaddingBottom
      */
     public static final int TabLayout_tabPaddingBottom=9;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#tabPaddingEnd}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#tabPaddingEnd}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13229,11 +13229,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:tabPaddingEnd
+     * @attr name com.snakes_ladder.dice:tabPaddingEnd
      */
     public static final int TabLayout_tabPaddingEnd=10;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#tabPaddingStart}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#tabPaddingStart}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13242,11 +13242,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:tabPaddingStart
+     * @attr name com.snakes_ladder.dice:tabPaddingStart
      */
     public static final int TabLayout_tabPaddingStart=11;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#tabPaddingTop}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#tabPaddingTop}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13255,22 +13255,22 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:tabPaddingTop
+     * @attr name com.snakes_ladder.dice:tabPaddingTop
      */
     public static final int TabLayout_tabPaddingTop=12;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#tabSelectedTextColor}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#tabSelectedTextColor}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:tabSelectedTextColor
+     * @attr name com.snakes_ladder.dice:tabSelectedTextColor
      */
     public static final int TabLayout_tabSelectedTextColor=13;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#tabTextAppearance}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#tabTextAppearance}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13278,18 +13278,18 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:tabTextAppearance
+     * @attr name com.snakes_ladder.dice:tabTextAppearance
      */
     public static final int TabLayout_tabTextAppearance=14;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#tabTextColor}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#tabTextColor}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:tabTextColor
+     * @attr name com.snakes_ladder.dice:tabTextColor
      */
     public static final int TabLayout_tabTextColor=15;
     /**
@@ -13310,8 +13310,8 @@ public final class R {
      * <tr><td><code>{@link #TextAppearance_android_shadowDy android:shadowDy}</code></td><td></td></tr>
      * <tr><td><code>{@link #TextAppearance_android_shadowRadius android:shadowRadius}</code></td><td></td></tr>
      * <tr><td><code>{@link #TextAppearance_android_fontFamily android:fontFamily}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextAppearance_fontFamily com.snakes_ladders_game_background.dice_tile:fontFamily}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextAppearance_textAllCaps com.snakes_ladders_game_background.dice_tile:textAllCaps}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextAppearance_fontFamily com.snakes_ladder.dice:fontFamily}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextAppearance_textAllCaps com.snakes_ladder.dice:textAllCaps}</code></td><td></td></tr>
      * </table>
      * @see #TextAppearance_android_textSize
      * @see #TextAppearance_android_typeface
@@ -13477,17 +13477,17 @@ public final class R {
      */
     public static final int TextAppearance_android_typeface=1;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#fontFamily}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#fontFamily}
      * attribute's value can be found in the {@link #TextAppearance} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:fontFamily
+     * @attr name com.snakes_ladder.dice:fontFamily
      */
     public static final int TextAppearance_fontFamily=11;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#textAllCaps}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#textAllCaps}
      * attribute's value can be found in the {@link #TextAppearance} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13497,7 +13497,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:textAllCaps
+     * @attr name com.snakes_ladder.dice:textAllCaps
      */
     public static final int TextAppearance_textAllCaps=12;
     /**
@@ -13509,20 +13509,20 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #TextInputLayout_android_textColorHint android:textColorHint}</code></td><td></td></tr>
      * <tr><td><code>{@link #TextInputLayout_android_hint android:hint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_counterEnabled com.snakes_ladders_game_background.dice_tile:counterEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_counterMaxLength com.snakes_ladders_game_background.dice_tile:counterMaxLength}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_counterOverflowTextAppearance com.snakes_ladders_game_background.dice_tile:counterOverflowTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_counterTextAppearance com.snakes_ladders_game_background.dice_tile:counterTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_errorEnabled com.snakes_ladders_game_background.dice_tile:errorEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_errorTextAppearance com.snakes_ladders_game_background.dice_tile:errorTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_hintAnimationEnabled com.snakes_ladders_game_background.dice_tile:hintAnimationEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_hintEnabled com.snakes_ladders_game_background.dice_tile:hintEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_hintTextAppearance com.snakes_ladders_game_background.dice_tile:hintTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_passwordToggleContentDescription com.snakes_ladders_game_background.dice_tile:passwordToggleContentDescription}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_passwordToggleDrawable com.snakes_ladders_game_background.dice_tile:passwordToggleDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_passwordToggleEnabled com.snakes_ladders_game_background.dice_tile:passwordToggleEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_passwordToggleTint com.snakes_ladders_game_background.dice_tile:passwordToggleTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_passwordToggleTintMode com.snakes_ladders_game_background.dice_tile:passwordToggleTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_counterEnabled com.snakes_ladder.dice:counterEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_counterMaxLength com.snakes_ladder.dice:counterMaxLength}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_counterOverflowTextAppearance com.snakes_ladder.dice:counterOverflowTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_counterTextAppearance com.snakes_ladder.dice:counterTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_errorEnabled com.snakes_ladder.dice:errorEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_errorTextAppearance com.snakes_ladder.dice:errorTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_hintAnimationEnabled com.snakes_ladder.dice:hintAnimationEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_hintEnabled com.snakes_ladder.dice:hintEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_hintTextAppearance com.snakes_ladder.dice:hintTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_passwordToggleContentDescription com.snakes_ladder.dice:passwordToggleContentDescription}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_passwordToggleDrawable com.snakes_ladder.dice:passwordToggleDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_passwordToggleEnabled com.snakes_ladder.dice:passwordToggleEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_passwordToggleTint com.snakes_ladder.dice:passwordToggleTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_passwordToggleTintMode com.snakes_ladder.dice:passwordToggleTintMode}</code></td><td></td></tr>
      * </table>
      * @see #TextInputLayout_android_textColorHint
      * @see #TextInputLayout_android_hint
@@ -13573,26 +13573,26 @@ public final class R {
      */
     public static final int TextInputLayout_android_textColorHint=0;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#counterEnabled}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#counterEnabled}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:counterEnabled
+     * @attr name com.snakes_ladder.dice:counterEnabled
      */
     public static final int TextInputLayout_counterEnabled=2;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#counterMaxLength}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#counterMaxLength}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:counterMaxLength
+     * @attr name com.snakes_ladder.dice:counterMaxLength
      */
     public static final int TextInputLayout_counterMaxLength=3;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#counterOverflowTextAppearance}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#counterOverflowTextAppearance}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13600,11 +13600,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:counterOverflowTextAppearance
+     * @attr name com.snakes_ladder.dice:counterOverflowTextAppearance
      */
     public static final int TextInputLayout_counterOverflowTextAppearance=4;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#counterTextAppearance}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#counterTextAppearance}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13612,21 +13612,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:counterTextAppearance
+     * @attr name com.snakes_ladder.dice:counterTextAppearance
      */
     public static final int TextInputLayout_counterTextAppearance=5;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#errorEnabled}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#errorEnabled}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:errorEnabled
+     * @attr name com.snakes_ladder.dice:errorEnabled
      */
     public static final int TextInputLayout_errorEnabled=6;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#errorTextAppearance}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#errorTextAppearance}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13634,31 +13634,31 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:errorTextAppearance
+     * @attr name com.snakes_ladder.dice:errorTextAppearance
      */
     public static final int TextInputLayout_errorTextAppearance=7;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#hintAnimationEnabled}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#hintAnimationEnabled}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:hintAnimationEnabled
+     * @attr name com.snakes_ladder.dice:hintAnimationEnabled
      */
     public static final int TextInputLayout_hintAnimationEnabled=8;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#hintEnabled}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#hintEnabled}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:hintEnabled
+     * @attr name com.snakes_ladder.dice:hintEnabled
      */
     public static final int TextInputLayout_hintEnabled=9;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#hintTextAppearance}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#hintTextAppearance}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13666,21 +13666,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:hintTextAppearance
+     * @attr name com.snakes_ladder.dice:hintTextAppearance
      */
     public static final int TextInputLayout_hintTextAppearance=10;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#passwordToggleContentDescription}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#passwordToggleContentDescription}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:passwordToggleContentDescription
+     * @attr name com.snakes_ladder.dice:passwordToggleContentDescription
      */
     public static final int TextInputLayout_passwordToggleContentDescription=11;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#passwordToggleDrawable}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#passwordToggleDrawable}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13688,32 +13688,32 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:passwordToggleDrawable
+     * @attr name com.snakes_ladder.dice:passwordToggleDrawable
      */
     public static final int TextInputLayout_passwordToggleDrawable=12;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#passwordToggleEnabled}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#passwordToggleEnabled}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:passwordToggleEnabled
+     * @attr name com.snakes_ladder.dice:passwordToggleEnabled
      */
     public static final int TextInputLayout_passwordToggleEnabled=13;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#passwordToggleTint}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#passwordToggleTint}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:passwordToggleTint
+     * @attr name com.snakes_ladder.dice:passwordToggleTint
      */
     public static final int TextInputLayout_passwordToggleTint=14;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#passwordToggleTintMode}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#passwordToggleTintMode}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -13729,7 +13729,7 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:passwordToggleTintMode
+     * @attr name com.snakes_ladder.dice:passwordToggleTintMode
      */
     public static final int TextInputLayout_passwordToggleTintMode=15;
     /**
@@ -13741,33 +13741,33 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #Toolbar_android_gravity android:gravity}</code></td><td></td></tr>
      * <tr><td><code>{@link #Toolbar_android_minHeight android:minHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_buttonGravity com.snakes_ladders_game_background.dice_tile:buttonGravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_collapseContentDescription com.snakes_ladders_game_background.dice_tile:collapseContentDescription}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_collapseIcon com.snakes_ladders_game_background.dice_tile:collapseIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetEnd com.snakes_ladders_game_background.dice_tile:contentInsetEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetEndWithActions com.snakes_ladders_game_background.dice_tile:contentInsetEndWithActions}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetLeft com.snakes_ladders_game_background.dice_tile:contentInsetLeft}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetRight com.snakes_ladders_game_background.dice_tile:contentInsetRight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetStart com.snakes_ladders_game_background.dice_tile:contentInsetStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetStartWithNavigation com.snakes_ladders_game_background.dice_tile:contentInsetStartWithNavigation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_logo com.snakes_ladders_game_background.dice_tile:logo}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_logoDescription com.snakes_ladders_game_background.dice_tile:logoDescription}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_maxButtonHeight com.snakes_ladders_game_background.dice_tile:maxButtonHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_navigationContentDescription com.snakes_ladders_game_background.dice_tile:navigationContentDescription}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_navigationIcon com.snakes_ladders_game_background.dice_tile:navigationIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_popupTheme com.snakes_ladders_game_background.dice_tile:popupTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_subtitle com.snakes_ladders_game_background.dice_tile:subtitle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_subtitleTextAppearance com.snakes_ladders_game_background.dice_tile:subtitleTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_subtitleTextColor com.snakes_ladders_game_background.dice_tile:subtitleTextColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_title com.snakes_ladders_game_background.dice_tile:title}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMargin com.snakes_ladders_game_background.dice_tile:titleMargin}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMarginBottom com.snakes_ladders_game_background.dice_tile:titleMarginBottom}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMarginEnd com.snakes_ladders_game_background.dice_tile:titleMarginEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMarginStart com.snakes_ladders_game_background.dice_tile:titleMarginStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMarginTop com.snakes_ladders_game_background.dice_tile:titleMarginTop}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMargins com.snakes_ladders_game_background.dice_tile:titleMargins}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleTextAppearance com.snakes_ladders_game_background.dice_tile:titleTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleTextColor com.snakes_ladders_game_background.dice_tile:titleTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_buttonGravity com.snakes_ladder.dice:buttonGravity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_collapseContentDescription com.snakes_ladder.dice:collapseContentDescription}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_collapseIcon com.snakes_ladder.dice:collapseIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetEnd com.snakes_ladder.dice:contentInsetEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetEndWithActions com.snakes_ladder.dice:contentInsetEndWithActions}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetLeft com.snakes_ladder.dice:contentInsetLeft}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetRight com.snakes_ladder.dice:contentInsetRight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetStart com.snakes_ladder.dice:contentInsetStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetStartWithNavigation com.snakes_ladder.dice:contentInsetStartWithNavigation}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_logo com.snakes_ladder.dice:logo}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_logoDescription com.snakes_ladder.dice:logoDescription}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_maxButtonHeight com.snakes_ladder.dice:maxButtonHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_navigationContentDescription com.snakes_ladder.dice:navigationContentDescription}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_navigationIcon com.snakes_ladder.dice:navigationIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_popupTheme com.snakes_ladder.dice:popupTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_subtitle com.snakes_ladder.dice:subtitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_subtitleTextAppearance com.snakes_ladder.dice:subtitleTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_subtitleTextColor com.snakes_ladder.dice:subtitleTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_title com.snakes_ladder.dice:title}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMargin com.snakes_ladder.dice:titleMargin}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMarginBottom com.snakes_ladder.dice:titleMarginBottom}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMarginEnd com.snakes_ladder.dice:titleMarginEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMarginStart com.snakes_ladder.dice:titleMarginStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMarginTop com.snakes_ladder.dice:titleMarginTop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMargins com.snakes_ladder.dice:titleMargins}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleTextAppearance com.snakes_ladder.dice:titleTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleTextColor com.snakes_ladder.dice:titleTextColor}</code></td><td></td></tr>
      * </table>
      * @see #Toolbar_android_gravity
      * @see #Toolbar_android_minHeight
@@ -13852,7 +13852,7 @@ public final class R {
      */
     public static final int Toolbar_android_minHeight=1;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#buttonGravity}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#buttonGravity}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -13865,21 +13865,21 @@ public final class R {
      * <tr><td>top</td><td>30</td><td></td></tr>
      * </table>
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:buttonGravity
+     * @attr name com.snakes_ladder.dice:buttonGravity
      */
     public static final int Toolbar_buttonGravity=2;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#collapseContentDescription}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#collapseContentDescription}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:collapseContentDescription
+     * @attr name com.snakes_ladder.dice:collapseContentDescription
      */
     public static final int Toolbar_collapseContentDescription=3;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#collapseIcon}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#collapseIcon}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13887,11 +13887,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:collapseIcon
+     * @attr name com.snakes_ladder.dice:collapseIcon
      */
     public static final int Toolbar_collapseIcon=4;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#contentInsetEnd}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#contentInsetEnd}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13900,11 +13900,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:contentInsetEnd
+     * @attr name com.snakes_ladder.dice:contentInsetEnd
      */
     public static final int Toolbar_contentInsetEnd=5;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#contentInsetEndWithActions}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#contentInsetEndWithActions}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13913,11 +13913,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:contentInsetEndWithActions
+     * @attr name com.snakes_ladder.dice:contentInsetEndWithActions
      */
     public static final int Toolbar_contentInsetEndWithActions=6;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#contentInsetLeft}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#contentInsetLeft}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13926,11 +13926,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:contentInsetLeft
+     * @attr name com.snakes_ladder.dice:contentInsetLeft
      */
     public static final int Toolbar_contentInsetLeft=7;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#contentInsetRight}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#contentInsetRight}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13939,11 +13939,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:contentInsetRight
+     * @attr name com.snakes_ladder.dice:contentInsetRight
      */
     public static final int Toolbar_contentInsetRight=8;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#contentInsetStart}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#contentInsetStart}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13952,11 +13952,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:contentInsetStart
+     * @attr name com.snakes_ladder.dice:contentInsetStart
      */
     public static final int Toolbar_contentInsetStart=9;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#contentInsetStartWithNavigation}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#contentInsetStartWithNavigation}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13965,11 +13965,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:contentInsetStartWithNavigation
+     * @attr name com.snakes_ladder.dice:contentInsetStartWithNavigation
      */
     public static final int Toolbar_contentInsetStartWithNavigation=10;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#logo}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#logo}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13977,21 +13977,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:logo
+     * @attr name com.snakes_ladder.dice:logo
      */
     public static final int Toolbar_logo=11;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#logoDescription}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#logoDescription}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:logoDescription
+     * @attr name com.snakes_ladder.dice:logoDescription
      */
     public static final int Toolbar_logoDescription=12;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#maxButtonHeight}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#maxButtonHeight}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -14000,21 +14000,21 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:maxButtonHeight
+     * @attr name com.snakes_ladder.dice:maxButtonHeight
      */
     public static final int Toolbar_maxButtonHeight=13;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#navigationContentDescription}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#navigationContentDescription}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:navigationContentDescription
+     * @attr name com.snakes_ladder.dice:navigationContentDescription
      */
     public static final int Toolbar_navigationContentDescription=14;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#navigationIcon}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#navigationIcon}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -14022,11 +14022,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:navigationIcon
+     * @attr name com.snakes_ladder.dice:navigationIcon
      */
     public static final int Toolbar_navigationIcon=15;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#popupTheme}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#popupTheme}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -14034,21 +14034,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:popupTheme
+     * @attr name com.snakes_ladder.dice:popupTheme
      */
     public static final int Toolbar_popupTheme=16;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#subtitle}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#subtitle}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:subtitle
+     * @attr name com.snakes_ladder.dice:subtitle
      */
     public static final int Toolbar_subtitle=17;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#subtitleTextAppearance}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#subtitleTextAppearance}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -14056,32 +14056,32 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:subtitleTextAppearance
+     * @attr name com.snakes_ladder.dice:subtitleTextAppearance
      */
     public static final int Toolbar_subtitleTextAppearance=18;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#subtitleTextColor}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#subtitleTextColor}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:subtitleTextColor
+     * @attr name com.snakes_ladder.dice:subtitleTextColor
      */
     public static final int Toolbar_subtitleTextColor=19;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#title}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#title}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:title
+     * @attr name com.snakes_ladder.dice:title
      */
     public static final int Toolbar_title=20;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#titleMargin}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#titleMargin}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -14090,11 +14090,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:titleMargin
+     * @attr name com.snakes_ladder.dice:titleMargin
      */
     public static final int Toolbar_titleMargin=21;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#titleMarginBottom}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#titleMarginBottom}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -14103,11 +14103,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:titleMarginBottom
+     * @attr name com.snakes_ladder.dice:titleMarginBottom
      */
     public static final int Toolbar_titleMarginBottom=22;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#titleMarginEnd}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#titleMarginEnd}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -14116,11 +14116,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:titleMarginEnd
+     * @attr name com.snakes_ladder.dice:titleMarginEnd
      */
     public static final int Toolbar_titleMarginEnd=23;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#titleMarginStart}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#titleMarginStart}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -14129,11 +14129,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:titleMarginStart
+     * @attr name com.snakes_ladder.dice:titleMarginStart
      */
     public static final int Toolbar_titleMarginStart=24;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#titleMarginTop}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#titleMarginTop}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -14142,11 +14142,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:titleMarginTop
+     * @attr name com.snakes_ladder.dice:titleMarginTop
      */
     public static final int Toolbar_titleMarginTop=25;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#titleMargins}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#titleMargins}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -14155,11 +14155,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:titleMargins
+     * @attr name com.snakes_ladder.dice:titleMargins
      */
     public static final int Toolbar_titleMargins=26;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#titleTextAppearance}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#titleTextAppearance}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -14167,18 +14167,18 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:titleTextAppearance
+     * @attr name com.snakes_ladder.dice:titleTextAppearance
      */
     public static final int Toolbar_titleTextAppearance=27;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#titleTextColor}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#titleTextColor}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:titleTextColor
+     * @attr name com.snakes_ladder.dice:titleTextColor
      */
     public static final int Toolbar_titleTextColor=28;
     /**
@@ -14190,9 +14190,9 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #View_android_theme android:theme}</code></td><td></td></tr>
      * <tr><td><code>{@link #View_android_focusable android:focusable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #View_paddingEnd com.snakes_ladders_game_background.dice_tile:paddingEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #View_paddingStart com.snakes_ladders_game_background.dice_tile:paddingStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #View_theme com.snakes_ladders_game_background.dice_tile:theme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #View_paddingEnd com.snakes_ladder.dice:paddingEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #View_paddingStart com.snakes_ladder.dice:paddingStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #View_theme com.snakes_ladder.dice:theme}</code></td><td></td></tr>
      * </table>
      * @see #View_android_theme
      * @see #View_android_focusable
@@ -14212,8 +14212,8 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #ViewBackgroundHelper_android_background android:background}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint com.snakes_ladders_game_background.dice_tile:backgroundTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode com.snakes_ladders_game_background.dice_tile:backgroundTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint com.snakes_ladder.dice:backgroundTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode com.snakes_ladder.dice:backgroundTintMode}</code></td><td></td></tr>
      * </table>
      * @see #ViewBackgroundHelper_android_background
      * @see #ViewBackgroundHelper_backgroundTint
@@ -14238,18 +14238,18 @@ public final class R {
      */
     public static final int ViewBackgroundHelper_android_background=0;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#backgroundTint}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#backgroundTint}
      * attribute's value can be found in the {@link #ViewBackgroundHelper} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:backgroundTint
+     * @attr name com.snakes_ladder.dice:backgroundTint
      */
     public static final int ViewBackgroundHelper_backgroundTint=1;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#backgroundTintMode}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#backgroundTintMode}
      * attribute's value can be found in the {@link #ViewBackgroundHelper} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -14265,7 +14265,7 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:backgroundTintMode
+     * @attr name com.snakes_ladder.dice:backgroundTintMode
      */
     public static final int ViewBackgroundHelper_backgroundTintMode=2;
     /**
@@ -14353,7 +14353,7 @@ public final class R {
      */
     public static final int View_android_theme=0;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#paddingEnd}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#paddingEnd}
      * attribute's value can be found in the {@link #View} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -14362,11 +14362,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:paddingEnd
+     * @attr name com.snakes_ladder.dice:paddingEnd
      */
     public static final int View_paddingEnd=2;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#paddingStart}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#paddingStart}
      * attribute's value can be found in the {@link #View} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -14375,11 +14375,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:paddingStart
+     * @attr name com.snakes_ladder.dice:paddingStart
      */
     public static final int View_paddingStart=3;
     /**
-     * <p>This symbol is the offset where the {@link com.snakes_ladders_game_background.dice_tile.R.attr#theme}
+     * <p>This symbol is the offset where the {@link com.snakes_ladder.dice.R.attr#theme}
      * attribute's value can be found in the {@link #View} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -14387,7 +14387,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.snakes_ladders_game_background.dice_tile:theme
+     * @attr name com.snakes_ladder.dice:theme
      */
     public static final int View_theme=4;
   }
