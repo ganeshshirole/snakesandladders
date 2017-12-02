@@ -25,7 +25,6 @@ class SplashActivity : AppCompatActivity() {
     }
 
     companion object {
-
         private val SPLASH_TIME_OUT: Long = 3000
     }
 }

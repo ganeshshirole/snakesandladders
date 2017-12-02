@@ -20,7 +20,8 @@ class GridAdapter// Provide a suitable constructor (depends on the kind of datas
     private val layoutParams2: RelativeLayout.LayoutParams
     private var player1Position = 1
     private var player2Position = 1
-    private var isPlayer1 = true
+    private val INTERVAL = 400
+    public var isPlayer1 = true
     internal var statusListener: StatusListener
 
     val playerPosition: Int
@@ -111,56 +112,67 @@ class GridAdapter// Provide a suitable constructor (depends on the kind of datas
         if (isPlayer1) {
 
             if (player1Position == 1 && moveCount == 1)
-                movePlayer(newPosition, moveCount, dice_picture)
+                movePlayer(newPosition, moveCount, dice_picture, false)
             else if (player1Position > 1) {
-                movePlayer(newPosition, moveCount, dice_picture)
-            } else {
+                movePlayer(newPosition, moveCount, dice_picture, false)
+            } else if (moveCount != 6) {// Don't switch player if moveCount 6
                 isPlayer1 = false
-                statusListener.status(false)
+                statusListener.status(isPlayer1)
             }
 
         } else {
 
             if (player2Position == 1 && moveCount == 1)
-                movePlayer(newPosition, moveCount, dice_picture)
+                movePlayer(newPosition, moveCount, dice_picture, false)
             else if (player2Position > 1) {
-                movePlayer(newPosition, moveCount, dice_picture)
-            } else {
+                movePlayer(newPosition, moveCount, dice_picture, false)
+            } else if (moveCount != 6) { // Don't switch player if moveCount 6
                 isPlayer1 = true
-                statusListener.status(true)
+                statusListener.status(isPlayer1)
             }
         }
     }
 
-    private fun movePlayer(newPosition: Int, moveCount: Int, dice_picture: ImageView) {
+    private fun movePlayer(newPosition: Int, moveCount: Int, dice_picture: ImageView, isNewPosition: Boolean) {
         dice_picture.isEnabled = false
-        object : CountDownTimer(((moveCount * 400) + 400).toLong(), 400) {
+
+        object : CountDownTimer((((if (isNewPosition) 1 else moveCount) * INTERVAL) + INTERVAL).toLong(), INTERVAL.toLong()) {
+            var counter = 0;
             override fun onTick(millisUntilFinished: Long) {
-                if (isPlayer1) {
-                    if (newPosition > player1Position)
-                        player1Position += 1
+                if (isNewPosition) {
+                    if (isPlayer1)
+                        player1Position = newPosition
+                    else
+                        player2Position = newPosition
+
+                    onFinish()
                 } else {
-                    if (newPosition > player2Position)
+                    if (isPlayer1)
+                        player1Position += 1
+                    else
                         player2Position += 1
+
+                    if (moveCount == counter)
+                        onFinish()
+                    counter += 1
                 }
+
                 notifyDataSetChanged()
             }
 
             override fun onFinish() {
-                if (isPlayer1)
-                    player1Position = newPosition
-                else
-                    player2Position = newPosition
-
-                notifyDataSetChanged()
-
-                if (newPosition == 25)
-                    statusListener.winner(isPlayer1)
-                else
-                    isPlayer1 = !isPlayer1
-
-                statusListener.status(isPlayer1)
-                dice_picture.isEnabled = true
+                cancel()
+                if (newPosition != if (isPlayer1) player1Position else player2Position) {
+                    movePlayer(newPosition, moveCount, dice_picture, true)
+                } else {
+                    if (newPosition == 25)
+                        statusListener.winner(isPlayer1)
+                    else if (moveCount != 6) {// Don't switch player if moveCount 6
+                        isPlayer1 = !isPlayer1
+                        statusListener.status(isPlayer1)
+                    }
+                    dice_picture.isEnabled = true
+                }
             }
         }.start()
     }

@@ -4,7 +4,7 @@ import android.content.Context
 
 object SharedPreferences {
 
-    private val prefName = "dice"
+    private val prefName = "dice_tile"
 
     // Store data in Shared Preference
     fun saveString(context: Context, key: String,

@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Snakes Ladders</string>
+    <string name="win_message">Congrats on your win, congrats on your fearless effort; congrats on your achievements and wish you many congrats for your future. Always have faith in you and have courage to win any challenge that comes your way. Congratulation.</string>
+    <string name="lose_message">Maybe the truth is, there\'s a little bit of loser in all of us. Being happy isn\'t having everything in your life be perfect. Maybe it\'s about stringing together all the little things.</string>
+    <string name="title_activity_main">Play Game</string>
 </resources>
